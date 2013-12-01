@@ -1,44 +1,64 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="/css/reset.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <script type="text/javascript" src="//use.typekit.net/hij2ruv.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <script type="text/javascript" src="js/js-plumb.js"></script>
+    <script>
+    jsPlumb.ready(function() {
+      jsPlumb.Defaults.ConnectionsDetachable = false;
+      jsPlumb.Defaults.PaintStyle = {
+        lineWidth:4,
+        strokeStyle: 'rgba(200,0,0,0.5)'
+      };
+      var common = {
+        endpoint: "Blank",
+        anchors: ["Bottom","Top"]
+      };
+      jsPlumb.connect({source:"bullet-1", target:"bullet-2"}, common);
+      jsPlumb.connect({source:"bullet-2", target:"bullet-3"}, common);
+      jsPlumb.connect({source:"bullet-3", target:"bullet-4"}, common);
+      jsPlumb.repaintEverything();
+    });
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    $(window).resize(function(){
+      jsPlumb.repaintEverything();
+    });
 
-    </head>
-    <body>
+    </script>
+  </head>
+  <body>
+  <header id="page_navigation">
+    <ul class="navigation">
+      <li><a href="">content strategy</a></li>
+      <li><a href="">my projects</a></li>
+      <li><a href="">contented blog</a></li>
+      <li><a href="">hire me</a></li>
+    </ul>
+  </header>
+  
+   <section class="blog">
+      <article>
+      <h2>The Contented Strategy Blog</h2>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+      {{ content }}
+      
+      </article>
+   </section>   
+   <section class="hire_me">
+      <article>
+      <h2>Hire Me</h2>
+      <p>Get in touch so we can talk about what you need. I've given you a rough idea of what I can do, but we'll come up with a package that suits your company and budget.</p>
+      </article>
+   </section>
+  </body> 
 
-          {{ content }}
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
 
-    </body>
-</html>
