@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello"
 date:   2013-12-01 16:37:50
-categories: test
+categories: blog
 ---
 
 
