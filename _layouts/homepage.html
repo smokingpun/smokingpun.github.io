@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8"/>
+    <link rel="stylesheet" href="reset.css" />
+		<link rel="stylesheet" href="style.css" />
+    <script type="text/javascript" src="//use.typekit.net/hij2ruv.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery.jsPlumb-1.5.4.js"></script>
+    <script>
+    jsPlumb.ready(function() {
+      jsPlumb.Defaults.ConnectionsDetachable = false;
+      jsPlumb.Defaults.PaintStyle = {
+        lineWidth:4,
+        strokeStyle: 'rgba(200,0,0,0.5)'
+      };
+      var common = {
+        endpoint: "Blank",
+        anchors: ["Bottom","Top"]
+      };
+      jsPlumb.connect({source:"bullet-1", target:"bullet-2"}, common);
+      jsPlumb.connect({source:"bullet-2", target:"bullet-3"}, common);
+      jsPlumb.connect({source:"bullet-3", target:"bullet-4"}, common);
+      jsPlumb.repaintEverything();
+    });
+
+    $(window).resize(function(){
+      jsPlumb.repaintEverything();
+    });
+
+    </script>
+	</head>
+	<body>
+  <header id="page_navigation">
+    <ul class="navigation">
+      <li><a href="">content strategy</a></li>
+      <li><a href="">my projects</a></li>
+      <li><a href="">contented blog</a></li>
+      <li><a href="">hire me</a></li>
+    </ul>
+  </header>
+  <section class="landing_page">
+    <div class="identity"></div>
+    	<h1>Content Strategy is about making your content – not your company – work harder.</h1>
+  </section>
+  <section class="journey group">
+    <section class="journey_center">
+      <article>
+        <h2>What is Content Strategy?</h2>
+        <p>You're probably here because you've heard people talking about content strategy. A lot of people. And it sounds like a great idea. Who doesn't want content that is user-focused, meaninful and future-friendly? And your own content – well, it's not quite there yet. No problem. You've come to the right place. My name is Hannah Adcock Neil and I'm here to help you do less, better. Here's what I can do:</p>
+      </article>
+     </section>
+    <section class="journey_analysis">
+      <article>
+        <figure id="bullet-1" class="journey-bullet _jsPlumb_endpoint_anchor_">1.</figure>
+        <h2>Analysis and Auditing</h2>
+        <p>You'll tell me what your key business objectives are. I'll analyse your content to see whether it's supporting these objectives and is user-friendly. I'll also do a content audit of your existing material – or part of it at least – to see what your content looks like at the moment.</p>
+      </article>
+    </section>
+    <section class="journey_analytics">
+      <article>
+        <figure id="bullet-2" class="journey-bullet _jsPlumb_endpoint_anchor_">2.</figure>
+        <h2>Analytics</h2>
+        <p>This is where I use Google Analytics, KISSmetrics, Crazy Egg, Topsy – basically, whatever's most relevant and fits your budget – to see what your users are doing. I'll then have a think about why. If you've feeling generous, then we could also so some user-testing at this point.</p>
+      </article>
+    </section>
+    <section class="journey_strategy">
+      <article>
+        <figure id="bullet-3" class="journey-bullet _jsPlumb_endpoint_anchor_">3.</figure>
+        <h2>Strategy</h2>
+        <p>I'll go over the results of my data crunching and anaylsis with you. Then we'll sit down over a cup of tea and develop a plan of action. I'll bring some sugestions to the table – and maybe some cake. You will too. Your content strategy has to be sustainable over the longer-term, which means working out who on your team will need to do what. And whether this is possible in the real world rather than a fantastical universe where everyone is super efficient all of the time. And technology never lets you down. Not ever.</p>
+      </article>
+     </section>
+     <section class="journey_implementation"> 
+      <article>
+        <figure id="bullet-4" class="journey-bullet _jsPlumb_endpoint_anchor_">4.</figure>
+        <h2>Implementation</h2>
+        <p>You'll start implementing your new content strategy. I'll be there to help with training and questions. Then we'll have a sign off meeting and agree how we'll measure the success of your new content strategy. Congratulations! You now have content that is working for its keep.</p>
+        <a class="button_find_out_more" href="">Want to know more? Click here to get in touch</a>
+      </article>
+     </section>
+    </section> 
+    <section class="my_projects">
+    	<article>
+    	<h2>My Projects</h2>
+    	<p>Over the last ten years I’ve worked as a writer, editor, proofreader, researcher and project manager. It's been great: I love working with content. However, I've often worked at the edge of companies, bringing content to the party just as its ending. And in my opinion content doesn't really belong there. It should be the centre of things, a bottle of gin in one hand and someone else's hand in the other. So, when I discovered content strategy in 2013, I was hooked. This was how content should be approached: strategically, creatively, and with real passion. </p>
+      <h3>Qualifications</h3>
+      <p>I have a BA in English from Cambridge University (1999-2002) and a MSc in Global Politics from LSE (2012-2013). This means I'm used to thinking strategically about some pretty complicated material. So, whatever product you're selling or customer base you're targeting, I'll get it.</p>
+    	<a class="button_hire_me" href="">Want me to work for you? Click here to hire me</a>
+    	</article>
+   </section>	
+   <section class="blog">
+    	<article>
+    	<h2>The Contented Strategy Blog</h2>
+    	<p></p>
+    	</article>
+   </section> 	
+   <section class="hire_me">
+    	<article>
+    	<h2>Hire Me</h2>
+    	<p>Get in touch so we can talk about what you need. I've given you a rough idea of what I can do, but we'll come up with a package that suits your company and budget.</p>
+    	</article>
+   </section>
+  </body> 
+
+
+
