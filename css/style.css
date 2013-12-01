@@ -1,0 +1,153 @@
+body {
+	text-align: center;
+	font-family: "museo-sans",sans-serif;
+	font-size: 18px;
+}
+h1
+{
+	margin: 0;
+}
+h2 {
+	display: block;
+	margin: 0;
+	line height: 1em;
+}
+.navigation
+{
+	background-color: rgb(153,24,24);
+	padding: 2% 2%;
+	margin: 0;
+}
+.navigation li {
+	display: inline;
+	list-style: none;
+	margin-right: 2.5em;
+}
+.navigation li a {
+	text-decoration: none;
+	color: rgb(247,247,247);
+
+}
+.landing_page h1 {
+	padding: 12.5% 20%;
+	text-transform: uppercase;
+	text-shadow: 0 1px 3px;
+	font-size: 2.25em;
+	font-weight: 500;
+	color: rgb(247,247,247);
+	background-color: rgb(153,24,24);
+}
+.journey {
+	padding: 6% 10%;
+	background-color: rgb(247,247,247); 
+	font-size: 18px;
+	line-height: 24px;
+}
+
+
+/* clearfix */
+  
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  zoom: 1;
+}
+
+.journey_center {
+	width: 50%;
+	margin: 0 auto;
+}	
+.journey_analysis, .journey_analytics, .journey_strategy, .journey_implementation {
+	clear: both;
+}
+.journey_analysis, .journey_strategy {
+	width: 40%;
+	float: right;
+	padding: 6% 0 0 0;
+}
+.journey_analytics p, .journey_implementation p {	
+	position: relative;
+	z-index: 1;
+	}
+.journey_analysis p, .journey_strategy p {
+	padding-left: 15px;
+}	
+	
+.journey_analytics, .journey_implementation {
+	width: 40%;
+	float: left;
+	padding: 6% 0 0 0;
+}	
+.my_projects {
+	padding: 6% 10%;
+	background-color: rgb(201,209,211);
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.blog {
+	padding: 6% 10%;
+	background-color: rgb(247,247,247);
+	padding-left: 15%;
+	padding-right: 15%;
+}
+.hire_me {
+	padding: 6% 10%;
+	background-color: rgb(153,24,24);
+	color: rgb(247,247,247);
+	padding-left: 15%;
+	padding-right: 15%;
+}
+a.button_hire_me {
+	background-color:rgb(247,247,247);
+	color: black;
+	display: block;
+	width: 35%;
+	margin: auto;
+	padding: 12px 1%;
+	margin-top: 32px;
+	text-decoration: none;
+}
+a.button_find_out_more {
+	background-color:rgb(201,209,211);
+	color: black;
+	display: block;
+	width: 70%;
+	margin: auto;
+	padding: 12px 1%;
+	margin-top: 32px;
+	text-decoration: none;
+	color: rgb(247,247,247);
+}
+
+
+.journey-bullet { position: relative;}
+/*#bullet-1 { right: 250px; }
+#bullet-2 { left: 200px; }
+#bullet-3 { right: 200px; }
+#bullet-4 { left: 200px; }
+*/
+
+svg._jsPlumb_connector path{
+border-radius: 100%;
+stroke: rgb(201,209,211);
+stroke-dasharray: 15px, 21px;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-width: 5px;
+}
+
+figure {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	background-color: rgb(201,209,211);
+	color: rgb(247,247,247);
+	border-radius: 100%;
+
+}
