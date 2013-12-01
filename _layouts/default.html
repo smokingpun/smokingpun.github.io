@@ -6,33 +6,9 @@
     <link rel="stylesheet" href="/css/reset.css" />
     <link rel="stylesheet" href="/css/style.css" />
     <script type="text/javascript" src="//use.typekit.net/hij2ruv.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-
-    <script type="text/javascript" src="js/js-plumb.js"></script>
-    <script>
-    jsPlumb.ready(function() {
-      jsPlumb.Defaults.ConnectionsDetachable = false;
-      jsPlumb.Defaults.PaintStyle = {
-        lineWidth:4,
-        strokeStyle: 'rgba(200,0,0,0.5)'
-      };
-      var common = {
-        endpoint: "Blank",
-        anchors: ["Bottom","Top"]
-      };
-      jsPlumb.connect({source:"bullet-1", target:"bullet-2"}, common);
-      jsPlumb.connect({source:"bullet-2", target:"bullet-3"}, common);
-      jsPlumb.connect({source:"bullet-3", target:"bullet-4"}, common);
-      jsPlumb.repaintEverything();
-    });
-
-    $(window).resize(function(){
-      jsPlumb.repaintEverything();
-    });
-
-    </script>
+    
   </head>
   <body>
   <header id="page_navigation">
@@ -46,7 +22,7 @@
   
    <section class="blog">
       <article>
-      <h2>The Contented Strategy Blog</h2>
+      <h1>The Contented Strategy Blog</h1>
 
       {{ content }}
       
