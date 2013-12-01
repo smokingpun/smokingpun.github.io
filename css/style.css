@@ -124,6 +124,9 @@ a.button_find_out_more {
 	text-decoration: none;
 	color: rgb(247,247,247);
 }
+.posts li {
+	list-style: none;
+}
 
 
 .journey-bullet { position: relative;}
