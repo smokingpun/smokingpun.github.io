@@ -124,8 +124,38 @@ a.button_find_out_more {
 	text-decoration: none;
 	color: rgb(247,247,247);
 }
+a.button_return_to_top {
+	background-color:rgb(247,247,247);
+	color: black;
+	display: block;
+	width: 35%;
+	margin: auto;
+	padding: 12px 1%;
+	margin-top: 32px;
+	text-decoration: none;
+}
+.hire_me a {
+	text-decoration: none;
+	color: rgb(247,247,247);
+}
+.blog a {
+	text-decoration: none;
+	color: black;
+}
+.blog a:hover {
+	color: rgb(153,24,24);
+}
+a.button_return_to_top {
+	color: black;
+}
+.journey a:hover, .my_projects a:hover, .hire_me a.button_return_to_top {
+	color: rgb(153,24,24) ;
+}
 .posts li {
 	list-style: none;
+}
+.post p {
+	text-align: left;
 }
 
 
