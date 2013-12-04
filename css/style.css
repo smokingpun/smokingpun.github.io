@@ -142,6 +142,13 @@ a.button_return_to_top {
 	text-decoration: none;
 	color: black;
 }
+.my_projects a {
+	text-decoration: none;
+	color: black;
+}
+.my_projects a:hover {
+	color: rgb(153,24,24);
+}
 .blog a:hover {
 	color: rgb(153,24,24);
 }
@@ -154,10 +161,23 @@ a.button_return_to_top {
 .posts li {
 	list-style: none;
 }
+.posts {
+	text-align: left;
+}
 .post p {
 	text-align: left;
 }
-
+img {
+	display: block;
+	width: 50%;
+	padding: 40px 0;
+} 
+.first_website img {
+	height: 300px;
+}
+.sketch_content_website img {
+	height: 600px;
+}
 
 .journey-bullet { position: relative;}
 /*#bullet-1 { right: 250px; }
