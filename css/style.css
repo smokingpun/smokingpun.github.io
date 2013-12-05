@@ -149,13 +149,10 @@ a.button_return_to_top {
 .my_projects a:hover {
 	color: rgb(153,24,24);
 }
-.blog a:hover {
-	color: rgb(153,24,24);
-}
 a.button_return_to_top {
 	color: black;
 }
-.journey a:hover, .my_projects a:hover, .hire_me a.button_return_to_top {
+.blog a:hover, .journey a:hover, .my_projects a:hover, .hire_me a.button_return_to_top:hover {
 	color: rgb(153,24,24) ;
 }
 .posts li {
@@ -164,7 +161,7 @@ a.button_return_to_top {
 .posts {
 	text-align: left;
 }
-.post p {
+.my_projects p, .post p {
 	text-align: left;
 }
 img {
