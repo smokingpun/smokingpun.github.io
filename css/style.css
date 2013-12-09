@@ -12,9 +12,6 @@ h2 {
 	margin: 0;
 	line height: 1em;
 }
-a button {
-	text-decoration: none;
-}
 .navigation
 {
 	background-color: rgb(153,24,24);
@@ -115,8 +112,10 @@ a.button_hire_me {
 	width: 35%;
 	margin: auto;
 	padding: 12px 1%;
-	margin-top: 32px;
-	text-decoration: none;
+	margin-top: 32px;	
+}
+.hire_me p a {
+	text-decoration: underline;
 }
 a.button_find_out_more {
 	background-color:rgb(153,24,24);
@@ -170,6 +169,12 @@ a.button_return_to_top {
 }
 .posts {
 	text-align: left;
+}
+.posts a {
+	text-decoration: underline;
+}
+.post a {
+	text-decoration: underline;
 }
 .my_projects p, .post p {
 	text-align: left;
