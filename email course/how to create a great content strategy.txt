@@ -1,0 +1,188 @@
+
+
+How to create a great content strategy
+
+* Three reasons customers don't engage with your content
+[too much content on the home page, particularly too much copy; it's not responsive so looks horrible on their mobile; your navigation is confusing]
+
+* How to talk to people rather than broadcast at them
+[tone of voice]
+
+*Bringing your content under control
+[content audit]
+[soft sell]
+
+* How to ensure brand consistency
+[style guide, pathways for content production, key business objectives]
+
+* Understanding what your users are doing
+[analytics, moving beyond Google Analytics. Ask the right question to start with. Track sales funnels.]
+
+*Understanding who your users are
+[interpretation: drilling down into the data]
+[hard sell]
+
+* Future-proofing your content
+[responsive design, rss/APIs, chnking content, etc]
+
+* Creating a content strategy that will continue to work
+[be realistic – it takes time and experience. Ensure buy in at all levels.]
+[soft sell]
+
+
+
+##Two Reasons Why Customers Don't Engage with Your Content
+
+There are two main reasons why customers don't engage with your content. If you can overcome these and make your content more user-friendly your conversion rate should increase dramatically. Let's go over these one by one.
+
+###Your homepage – or indeed any page – has too much copy
+
+You've been told that content marketing works. That you need to engage with customers; show what your product or service can do; answer your users' questions; and look credible and trustworthy as well. This isn't bad advice at all. It just doesn't work very well if you try to do it all at once, in words. The result is a page that makes your user's head hurt as they try and work out what information is relevant to them and what isn't. And most users won't stick around long enough to enter your sales funnel. They'll go to a competitor who gives them what they need to know when they need to know it. 
+
+How can you tell if your site has too much unstructured copy? Well, there are a few simple tests: do you need to have a small font size for paragraph text? Does your site look a bit squashed up and lacking in white space? Do you use quite a few h2 or h3 tags to deliver content that seems to be of equal importance? Does your site have obviously more copy than visuals? If the answer to any of these questions is yes then you need to consider slimming down your copy. Think about your typical user – or typical users – and put yourself in their place. What do they really need to know and when do they need to know it? If you have the time, A/B test different landing pages. You might be surprised by the results.
+
+A site that I think is good at prioritising content is Treetop Asset Management: http://www.treetopam.com/en/. The site is credible, approachable and user-friendly. There's a good balance between text and visuals. It's not perfect (I'm not a fan of the sliding graphics) but if you try googling other asset management companies you'll really appreciate how user-friendly Treetop are in comparison! By the way, I'm not friends with the management or anything. I just came across the site and saved it to Pocket because I liked it. Good content is memorable. 
+
+###Your Navigation is Confusing
+
+Navigation might not seem like a content issue. After all, maybe it was decided by your developers a few years ago. And buttons only contain a word or so anyway, right? Perhaps, but all content is important. First off, navigation is a content issue. It guides your user to the information they need when they need it. It also acts as a call to action. Thoughtbot uses "want us to work for you? click here to hire us" and "see plans and pricing for Thoughtbot Prime" buttons rather than a variation on "click here for more information". I also like their header navigation: "our team" works better than "about us" for example. It sounds a bit more inclusive, doesn't it? And a  bit less like the title of a kids's short story competition. 
+
+Have a look at your links and buttons and make sure they are punchy enough; that they act as a call to action. If you have the time, do some user testing. Get someone who is new to your site to talk you through their thoughts and experiences. What seems obvious to you – as a content creator – might not be so obvious to a first time user. 
+
+
+
+
+
+##How to Talk to People Rather than Broadcast at Them
+
+It's hard to get tone of voice right. It helps though if you think of your users as individuals rather than as a group. Your job is to talk to each of them. It's not to talk about you; because everyone knows what happens to that guy at the party with the big mouth. Everyone knows what he thinks. They just couldn't give a damn.
+
+###A conversational style can get results
+
+You know this matters when Obama can put 'hey' in the subject line of one of his campaign emails and get great results (http://getpocket.com/a/read/495409739). A conversational style doesn't use jargon (no 'going forwards' I beg you). It uses fairly short, uncomplicated sentences. It treats users as friends or as potential friends. The advantage of this style is that users tend to like it. They can understand what you are saying, which is always good. They also feel like you're treating them as a person rather than a number or a walking wallet. 
+
+###But don't get carried away!
+
+A conversational style can get a bit of a bad rap though, for good reason. Who hasn't felt irritated that their soft drink or chocolate desert wants you to be their best friend or co-conspirator? I nearly stopped buying Ga chocolate desert recently because after a redesign their content just felt a bit silly; and it made me feel silly too. Try and strike a balance between being relaxed and informal, but also saying something meaningful. And be realistic about social media. If you ask too much then people will, quite rightly, take the piss. Do you know what happened when McDonald's sponsored the hashtag #McDStories in January 2012? (http://www.businessinsider.com/the-top-10-corporate-social-media-disasters-2013-11#ixzz2mhDgyGOT). Instead of 'positive stories' they got a load of hassle. Like no one saw that one coming!
+
+###Talking to your users
+
+You've got a product to sell. You want people to buy it. This doesn't mean though that your site and social media should be one big shout out about you. If you shout then people might hear. But will they care? Possibly not. What you need to think about is making sure your content is user-friendly as well as persuasive. This means that you are helping your user to understand something or to do something. When I was designing my content strategy website I thought: my users might not know what a content strategist does. Why should they? Content strategists rarely agree about it among themselves. So I created a narrative pathway to try and explain what content strategy was about ().
+
+
+##Bringing your content under control
+
+It's hard to keep your content under control. After all, you have a lot of different people involved in content production, right from your CEO down to your social media intern. If someone asks about your content strategy you might say "what strategy?'. Your content is expanding so quickly that you can't keep track of what's being published every week, let alone editing or archiving old content. It doesn't have to be this way though.
+
+###Do more with less
+Having a good content strategy isn't about having more content. It's about doing more with less. Instead of writing another blog post or extended product description or 'frequently asked questions' section – stop. Give yourself time instead to appraise what content you already have and whether it's doing its job. You can increase your conversions simply by making your existing content better. You know that product that's been out of stock for 5 months? Why don't you point customers to similar products instead? Or change suppliers. 
+
+###Do a content audit
+This is the best way to appraise your existing content. It sounds a bit scary; like something devised by the Inland Revenue. However, the time and effort will be worth it. Fire up a spreadsheet or whatever you prefer and start listing your webpages. Give each page an ID so you can refer to them; describe what content you have on that page; analyse tone of voice and how well the content conforms to key business objectives. This way you know not only what content you have, but whether it is any good. If the thought of going through your billions of pages fills you with (justifiable) horror, then just take a sample instead. This should at least give you an idea of how much work you have to do in the future. 
+
+###Be brave
+In the literary consultancy world the process of getting rid of unnecessary padding is called 'killing your darlings'. It's something that even experienced authors struggle with. You've spent precious time (or money) crafting all that copy. Why on earth would you bin it? However, lean copy works better. Your users will be more swiftly guided through your sales tunnel. They are also more likely to enter it in the first place. Nobody likes landing on a page full of outdated or flabby content. It makes you think: these guys don't care enough. No matter what page your user is on, make sure that they can quickly find the information they need. 
+
+###Finding the time
+Sure you're persuaded that a content audit sounds like a good plan but you don't have time. Or anyone with enough experience. After all, you need someone to consistently appraise whether each page conforms to house style and to key business objectives. This might be asking a bit much of a junior member of your team. If so, consider asking someone with more experience to take on the job or consider employing a freelance content strategist. 
+
+
+##How to Ensure Brand Consistency
+
+You've done a content audit. You've edited relevant pages and deleted others. You're all set. Apart from you're not quite sure how to prevent a repeat in a year's time. How can you make sure that your content – and its creators – work together?
+
+
+###Sticking to a Style Guide
+
+You might already have one of these, but the question is, does every content producer in your team know about it? Or stick to it? If they don't, ask yourself why. Is your style guide easy to understand? Is it detailed enough to be useful but not so long that your co-workers lose hope and interest by the end of page four? Do you provide examples rather than just telling people what they should do? If the answer is yes, then ask yourself instead: do your co-workers need a bit more training? Or are you asking people to do something outside their comfort zone or level of experience? Content production isn't something that everyone can do if they try hard enough. You might need to employ an experienced freelancer instead.
+
+###Deciding who does what
+
+In the brave new world of HTML5 we're used to the idea that everyone is a content producer. This approach can be great; but it needs a few tweaks for the world of business. If you are too free and easy with who produces what then nobody really knows who is producing or should be producing specific kinds of content. As a result, content gets put out without being checked properly, or without interesting people being consulted, or without checking what someone else is doing – and hey, they've been working on almost the same thing! Try and decide on certain pathways for content production that leaves plenty of room for collaboration but also ensures a degree of quality control.
+
+###Key business objectives
+
+All content should support these, but what are they? Well, they are unique to each business (to state the blindingly obvious). However, they are probably not that two-page mission statement or that ernest 'about us' paragraph that one of your senior people insisted was included. Get a representative sample of your team in one room and hammer this out. There will be lots of disagreement, but hopefully lots of good suggestions too. Boil down what everyone says. If you can't write your key business objectives on a post-it note you're not trying hard enough. 
+
+
+
+##Understanding what your users are doing
+
+A good content strategy is not just about whether your users 'get' what you're doing. It's also about whether you 'get' what they want. And how do you know? A great way to work out what your users are doing is to track their behaviour. If you have a high bounce rate on your homepage, for example, then maybe you need to change your content to something that users are more interested in. Or change your business. 
+
+###Analytics software
+
+You've been using Google Analytics for years. Fine. Just be aware that there are lots of other great options out there that help you do things that Google Analytics doesn't – or at least doesn't do very well. For example, you've worked out that your landing page needs to be changed. You think about doing some A/B testing. Great! But you'd love to be able to actually visualise how users see and interact with your new pages. No problem: this is what Crazy Egg is particularly good at. Their service costs money, but not a lot. It might well be worth it. Plus their visualisations go down well with management and with people who don't really like figures very much.
+
+###Asking the right questions
+
+An easy trap to fall into with doing analytics is to start doing them – and then get lost. It's like entering a maze from which, on occasion, it feels like there is no escape. To stop this happening, ask yourself the right questions at the start. What do you want to find out? And just remind yourself again – why? 
+
+
+
+##Understanding who your users are
+
+You've already dig down into the data. You know what your users are doing. You now need to work out why. This can be quite difficult. You're going to need to interpret data rather than just observe it. And if you're in the middle of that data then it can be quite hard to be objective. When I was working on my MSc thesis I used software, as well as open sourcing, to analysing how different NGOs constructed poverty. And the results were interesting. I really doubted whether they were what some of these NGOs intended. But sometimes content just doesn't do or say what we think it does. 
+
+###Stepping back
+
+Bearing this in mind, really think about what your content is saying. Ask your users what the think it says. Check your customer enquiries to see what is flagged up as problematic or even misleading. Consider employing a content professional to analyse your content and report back. 
+
+###Bringing it all together
+
+After going to all that trouble of data crunching and interpretation you're probably exhausted. But don't be complacent at this point. Begin to draw together your material so it can form the backbone of your new – or revised – content strategy. How you do this depends on you. If you've employed a content strategist then you can just sit back and sip tea. If not, you might want to open PowerPoint or get our some big sheets of card to mind-map on. 
+
+
+
+##Future-proofing your content
+
+It's hard enough to keep up with what's happening at the moment, let alone with what might happen in the future. But you'll kick yourself if you don't at least have a go. Internet enabled devices are going to keep multiplying. In some countries it looks like users are skipping computers and jumping straight to smart phones. 
+
+
+###Your Site Doesn't Work Cross-Channel
+
+In the good old days you could dump content into fixed-sized buckets, confident that most people would have roughly the same sized screen. Or at least you could, and almost get away with it. These days, you can't. People use phones, tablets and TVs to access your content. And if it looks horrible on their device then they won't enter your sales funnel – why should they? 
+
+I can't offer you a magic bullet for optimising your content on different devices. It's still not easy. People can't decide what's best, and that's just the professionals. They've come up with apps, responsive websites, mobile sites… it's plain confusing. However, you can't afford to stand on the sidelines. Seventy-two percent of people in the UK own a smartphone (http://mobilemarketingmagazine.com/7-10-people-uk-now-own-smartphone/#F7la2MRG0c0C5hTT.99). Nearly a fifth of the adult population of the uK owns a tablet. And they use them for everything – don't fall into the trap of thinking that mobile or tablet users do certain things while desktop users do something different. 
+
+###Your choices
+
+You've really got two choices at this point: try and identify what content on your main site can travel and then divide it into semantically meaningful chunks. This just means if you are listing an event, for example, the location, date and body text belong in different fields. That way you can push it out using an API or RSS. Your other choice is to take this opportunity to develop a future-proof content strategy that applies to all your content. This will take longer, but should leave you ready to face the future with a cheerful smile rather than a worried frown.
+
+
+
+##Creating a Content Strategy that will continue to work 
+
+Creating a content strategy isn't something you do once and forget. It's something you need to keep thinking about and talking about. You know that new production manager? Get her take on your content strategy. And that intern? get him to sit down and really think about it – with the added benefit he'll be really hooked in to your business goals by the end. 
+
+###Be realistic
+
+A good content strategy takes account not just of what should be done but what it's actually possible to do. You need high-level buy in and a 'big picture' approach. But you also need to get down and talk to the people who are producing content on a daily basis. Can they produce what you've assumed they can? Will they hate you by the end of the week? Do they even have the right skill set? 
+
+###Be enthusiastic
+
+Good content is worth getting excited about. And if you're excited by it, the odds are your users will be too. You know that short video you produced instead of a page of copy: that you showed your mum because you were proud of it? That's what users are enthusiastic about too.
+
+###Be prepared to keep spending some money
+
+Good content is worth spending money on. It leads to conversions because you give your user what they need. Advertising and marketing can do so much, but if a potential user lands on one of your pages and think 'yikes!' then that's just money down the drain. Be prepared to invest in staff who are helping to keep your content strategy on track and relevant. Or invest in a content strategist to cast a fresh eye over your content and suggest improvements. 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

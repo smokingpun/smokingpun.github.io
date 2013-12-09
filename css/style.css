@@ -12,6 +12,9 @@ h2 {
 	margin: 0;
 	line height: 1em;
 }
+a button {
+	text-decoration: none;
+}
 .navigation
 {
 	background-color: rgb(153,24,24);
@@ -58,9 +61,11 @@ h2 {
 .group {
   zoom: 1;
 }
-
+.journey p {
+	text-align: left;
+}
 .journey_center {
-	width: 50%;
+	width: 60%;
 	margin: 0 auto;
 }	
 .journey_analysis, .journey_analytics, .journey_strategy, .journey_implementation {
@@ -114,14 +119,16 @@ a.button_hire_me {
 	text-decoration: none;
 }
 a.button_find_out_more {
-	background-color:rgb(201,209,211);
-	color: black;
+	background-color:rgb(153,24,24);
 	display: block;
 	width: 70%;
 	margin: auto;
 	padding: 12px 1%;
 	margin-top: 32px;
 	text-decoration: none;
+	color: rgb(205,148,148);
+}
+a.button_find_out_more:hover {
 	color: rgb(247,247,247);
 }
 a.button_return_to_top {
@@ -152,7 +159,10 @@ a.button_return_to_top {
 a.button_return_to_top {
 	color: black;
 }
-.blog a:hover, .journey a:hover, .my_projects a:hover, .hire_me a.button_return_to_top:hover {
+.hire_me p a:hover {
+	color: rgb(247,247,247)
+}
+.blog a:hover, .my_projects a:hover, .hire_me a.button_return_to_top:hover {
 	color: rgb(153,24,24) ;
 }
 .posts li {
@@ -174,6 +184,10 @@ img {
 }
 .sketch_content_website img {
 	height: 600px;
+}
+.navigation li span {
+	color: rgb(247,247,247);
+	opacity: 0.6;
 }
 
 .journey-bullet { position: relative;}
