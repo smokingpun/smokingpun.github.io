@@ -220,3 +220,20 @@ figure {
 	border-radius: 100%;
 
 }
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+.social_buttons a:hover {
+	color: rgb(0,172,238);
+}
+.social_buttons {
+	font-size: 36px;
+	list-style: none;
+}
