@@ -26,7 +26,11 @@ h2 {
 .navigation li a {
 	text-decoration: none;
 	color: rgb(247,247,247);
-
+	opacity: 0.9;
+}
+.navigation li a:hover {
+	color:rgb(247,247,247);
+	opacity: 1;
 }
 .landing_page h1 {
 	padding: 12.5% 20%;
@@ -116,6 +120,11 @@ a.button_hire_me {
 }
 .hire_me p a {
 	text-decoration: underline;
+	opacity: 0.9;
+}
+.hire_me p a:hover {
+	color: rgb(247,247,247);
+	opacity: 1;
 }
 a.button_find_out_more {
 	background-color:rgb(153,24,24);
@@ -230,10 +239,19 @@ figure {
     position: absolute;
     width: 1px;
 }
+.social_buttons li {
+	display: inline;
+}
+.social_buttons a {
+	color: rgb(247,247,247);
+	opacity: 0.8;
+}
 .social_buttons a:hover {
-	color: rgb(0,172,238);
+	color: rgb(247,247,247);
+	opacity: 1.0;
 }
 .social_buttons {
 	font-size: 36px;
 	list-style: none;
+	padding: 0;
 }
