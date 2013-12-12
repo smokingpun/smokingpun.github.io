@@ -116,7 +116,8 @@ a.button_hire_me {
 	width: 35%;
 	margin: auto;
 	padding: 12px 1%;
-	margin-top: 32px;	
+	margin-top: 32px;
+	font-weight: 500;	
 }
 .hire_me p a {
 	text-decoration: underline;
@@ -148,6 +149,7 @@ a.button_return_to_top {
 	padding: 12px 1%;
 	margin-top: 32px;
 	text-decoration: none;
+	font-weight: 500;
 }
 .hire_me a {
 	text-decoration: none;
