@@ -267,3 +267,6 @@ figure {
 	list-style: none;
 	padding: 0;
 }
+a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
+	border-radius: 5px;
+}
