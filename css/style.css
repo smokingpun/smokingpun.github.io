@@ -84,7 +84,7 @@ h2 {
 	float: right;
 	padding: 6% 0 0 0;
 }
-.journey_analytics p, .journey_implementation p {	
+.journey_analytics p, .journey_implementation p, .journey_analysis p, .journey_analysis h2 {	
 	position: relative;
 	z-index: 1;
 	}
@@ -139,7 +139,7 @@ a.button_find_out_more {
 	display: block;
 	width: 70%;
 	margin: auto;
-	padding: 12px 1%;
+	padding: 12px 4%;
 	margin-top: 32px;
 	text-decoration: none;
 	color: rgb(205,148,148);
@@ -254,7 +254,7 @@ figure {
 .social_buttons li {
 	display: inline;
 }
-.social_buttons a {
+.social_buttons a {-
 	color: rgb(247,247,247);
 	opacity: 0.8;
 }
