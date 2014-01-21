@@ -288,7 +288,7 @@ select,
 textarea {
     font-family: inherit; /* 1 */
     font-size: 100%; /* 2 */
-    margin: 0; /* 3 */
+    /*margin: 0; */
 }
 
 /**

@@ -1,3 +1,5 @@
+
+
 body {
 	text-align: center;
 	font-family: "museo-sans",sans-serif;
@@ -272,5 +274,70 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	border-radius: 5px;
 }
 .ck_embed_form {
-	margin-top: 60px;
+	margin-top: 60px;	
+}
+
+#convert_kit_form .vertical {
+		display: none;
+	}
+	#convert_kit_form .horizontal {
+		display: block;
+	}
+
+/*media query for serving smaller viewports*/
+
+@media screen and (max-width: 700px) {
+
+	body {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.journey p {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.journey_center, .journey_analysis, .journey_analytics, .journey_strategy, .journey_implementation, .blog, .hire_me {
+		width: inherit;
+		padding: none;
+	}
+	ul .posts {
+		padding: none;
+		width: inherit;
+	}
+
+	.landing_page h1 {
+		font-size: 1.5em;
+	}
+	h1 {
+		line-height: 26px;
+	}
+
+	h2 {
+		font-size: 18px;
+	}
+
+	a.button_hire_me, a.button_find_out_more, a.button_return_to_top {
+		width: 90%;
+	}
+	#convert_kit_form .vertical {
+		display: block;
+	}
+	#convert_kit_form .horizontal {
+		display: none;
+	}
+
+/*	#convert_kit_form .ck_horizontal_subscription_form {
+		width: 90%;
+	}
+	#convert_kit_form .ck_horizontal_subscription_form .ck_embed_form_content {
+		float: none;
+		width: 100%;
+
+	}
+	#convert_kit_form .ck_horizontal_subscription_form .ck_subscribe_form{
+		float: none;
+		width: 100%;
+	}*/
+
 }
