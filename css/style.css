@@ -13,7 +13,7 @@ h1
 h2 {
 	display: block;
 	margin: 0;
-	line height: 1em;
+	line-height: 1em;
 }
 .navigation
 {
@@ -59,6 +59,11 @@ h2 {
   content: "";
   display: table;
 }
+
+
+
+
+
 .group:after {
   clear: both;
 }
@@ -144,6 +149,7 @@ a.button_find_out_more {
 	margin: auto;
 	padding: 12px 4%;
 	margin-top: 32px;
+	margin-bottom: 32px;
 	text-decoration: none;
 	color: rgb(205,148,148);
 }
@@ -297,17 +303,13 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		font-size: 16px;
 		line-height: 20px;
 	}
-	.journey_center, .journey_analysis, .journey_analytics, .journey_strategy, .journey_implementation, .blog, .hire_me {
-		width: inherit;
-		padding: none;
-	}
-	ul .posts {
-		padding: none;
+	.journey_center, .journey_analysis, .journey_analytics, .journey_strategy, .journey_implementation {
 		width: inherit;
 	}
 
 	.landing_page h1 {
 		font-size: 1.5em;
+		padding: 12.5% 15%;
 	}
 	h1 {
 		line-height: 26px;
@@ -315,6 +317,11 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 
 	h2 {
 		font-size: 18px;
+	}
+
+	.blog, .blog .posts, .my_projects, .hire_me {
+		padding: 4% 3%;
+		width: inherit;
 	}
 
 	a.button_hire_me, a.button_find_out_more, a.button_return_to_top {
