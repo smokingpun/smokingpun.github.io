@@ -277,12 +277,6 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	margin-top: 60px;	
 }
 
-#convert_kit_form .vertical {
-		display: none;
-	}
-	#convert_kit_form .horizontal {
-		display: block;
-	}
 
 /*media query for serving smaller viewports*/
 
@@ -328,12 +322,6 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 
 	a.button_hire_me, a.button_find_out_more, a.button_return_to_top {
 		width: 90%;
-	}
-	#convert_kit_form .vertical {
-		display: block;
-	}
-	#convert_kit_form .horizontal {
-		display: none;
 	}
 
 /*	#convert_kit_form .ck_horizontal_subscription_form {

@@ -12,28 +12,7 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 
     <script type="text/javascript" src="js/js-plumb.js"></script>
-    <script>
-    jsPlumb.ready(function() {
-      jsPlumb.Defaults.ConnectionsDetachable = false;
-      jsPlumb.Defaults.PaintStyle = {
-        lineWidth:4,
-        strokeStyle: 'rgba(200,0,0,0.5)'
-      };
-      var common = {
-        endpoint: "Blank",
-        anchors: ["Bottom","Top"]
-      };
-      jsPlumb.connect({source:"bullet-1", target:"bullet-2"}, common);
-      jsPlumb.connect({source:"bullet-2", target:"bullet-3"}, common);
-      jsPlumb.connect({source:"bullet-3", target:"bullet-4"}, common);
-      jsPlumb.repaintEverything();
-    });
-
-    $(window).resize(function(){
-      jsPlumb.repaintEverything();
-    });
-
-    </script>
+    <script type="text/javascript" src="js/main.js"></script>
 	</head>
 	<body>
   <header id="page_navigation">
@@ -87,12 +66,7 @@
       </article>
      </section>
      <div id="convert_kit_form">
-      <div class='vertical'>
-        {% include convert_kit_vertical_form.html %}
-      </div>
-      <div class='horizontal'>
-        {% include convert_kit_horizontal_form.html %}
-      </div>
+      {% include convert_kit_vertical_form.html %}
      </div>
     </section> 
     <section class="my_projects">
