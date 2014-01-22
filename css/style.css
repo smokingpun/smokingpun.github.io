@@ -308,7 +308,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	}
 
 	.blog, .my_projects, .hire_me, .journey {
-		padding: 4% 4%;
+		padding: 6% 4%;
 		width: inherit;
 	}
 	ul.posts {
