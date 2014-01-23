@@ -110,8 +110,11 @@ h2 {
 	background-color: rgb(201,209,211);
 }
 .blog {
-	padding: 6% 10% 6% 10%;
+	padding: 40px 10% 40px 10%;
 	background-color: rgb(247,247,247);
+}
+.blog h1 {
+	margin-bottom: 30px;
 }
 .hire_me {
 	padding: 6% 10% 6% 10%;
@@ -168,6 +171,9 @@ a.button_return_to_top {
 .blog a {
 	text-decoration: none;
 	color: black;
+}
+.blog h1 {
+	font-size: 32px;
 }
 .my_projects a {
 	text-decoration: none;
@@ -338,9 +344,12 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		width: 90%;
 	}
 
-	.my_projects h2, .blog h2, .hire_me h2, .journey_center {
+	.my_projects h2, .blog h2, .hire_me h2, .journey_center h2 {
 		margin-top: 8px;
 	}	
+	.blog h1{
+		font-size: 20px;
+	}
 
 	/*media query for serving mid-size viewports*/
 
