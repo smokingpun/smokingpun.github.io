@@ -175,6 +175,9 @@ a.button_return_to_top {
 .blog h1 {
 	font-size: 32px;
 }
+#blog_section.blog {
+	padding: 6% 10% 6% 10%;
+}
 .my_projects a {
 	text-decoration: none;
 	color: black;
