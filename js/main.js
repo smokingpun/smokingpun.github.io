@@ -9,35 +9,7 @@ jsPlumb.ready(function() {
 
 $(document).ready(function() {
   onBreakpoint();
-  var stickyNavTop = $('.nav').offset().top;
-
-  var stickyNav = function(){
-    var scrollTop = $(window).scrollTop();       
-    if (scrollTop > stickyNavTop) { 
-        $('.nav').addClass('sticky');
-    } else {
-        $('.nav').removeClass('sticky'); 
-    }
-  };
-
-  stickyNav();
-
-  $(window).scroll(function() {
-    stickyNav();
-  });
-
-//   $('ul.navigation a').click(function() {
-//     $('html, body').animate({
-//   scrollTop: $("#blog_section").offset().top
-// }, 2000);
-//   });
-
 });
-
-
-
-
-
 
 $(window).resize(function(){
   onBreakpoint();
