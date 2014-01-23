@@ -3,6 +3,7 @@
 	<head>
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
     <link rel="stylesheet" href="/css/reset.css" />
 		<link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/icons.css" />
@@ -15,22 +16,22 @@
     <script type="text/javascript" src="js/main.js"></script>
 	</head>
 	<body>
-  <nav id="page_navigation">
+  <nav id="page_navigation" class="nav">
     <ul class="navigation">
-      <li><a href="#what_is_content_strategy_section">content strategy</a></li>
+      <li class="content_strategy_nav"><a href="#what_is_content_strategy_section">content strategy</a></li>
       <li><a href="#my_projects_section">my projects</a></li>
-      <li><a href="#blog_section">contented blog</a></li>
+      <li><a href="#blog_section">blog</a></li>
       <li><a href="#hire_me_section">hire me</a></li>
     </ul>
   </nav>
   <header class="landing_page">
     <div class="identity"></div>
     	<h1 id="landing_page_section">Content Strategy is about making your content work harder so you don't have to</h1>
-  </header>
-  <section class="journey group">
+  </nav>
+  <section class="journey group" id="what_is_content_strategy_section">
     <section class="journey_center">
       <article>
-        <h2 id="what_is_content_strategy_section">What is Content Strategy?</h2>
+        <h2>What is Content Strategy?</h2>
         <p>You know that great content will help your users understand your product and get excited about it, as well as bumping you up the search rankings. Great! But it can be hard keeping your content under control. Sometimes it can feel as though your content is expanding so quickly that you can't keep track of what’s being published every week, let alone editing or archiving old material. As for optimising the content that you have: well, you don't really have time. And what should you look for?</p>
         <p>This is where I come in. My name is <a href="http://www.linkedin.com/in/hannahadcock">Hannah Adcock Neil</a> and I can help you curate your content so that it's user-focused, meaningful and future-friendly. By doing so, you'll save time because you'll only produce content that is necessary. You'll make money because curated content will turn site visitors into customers. Here's what I can do:</p>
       </article>
@@ -69,26 +70,26 @@
       {% include convert_kit_vertical_form.html %}
      </div>
     </section> 
-    <section class="my_projects">
+    <section class="my_projects" id="my_projects_section">
     	<article>
-    	<h2 id="my_projects_section">My Projects</h2>
+    	<h2>My Projects</h2>
     	<p>Over the last ten years I’ve worked as a writer, editor, proofreader, researcher and project manager. I discovered content strategy in 2013, so I'm still developing my portfolio. I'll post examples soon, although I hope this website shows what I can do. The HTML and CSS are mine. You're also welcome to browse my writing and research portfolio <a href="http://hannahadcock.co.uk/portfolio">here</a>.</p>
       <h3>Qualifications</h3>
       <p>I have a BA in English from Cambridge University (1999-2002; 2:1) and a MSc in Global Politics from LSE (2012-2013; distinction). This means I'm used to thinking strategically about complicated material. So, whatever product you're selling or customer base you're targeting, I'll get it.</p>
     	<a class="button_hire_me" href="mailto:hannah.adcock@gmail.com">Want me to work for you? Click here to hire me</a>
     	</article>
    </section>	
-   <section class="blog">
+   <section class="blog" id="blog_section">
     	<article>
-    	<h2 id="blog_section"><a href="/blog">The Contented Strategy Blog</a></h2>
+    	<h2><a href="/blog">The Contented Strategy Blog</a></h2>
 
       {{ content }}
 
     	</article>
    </section> 	
-   <section class="hire_me">
+   <section class="hire_me" id="hire_me_section">
     	<article>
-    	<h2 id="hire_me_section">Hire Me</h2>
+    	<h2>Hire Me</h2>
     	<p><a href="mailto:hannah.adcock@gmail.com">Get in touch</a> so we can talk about what you need. I've given you a rough idea of what I can do, but we'll come up with a package that suits your company and budget.</p>
       <p><a href="mailto:hannah.adcock@gmail.com">hannah.adcock@gmail.com</a></p>
       <div>

@@ -27,11 +27,14 @@
 	content: "\e600";
 }
 .icon-twitter:before {
-	content: "\e601";
+	content: "\74";
 }
 .icon-github2:before {
-	content: "\e604";
+	content: "\67";
 }
 .icon-linkedin:before {
 	content: "\e602";
 }
+.icon-menu:before {
+	content: "\e601";
+};

@@ -18,7 +18,7 @@ h2 {
 .navigation
 {
 	background-color: rgb(153,24,24);
-	padding: 2% 2%;
+	padding: 1% 1%;
 	margin: 0;
 }
 .navigation li {
@@ -38,7 +38,7 @@ h2 {
 .landing_page h1 {
 	padding: 12.5% 20%;
 	text-transform: uppercase;
-	text-shadow: 0 1px 3px;
+	text-shadow: 0 1px 1px rgb (17, 17, 17);
 	font-size: 2.25em;
 	font-weight: 500;
 	color: rgb(247,247,247);
@@ -203,6 +203,7 @@ a.button_return_to_top {
 .my_projects p, .post p {
 	text-align: left;
 }
+
 img {
 	display: block;
 	width: 50%;
@@ -282,7 +283,14 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	float: left;
 	width: 100%;
 }
-
+.sticky {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 100;
+	border-top: 0;
+}
 
 /*media query for serving smaller viewports*/
 
@@ -330,6 +338,10 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		width: 90%;
 	}
 
+	.my_projects h2, .blog h2, .hire_me h2, .journey_center {
+		margin-top: 8px;
+	}	
+
 	/*media query for serving mid-size viewports*/
 
 
@@ -357,4 +369,24 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		width: 60%;
 	}
 
+}
+@media screen and (max-width: 480px) {
+	li.content_strategy_nav {
+		display: none;
+	}
+	.navigation li {
+		margin-right: 1em;	
+	}
+	.navigation {
+		font-size: 14px;
+		padding: 1% 1%;
+	}
+	.my_projects h2, .blog h2, .hire_me h2 {
+		margin-top: 20px;
+	}	
+}
+@media screen and (max-width: 570px) {
+	h1.blog {
+		display: none;
+	}
 }
