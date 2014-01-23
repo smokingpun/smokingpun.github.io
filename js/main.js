@@ -25,6 +25,13 @@ $(document).ready(function() {
   $(window).scroll(function() {
     stickyNav();
   });
+
+//   $('ul.navigation a').click(function() {
+//     $('html, body').animate({
+//   scrollTop: $("#blog_section").offset().top
+// }, 2000);
+//   });
+
 });
 
 
