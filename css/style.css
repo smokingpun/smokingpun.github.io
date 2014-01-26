@@ -175,9 +175,22 @@ a.button_return_to_top {
 .blog h1 {
 	font-size: 32px;
 }
+.blog h3 {
+	text-align: left;
+}
+.blog p {
+	line-height: 1.5em;
+}
+.blog img {
+	width: 100%;
+}
 #blog_section.blog {
 	padding: 6% 10% 6% 10%;
 }
+#blog_section.blog p {
+	line-height: normal;
+}
+
 .my_projects a {
 	text-decoration: none;
 	color: black;
