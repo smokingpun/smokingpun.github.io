@@ -10,6 +10,7 @@
     <script type="text/javascript" src="//use.typekit.net/hij2ruv.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
     
   </head>
   <body>
@@ -23,18 +24,23 @@
     </ul>
   </header>
   
-   <section class="blog">
+   <section class="blog group">
       <article>
       <h1>The Contented Strategy Blog</h1>
 
       {{ content }}
       
       </article>
-      <comments>
+
+      <div id="convert_kit_form">
+      {% include convert_kit_vertical_form.html %}
+     </div>
+
+      <div id="comments">
       {% if page.comments %}
       {% include disqus.html %}
       {% endif %}
-      </comments>
+      </div>
 
    </section>   
     <section class="hire_me">

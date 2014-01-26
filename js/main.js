@@ -1,13 +1,16 @@
 var breakpoint = 700;
 var jsPlumbConnected = false;
 
-jsPlumb.ready(function() {
-  if(window.innerWidth > breakpoint) {
-    setupJsPlumb();
-  }
-});
 
 $(document).ready(function() {
+  if (window.location.pathname === "/") {
+    jsPlumb.ready(function() {
+      if(window.innerWidth > breakpoint) {
+        setupJsPlumb();
+      }
+    });
+  };
+
   onBreakpoint();
 });
 
@@ -41,12 +44,16 @@ function onBreakpoint() {
   if(window.innerWidth > breakpoint) {
     // Desktop layout
     $(formSelector).removeClass(vertical).addClass(horizontal);
-    setupJsPlumb();
-    jsPlumb.repaintEverything();
+    if (window.location.pathname === "/") {
+      setupJsPlumb();
+      jsPlumb.repaintEverything();
+    };
   } else {
     // Mobile layout
     $(formSelector).removeClass(horizontal).addClass(vertical);
-    jsPlumb.reset();
-    jsPlumbConnected = false;
+    if (window.location.pathname === "/") {
+      jsPlumb.reset();
+      jsPlumbConnected = false;
+    };
   }
 }

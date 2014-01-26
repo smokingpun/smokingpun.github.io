@@ -16,7 +16,7 @@ However, as with any discipline, there are some skills that are more important t
 <h3>Why coding is a bit like proofreading</h3>
 <p>
 Bearing this in mind, I went back to school the modern way: by doing some online courses. The first course I tried was run by Nettuts and was called <a href="http://net.tutsplus.com/articles/news/30-days-to-learn-html-and-css-a-free-tuts-premium-course/">'30 Days to Learn HTML and CSS'</a>. It did was it said on the tin. By day 30 I has some idea of what was going on, even if floats still tended to make my head hurt. However, having just finished proofreading a 500-page ms with 200 pages of notes and references I was surprised at how doable coding was in comparison. Proofreading requires an eye for detail and an ability to learn and implement different patterns (a Chicago-style first citation of a book in the notes section requires a different format to a second mention and a definitely a different format to a book chapter… you get the picture). Coding wasn't easy in comparison: but neither was it mind-bendingly hard, as I'd somehow thought it must be seeing as developers get paid about four times as much as proofreaders! So, I had a go at building a site. It looked awful, but was still a website of sorts. Huzzah! 
-<img class "first_website" src="/images/first_website.png" alt="my first website. It looks awful">
+<img class="first_website" src="/images/first_website.png" alt="my first website. It looks awful">
 </p>
 <h3>Learning CSS</h3>
 <p>

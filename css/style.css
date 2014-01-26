@@ -181,7 +181,7 @@ a.button_return_to_top {
 .blog p {
 	line-height: 1.5em;
 }
-.blog img {
+.blog p img {
 	width: 100%;
 }
 #blog_section.blog {
@@ -189,6 +189,11 @@ a.button_return_to_top {
 }
 #blog_section.blog p {
 	line-height: normal;
+}
+#comments {
+    float: left;
+    width: 100%;
+	margin-top: 50px;
 }
 
 .my_projects a {
