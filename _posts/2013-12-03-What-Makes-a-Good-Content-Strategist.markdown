@@ -11,7 +11,7 @@ One thing I really like about content strategy is that 'imposter syndrome' still
 </p>
 <h3>What skills does a content strategist need?</h3>
 <p>
-However, as with any discipline, there are some skills that are more important than others. I figured that a content strategist should probably have a passing familiarity with copywriting, editing, social media, management, UX and so on. So far, so good. However, what I realised I didn't have – and probably should – was more of an understanding of what developers and designers were up to. The problem was I'd been spoilt: I've known some great developers and designers who totally get content. But this scenario was probably not one that would always be true, and in any case, I shouldn't be so lazy; or at least lazily accepting of cultural stereotypes that equate coding with guys. 
+However, as with any discipline, there are some skills that are more important than others. I figured that a content strategist should probably have a passing familiarity with copywriting, editing, social media, management, UX and so on. So far, so good. However, what I realised I didn't have – and probably should – was more of an understanding of what developers and designers were up to. The problem was I'd been spoilt: I've known some great developers and designers who totally get content. But this scenario was probably not one that would always be true, and in any case, I shouldn't be so lazy. Or at least lazily accepting of cultural stereotypes that equate coding with guys. 
 </p>
 <h3>Why coding is a bit like proofreading</h3>
 <p>
