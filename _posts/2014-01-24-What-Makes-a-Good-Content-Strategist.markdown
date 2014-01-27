@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "What Makes a Good Content Strategist? My Attempts to Level Up"
-date:   2013-12-04 
+date:   2014-01-24 
 categories: blog
-excerpt: One thing I really like about content strategy is that 'imposter syndrome' still isn't a big deal. Yes, there are some established names in the field, but not many. True, there are some good books, but not a whole bookshelf of them. People are coming into the discipline all the time from various backgrounds. People are also 'doing' content strategy all the time without realising it or at least being thanked for it.
+excerpt: One thing I really like about content strategy is that 'imposter syndrome' still isn't a big deal. Yes, there are some established names in the field, but not many. True, there are some good books, but not a whole bookcase of them. People are coming into the discipline all the time from various backgrounds. People are also 'doing' content strategy all the time without realising it or at least being thanked for it.
 ---
 
 <p>
-One thing I really like about content strategy is that 'imposter syndrome' still isn't a big deal. Yes, there are some established names in the field, but not many. True, there are some good books, but not a whole bookshelf of them. People are coming into the discipline all the time from various backgrounds. People are also 'doing' content strategy all the time without realising it or at least being thanked for it. 
+One thing I really like about content strategy is that 'imposter syndrome' still isn't a big deal. Yes, there are some established names in the field, but not many. True, there are some good books, but not a whole bookcase full of them. People are coming into the discipline all the time from various backgrounds. People are also 'doing' content strategy all the time without realising it or at least being thanked for it. 
 </p>
 <h3>What skills does a content strategist need?</h3>
 <p>
-However, as with any discipline, there are some skills that are more important than others. I figured that a content strategist should probably have a passing familiarity with copywriting, editing, social media, management, UX and so on. So far, so good. However, what I realised I didn't have – and probably should – was more of an understanding of what developers and designers were up to. The problem was I'd been spoilt: I've known some great developers and designers who totally get content. But this scenario was probably not one that would always be true, and in any case, I shouldn't be so lazy. Or at least lazily accepting of cultural stereotypes that equate coding with guys. 
+However, as with any discipline, there are some skills that are more important than others. I figured that a content strategist should probably have a passing familiarity with copywriting, editing, social media, management, UX and so on. So far, so good. However, what I realised I didn't have – and probably should – was more of an understanding of what developers and designers were up to. The problem was I'd been spoilt: I've known some great developers and designers who totally get content. But this scenario was probably not one that would always be true and, in any case, I shouldn't be so lazy. Or at least lazily accepting of cultural stereotypes that equate coding with guys. 
 </p>
 <h3>Why coding is a bit like proofreading</h3>
 <p>
@@ -27,7 +27,7 @@ After that I started a CSS <a href="https://www.codeschool.com/courses/css-cross
 This time, I got my head around the design side a bit more. I like design so this ended up being quite exciting. I chose a colour pallet courtesy of <a href="http://www.colourlovers.com/">COLOURlovers</a> and a font courtesy of <a href="https://typekit.com">Typekit</a>. I saw a narrative pathway design on <a href="https://learn.thoughtbot.com/prime">Thoughbot Prime</a> and thought that would really work. I looked at their code and after a moment of panic realised I did understand most of it. I traced the pathway to <a href="http://jsplumbtoolkit.com/demo/home/jquery.html">JS PLumb</a>. I then started coding and realised that the z-index and clearfix hack are actually quite useful. Here's my preliminary sketch for this website. You can also see my code on <a href="https://github.com/smokingpun/smokingpun.github.io">github</a>.
 <img class = "sketch_content_website" src="/images/sketch_content_website.jpg" alt="a hand-drawn sketch of my content strategy website">
 </p>
-<h3>What learning to code has taught me about content strategy so far</h3>
+<h3>How to stop feeling like a hopeless beginner</h3>
 <p>
-As well as learning about HTML and CSS I've also, perhaps unsurprisingly, learnt quite a lot about content strategy. I've learnt that it really is important to 'chunk' content so your website can potentially work on different devices. 'Chunking' is also good so you can reuse content – or someone else can. I also learnt that content should be user-friendly not just in terms of what it says, but how it looks. Too much text, no matter how well-written, can be confusing for a user. Navigation is a content issue; what buttons say is important. I could go on. I probably will in another blog post.
+Even though I'd made some progress I still felt like a hopeless beginner. Luckily, I'd heard about an organisation called <a href="http://codebar.io/">Codebar</a> that runs free programming sessions. Their aim is to make tech "more diverse and welcoming by bringing people together and helping teach programming skills." I went along on a Wednesday evening and found myself surrounded by motivated, interesting people who wanted to learn to code. Some of them were making headway on Javascript; some knew less about CSS and HTML than I did: amazing! The coaches were great: encouraging without being patronising (which is quiet a skill). So, thanks Codebar people. I'm still a beginner, but not such a hopeless one.
 </p>
