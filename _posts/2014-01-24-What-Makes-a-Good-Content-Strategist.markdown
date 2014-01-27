@@ -3,7 +3,7 @@ layout: post
 title:  "What Makes a Good Content Strategist? My Attempts to Level Up"
 date:   2014-01-24 
 categories: blog
-excerpt: One thing I really like about content strategy is that 'imposter syndrome' still isn't a big deal. Yes, there are some established names in the field, but not many. True, there are some good books, but not a whole bookcase of them. People are coming into the discipline all the time from various backgrounds. People are also 'doing' content strategy all the time without realising it or at least being thanked for it.
+excerpt: One thing I really like about content strategy is that 'imposter syndrome' still isn't a big deal. Yes, there are some established names in the field, but not many. True, there are some good books, but not a whole bookcase full of them. People are coming into the discipline all the time from various backgrounds. People are also 'doing' content strategy all the time without realising it or at least being thanked for it.
 ---
 
 <p>
