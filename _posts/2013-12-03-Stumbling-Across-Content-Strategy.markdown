@@ -3,11 +3,11 @@ layout: post
 title:  "Stumbling Across Content Strategy"
 date:   2013-12-03 
 categories: blog
-excerpt: Over the last ten years I’ve worked as a writer, editor, proofreader, researcher and project manager. It's been great. I love working with content. However, I've often worked at the edge of companies, bringing content to the party just as its ending. And in my opinion content doesn't really belong there. It should be the centre of things, a gin and tonic in one hand and someone else's hand in the other. So when I discovered content strategy in 2013, I was hooked.
+excerpt: Over the last ten years I’ve worked as a writer, editor, proofreader, researcher and project manager. It's been great. I love working with content. However, I've often worked at the edge of companies, bringing content to the party just as it is ending. And in my opinion content doesn't really belong there. It should be the centre of things, a gin and tonic in one hand and someone else's hand in the other. So when I discovered content strategy in 2013, I was hooked.
 ---
 
 <p>
-Over the last ten years I’ve worked as a writer, editor, proofreader, researcher and project manager. It's been great. I love working with content. However, I've often worked at the edge of companies, bringing content to the party just as its ending. And in my opinion content doesn't really belong there. It should be the centre of things, a gin and tonic in one hand and someone else's hand in the other. So when I discovered content strategy in 2013, I was hooked. 
+Over the last ten years I’ve worked as a writer, editor, proofreader, researcher and project manager. It's been great. I love working with content. However, I've often worked at the edge of companies, bringing content to the party just as it's ending. And in my opinion content doesn't really belong there. It should be the centre of things, a gin and tonic in one hand and someone else's hand in the other. So when I discovered content strategy in 2013, I was hooked. 
 </p>
 <h3>Discovering Content Strategy</h3>
 <p>
