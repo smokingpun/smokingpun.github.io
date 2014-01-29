@@ -19,7 +19,7 @@ These screen casts are great! I’ve been using Vi/vim for over 20 years and lea
 >
 Vimcasts.org is the single best screencast I’ve seen in the past two years. They’re very well put together, and cleanly edited. David Brady, on the Ruby Rogues podcast
 
-The bottom line is clear: users like the screencasts. Excellent! Useful, informative content is what will make users come back to your site and tell their friends and colleagues about your site. 
+The bottom line is clear: users like the screencasts. Excellent! Useful, informative content is what will make users come back to your site and tell their friends and colleagues about it.
 
 ###What Vimcasts looks like at the moment
 
