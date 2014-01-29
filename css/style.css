@@ -6,6 +6,9 @@ body {
 	font-size: 18px;
 	font-weight:300;
 }
+p {
+	line-height: 1.5em;
+}
 h1
 {
 	margin: 0;
@@ -195,9 +198,7 @@ table th {
 #blog_section.blog {
 	padding: 6% 10% 6% 10%;
 }
-#blog_section.blog p {
-	line-height: normal;
-}
+
 #comments {
     float: left;
     width: 100%;
