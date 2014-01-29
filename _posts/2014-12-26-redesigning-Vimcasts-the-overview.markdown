@@ -3,11 +3,11 @@ layout: post
 title:  "Redesigning Vimcasts: The Overview"
 date:   2014-01-26 
 categories: blog
-excerpt: I was asked by Drew Neil, founder of Vimcasts, to help redesign the site. When Drew set up Vimcasts in January 2010 he envisaged making perhaps 12 screencasts about the text editor Vim, in his spare time. The site currently hosts more than 60 free screencasts and 20 blog posts. Drew now makes a living from training people how to use Vim. Read on to see what we've been up to.
+excerpt: I was asked by Drew Neil, founder of Vimcasts, to help develop a content strategy for the site. When Drew set up Vimcasts in January 2010 he envisaged making perhaps a dozen screencasts about the text editor Vim, in his spare time. The site currently hosts more than 60 free screencasts and 20 blog posts. Drew now makes a living from training people how to use Vim. Read on to see what we've been up to.
 ---
 
 
-[Vimcasts][Vimcasts_homepage] publishes free screencasts about Vim, the text editor. It was set up by Drew Neil in January 2010 and has had more than half a million unique visitors. When Drew set up the site he envisaged making perhaps 12 screencasts, in his spare time. The site currently hosts more than 60 free screencasts and 20 blog posts. Drew makes a living from training people how to use Vim. 
+[Vimcasts][Vimcasts_homepage] publishes free screencasts about Vim, the text editor. It was set up by Drew Neil in January 2010 and has had more than half a million unique visitors. When Drew set up the site he envisaged making perhaps a dozen screencasts, in his spare time. The site currently hosts more than 60 free screencasts and 80 blog posts. Drew makes a living from training people how to use Vim. 
 
 ###Why Vimcasts is great
 
