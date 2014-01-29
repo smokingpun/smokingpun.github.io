@@ -6,6 +6,8 @@ categories: blog
 excerpt: I've been working with Drew Neil to redesign the popular developers' site, Vimcasts. I've had a few thoughts about what might make the site more user-friendly and more supportive of Drew's current business goals. However, there's nothing quite like asking your users to find out what your content does well – and what it doesn't. Read on to find out what Vimcast users said about the site.
 ---
 
+[*drew: You should avoid using the word 'users'. They are people! Suggested alternatives: Visitors. Readers. Viewers. Subscribers. Fans.*]
+
 <p>There's nothing quite like asking your users to find out what your business does well – and what it doesn't. This blog post is based on the reponses from 216 users. We asked users five questions. <p/>
 
 <ol>
@@ -19,14 +21,14 @@ excerpt: I've been working with Drew Neil to redesign the popular developers' si
 <h3>Users are based all over the world</h3>
 <p>Question 5, where are you based, turned out to be pretty exciting: <b>users were based in more than 25 different countries</b> ranging from the UK and USA to Argentina, Lithuania, Taiwan, Russia and China. However, only 3 users suggested that subtitles or access to transcriptions would be useful. Impressive language skills!</p> 
 
-<p>Still, Drew has been thinking about making screencast transcripts available on the site and on Git, particuarly in case users would like to translate any. With people from all over the world browsing Vimcasts this might prove useful.</p>
+<p>Still, Drew has been thinking about making screencast transcripts available on the site and on Github, particuarly in case users would like to translate any. With people from all over the world browsing Vimcasts this might prove useful.</p>
 
 <h3>Users have the kind of memory that my grandad would be embarrassed about</h3>
 
 <p>My favourite answer to question 1, 'how did you first learn about Vimcasts.org,' is: <i>can't remember, that was, like, 4 years ago</i>. This was ticked by 36% of users. The other results, however, were a little more informative:</p>
 <img class="Vimcasts_survey_1" src="/images/Vimcasts_survey_1.png" alt="pie-chart showing how users first learnt about Vimcasts">
 
-<p><b>These results suggest that SEO is important, as is continuing to produce content that people want to share and talk about</b>. Sites that talk about Vimcasts range from Reddit (occasionally posted by Drew; sometimes by users) to net.tutsplus, a wiki and personal blogs. I was slightly surprised that only 7% of users found out about the site through social media. The Vimcasts Twitter account has almost 3,500 followers. Perhaps users tend to follow Vimcasts when they already know about it though? So this channel represents a great way to target repeat rather than first time users.</p> 
+<p><b>These results suggest that <abbrev title="search-engine optimisation">SEO</abbrev> is important, as is continuing to produce content that people want to share and talk about</b>. Sites that talk about Vimcasts range from Reddit (Drew occasionally posts his content there, and sometimes other Reddit users do too) to net.tutsplus, a wiki [*drew: "a wiki" is a bit vague. Which one?*] and personal blogs. I was slightly surprised that only 7% of users found out about the site through social media. The Vimcasts Twitter account has almost 3,500 followers. Perhaps users tend to follow Vimcasts when they already know about it though? So this channel represents a great way to target repeat rather than first time users.</p> 
 
 <h3>Repeat users may never visit the website</h3>
 
@@ -77,7 +79,7 @@ excerpt: I've been working with Drew Neil to redesign the popular developers' si
 	</tbody>
 </table>	
 
-<p>Great! <b>We think tags/categories and a search function would be a nifty idea too</b>. I was also interested to see how many people think Vimcasts is just fine or that there wasn't anything obvious that needed changing. This made me realise how important it is not to be too iconoclastic. After all, there's many a redesign that has seemed like a good idea to the bods at the top but has gone down like a lead balloon with users (the rebranding of the post office as 'Consignia' springs to mind).</p>
+<p>Great! <b>We think tags/categories and a search function would be a nifty idea too</b>. I was also interested to see how many people think Vimcasts is just fine or that there wasn't anything obvious that needed changing. This made me realise how important it is not to be too iconoclastic. After all, there's many a redesign that has seemed like a good idea to the bods at the top but has gone down like a lead balloon with users (the rebranding of Britain's Royal Mail as 'Consignia' springs to mind [drew: link?]).</p>
 
 <h3>Concluding thoughts</h3>
 <p><b>Asking users what they think of your business is a very good idea</b>. I've learnt a lot. Onwards!</p>
