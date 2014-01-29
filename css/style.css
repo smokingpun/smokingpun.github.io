@@ -184,6 +184,14 @@ a.button_return_to_top {
 .blog p img {
 	width: 100%;
 }
+.blog ol li {
+	text-align: left;
+	margin-bottom: 10px;
+}
+table th {
+	text-align: left;
+	padding-right: 1.5em;
+}
 #blog_section.blog {
 	padding: 6% 10% 6% 10%;
 }
