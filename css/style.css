@@ -433,3 +433,12 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		display: none;
 	}
 }
+
+@media print {
+	.addthis_toolbox, .hire_me {
+		display: none;
+			}
+	#convert_kit_form, #comments, #page_navigation {
+		display: none;
+	}	
+}
