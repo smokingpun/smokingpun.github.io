@@ -4,4 +4,4 @@ paginate: 4
 pygments: true
 paginate_path: "blog/page:num"
 description: Hannah Adcock Neil's blog on content strategy
-url: http://contentedstrategy.com/blog/
+url: http://contentedstrategy.com
