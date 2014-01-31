@@ -191,6 +191,9 @@ a.button_return_to_top {
 	text-align: left;
 	margin-bottom: 10px;
 }
+.blog ul li {
+	text-align: left;
+}
 table th {
 	text-align: left;
 	padding-right: 1.5em;

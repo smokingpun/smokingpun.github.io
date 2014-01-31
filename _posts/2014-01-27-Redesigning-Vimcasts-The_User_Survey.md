@@ -23,22 +23,22 @@ excerpt: I've been working with Drew Neil to develop a content strategy for the 
 
 <h3>Vimcasts fans have the kind of memory that my grandad would be embarrassed about</h3>
 
-<p>My favourite answer to question 1, 'how did you first learn about Vimcasts.org,' is: <i>can't remember, that was, like, 4 years ago</i>. This was ticked by 36% of respondents. The other results, however, were a little more informative:</p>
+<p>My favourite answer to question 1, 'how did you first learn about Vimcasts.org,' is: <i>can't remember, that was, like, 4 years ago</i>. This was ticked by 36% of respondents. The other results, however, were a little more informative: search engine 24%, referral from another site 20%, personal recommendation 4%, other 8%.</p>
 <img class="Vimcasts_survey_1" src="/images/Vimcasts_survey_1.png" alt="pie-chart showing how users first learnt about Vimcasts">
 
-<p><b>These results suggest that <abbrev title="search-engine optimisation">SEO</abbrev> is important, as is continuing to produce content that people want to share and talk about</b>. I was slightly surprised that only 7% of people found out about the site through social media. The Vimcasts Twitter account has almost 3,500 followers. Perhaps people tend to follow Vimcasts when they already know about it though? So this channel currently represents a great way to target repeat rather than first time visitors.</p> 
+<p><b>These results suggest that <abbrev title="search-engine optimisation">SEO</abbrev> is important, as is continuing to produce content that people want to share and talk about</b>. I was slightly surprised that only 7% of people found out about the site through social media. The Vimcasts Twitter account has almost 3,500 followers. Perhaps people tend to follow Vimcasts when they already know about it though? So this channel currently represents a good way to target repeat rather than first time visitors.</p> 
 
 <h3>Repeat visitors may never visit the website</h3>
 
 <p>A business's website is only part of their content strategy, particularly with this kind of content-as-product business. <b>There are some people who will rarely come back to the site, but who are still important customers</b>. The user survey shows that only 4% of people would prefer not to subscribe.</p> 
-<img class="Vimcasts_survey_2" src="/images/Vimcasts_survey_2.jpg" alt="pie-chart showing how users subscribe to Vimcasts">
+<img class="Vimcasts_survey_2" src="/images/Vimcasts_survey_2.jpg" alt="pie-chart showing how users subscribe to Vimcasts: RSS 61%, email 15%, Twitter 13%, iTunes 6%, don't subscribe 4%, other 2%">
 
 <p>One result of these findings, is that Drew needs to think carefully about how he chunks the content on the website. There is a good case, for example, for more obviously separating promotional blog posts, content blog posts and screencasts on the homepage. This was picked up on in the survey by a few respondents. However, if Drew decides that only content blog posts would be permanently linked to from the homepage, then he'd still have to make sure than RSS subscribers received both promotional and content blog posts, as well as screencasts.</p>
 
 <h3>Vimcasts visitors know about the Masterclasses</h3>
 
 <p>Quite cheeringly, <b>only 1% of people had never heard of Drew's masterclasses</b>. This suggests that although the permanent link on the homepage is not exactly obvious, Twitter, email and RSS time-sensitive promotions are being fairly effective. Also cheeringly, 25% of people would like to attend. The 34% who can't afford it was probably about right, considering Drew's business model. However, it was a useful number for Drew to see because he's considering producing a series of inexpensive eBooks.</p> 
-<img class="Vimcasts_survey_3" src="/images/Vimcasts_survey_3.jpg" alt="pie-chart showing what users know about the Vimcast masterclasses">
+<img class="Vimcasts_survey_3" src="/images/Vimcasts_survey_3.jpg" alt="pie-chart showing what users know about the Vimcast masterclasses, including 19% not interested and 10% other">
 
 
 <h3>Vimcasts fans are a nice bunch</h3>
@@ -77,7 +77,7 @@ excerpt: I've been working with Drew Neil to develop a content strategy for the 
 	</tbody>
 </table>	
 
-<p>Great! <b>We had thought that tags/categories and a search function would be a nifty idea too</b>. I was also interested to see how many people think Vimcasts is just fine or that there wasn't anything obvious that needed changing. This made me realise how important it is not to be too iconoclastic. After all, there's many a redesign that has seemed like a good idea to the bods at the top but has gone down like a lead balloon with users: the <a href="http://news.bbc.co.uk/1/hi/business/2002480.stm"> rebranding of Britain's Royal Mail as 'Consignia'</a> springs to mind.</p>
+<p>Great! <b>We've been thinking that tags/categories and a search function would be a nifty idea too</b>. I was also interested to see how many people think Vimcasts is just fine or that there wasn't anything obvious that needed changing. This made me realise how important it is not to be too iconoclastic. After all, there's many a redesign that has seemed like a good idea to the bods at the top but has gone down like a lead balloon with users: the <a href="http://news.bbc.co.uk/1/hi/business/2002480.stm"> rebranding of Britain's Royal Mail as 'Consignia'</a> springs to mind.</p>
 
 <h3>Concluding thoughts</h3>
 <p><b>Asking your site visitors what they think of your business is a very good idea</b>. I've learnt a lot. Onwards!</p>
