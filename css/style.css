@@ -80,11 +80,10 @@ h2 {
 	width: 60%;
 	margin: 0 auto;
 }	
-.journey_center p a {
-	text-decoration: none;
+.journey_center p a, .journey_analytics p a {
 	color: black;
 }
-.journey_center p a:hover {
+.journey_center p a:hover, .journey_analytics p a:hover {
 	color:rgb(153,24,24);
 }
 .journey_analysis, .journey_analytics, .journey_strategy, .journey_implementation {
