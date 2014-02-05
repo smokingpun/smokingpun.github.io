@@ -177,8 +177,11 @@ a.button_return_to_top {
 .blog h1 {
 	font-size: 32px;
 }
-.blog h3 {
+.blog h3, .blog h4 {
 	text-align: left;
+}
+.blog h3 {
+	margin-top: 40px;
 }
 .blog p {
 	line-height: 1.5em;
