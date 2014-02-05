@@ -32,7 +32,7 @@ It's easy to get lost in data, so I wanted to concentrate on analytics that had 
 
 ###Could user engagement be improved?
 
-Yep. One possible warning sign is the bouce rate: at 68.49% it's quite high. Of course, bouce rates are pretty mysterious beasts at the best of times. A high bounce rate doesn't have to be bad: some people could have given Vimcasts a once-over and subscribed through RSS. Other site visitors could in fact be bot-humans, trawlers looking for content they can rip, or people working for the CIA. These people are not very interested in Vim so we can cope with them bouncing off elsewhere. 
+Yep. One possible warning sign is the bouce rate: at 68.49% it's quite high. Of course, bouce rates are pretty mysterious beasts at the best of times. A high bounce rate doesn't have to be bad: it could mean that the visitor found what they were looking for on the first page they hit. Also, some people might subscribe through RSS (or some other channel) after liking what they see.
 
 However, given that our [user survey][survey] suggested that people would really like Drew to make it easier for them to find content through addings tags and search, I'm guessing that **some site visitors are deciding to jump elsewhere because they land on a page that isn't quite relevant and they can't find what they need quick enough**. Or they land on a page and aren't clear enough about what the site is and how it can help them. Or they don't want to invest time and valuable band-width in watching a 5 minute screencast. Or they are interested in Vim but see Vimcasts as being targeted at intermediate and advanced users – with some justification. Or they aren't confident in their language skills. Or they are searching for Vim, the cleaning product. 
 
