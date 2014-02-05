@@ -82,6 +82,10 @@ excerpt: I've been working with Drew Neil to develop a content strategy for the 
 <h3>Concluding thoughts</h3>
 <p><b>Asking your site visitors what they think of your business is a very good idea</b>. I've learnt a lot. Onwards!</p>
 
+<h3>Need help working out how you can improve your digital content?</h3>
+<a href="mailto:hannah.adcock@gmail.com">Get in touch</a>! Or you can find out more about how content strategy – including an analysis of user behaviour – can help your business on my <a href="/#what_is_content_strategy_section">homepage</a>.
+
+
 
 
 
