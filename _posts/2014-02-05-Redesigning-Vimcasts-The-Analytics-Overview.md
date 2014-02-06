@@ -9,7 +9,7 @@ excerpt: I've been working with Drew Neil to develop a content strategy for the 
 >*Users will only give feedback if they're motivated to speak up – whether in praise or scorn – but metrics reflect users' unspoken opinions.*
 > Bowles and Box, [Undercover User Experience Design][undercover]
 
-I've been working with Drew Neil to develop a content strategy for the popular developers' site, Vimcasts. I've learnt a lot from the [user survey][survey]. Now, I dig down into the analytics to track how people have been using the [Vimcasts site][Vimcasts].
+I've been working with Drew Neil to develop a content strategy for the popular developers' site, [Vimcasts][Vimcasts]. I've learnt a lot from the [user survey][survey]. Now, I dig down into the analytics to track how people have been using the [Vimcasts site][Vimcasts].
 
 I looked at data from Jan 30 2013 to Jan 30 2014 using Google Analytics. This is the overview:
 
