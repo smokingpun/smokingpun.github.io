@@ -76,7 +76,7 @@ Thankfully, the [user survey][survey] has helped with the 'find and solve the pr
 **Vimcasts mainly appeals to intermediate and advanced users**: targeting novices is not something that Vimcasts does at the moment. It's a possible direction for the site in the future though. 
 
 ###Need help working out how you can improve your digital content?
-[Get in touch][email]! Or you can find out more about how content strategy – including an analysis of user behaviour – can help your business on [my homepage][content strategy section]. 
+[Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section]. 
 
 
 [survey]: /blog/2014/01/27/Redesigning-Vimcasts-The_User_Survey.html
