@@ -3,7 +3,7 @@ layout: post
 title:  "Redesigning Vimcasts: The Analytics Overview"
 date:   2014-02-05 
 categories: blog
-excerpt: I've been working with Drew Neil to develop a content strategy for the popular developers' site, Vimcasts. I've learnt a lot from the user survey. For example, a majority of the 216 respondents would like Drew to add tags, categories and search. Now, I dig down into the analytics to track how people currently use the Vimcasts site.
+excerpt: I've been working with Drew Neil to develop a content strategy for the popular developers' site, Vimcasts. I've learnt a lot from the user survey. For example, a majority of the 216 respondents would like Drew to add categories and search. Now, I dig down into the analytics to track how people have been using the Vimcasts site.
 ---
 
 >*Users will only give feedback if they're motivated to speak up – whether in praise or scorn – but metrics reflect users' unspoken opinions.*
