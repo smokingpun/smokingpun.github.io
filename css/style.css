@@ -359,6 +359,10 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		font-size: 16px;
 		line-height: 20px;
 	}
+	.your_problem_list {
+		font-size: 16px;
+		line-height: 20px;
+	}
 
 	.journey p {
 		font-size: 16px;
