@@ -80,6 +80,25 @@ h2 {
 	width: 60%;
 	margin: 0 auto;
 }	
+.your_problem_1, .your_problem_3 {
+	float: left;
+	width: 25%;
+	clear: both;
+	margin-left: 10%;
+	position: relative;
+	z-index: 1;
+}
+.your_problem_2 {
+	float: right;
+	width: 25%;
+	clear: both;
+	margin-right: 22%;
+	position: relative;
+	z-index: 1;
+}
+#your_problem_copy {
+	color: rgb(153,24,24);
+}
 .journey_center p a, .journey_analytics p a {
 	color: black;
 }
@@ -356,7 +375,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 
 	.landing_page h1 {
 		font-size: 1.5em;
-		padding: 12.5% 15%;
+		padding: 18% 15%;
 	}
 	h1 {
 		line-height: 26px;
@@ -369,6 +388,12 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	.blog, .my_projects, .hire_me, .journey {
 		padding: 6% 4%;
 		width: inherit;
+	}
+	.your_problem_1, .your_problem_2, .your_problem_3 {
+		float: none;
+		width: inherit;
+		margin-left: 0;
+		margin-right: 0;
 	}
 	ul.posts {
 		padding-left: 0;
