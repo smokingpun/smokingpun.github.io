@@ -80,12 +80,10 @@ excerpt: I've been working with Drew Neil to develop a content strategy for the 
 <p>Great! <b>We've been thinking that tags/categories and a search function would be a nifty idea too</b>. I was also interested to see how many people think Vimcasts is just fine or that there wasn't anything obvious that needed changing. This made me realise how important it is not to be too iconoclastic. After all, there's many a redesign that has seemed like a good idea to the bods at the top but has gone down like a lead balloon with users: the <a href="http://news.bbc.co.uk/1/hi/business/2002480.stm"> rebranding of Britain's Royal Mail as 'Consignia'</a> springs to mind.</p>
 
 <h3>Concluding thoughts</h3>
-<p><b>Asking your site visitors what they think of your business is a very good idea</b>. I've learnt a lot. Onwards!</p>
+<p><b>Asking your site visitors what they think of your business is a very good idea</b>. I've learnt a lot. Now <a href="/blog/2014/02/05/Redesigning-Vimcasts-The-Analytics-Overview.html#.UvqDG2TV_IY">onwards</a> to analytics!</p>
 
 <h3>Need help working out how you can improve your digital content?</h3>
-<a href="mailto:hannah.adcock@gmail.com">Get in touch</a>! Or you can find out more about how content strategy – including an analysis of user behaviour – can help your business on my <a href="/#what_is_content_strategy_section">homepage</a>.
-
-
+<a href="mailto:hannah.adcock@gmail.com">Get in touch</a>! Or find out more about <a href="/#what_is_content_strategy_section">how content strategy can help your business.
 
 
 
