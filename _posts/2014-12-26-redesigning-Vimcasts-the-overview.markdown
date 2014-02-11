@@ -64,3 +64,4 @@ These ideas are based on informed guesswork though. Our [next step][survey] was 
 [all episodes]: http://vimcasts.org/episodes/archive
 [about]: http://vimcasts.org/about
 [survey]: /blog/2014/01/27/Redesigning-Vimcasts-The_User_Survey.html
+[content strategy section]: /#what_is_content_strategy_section
