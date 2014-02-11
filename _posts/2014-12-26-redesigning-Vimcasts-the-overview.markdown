@@ -52,8 +52,8 @@ My second thought was that the website could better support Drew's current busin
 
 These ideas are based on informed guesswork though. Our [next step][survey] was to ask users what they think about the site.
 
-
-
+###Need help working out how you can improve your digital content?
+[Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section]. 
 
 
 
