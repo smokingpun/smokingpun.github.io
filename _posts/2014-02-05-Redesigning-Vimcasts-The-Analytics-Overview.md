@@ -71,7 +71,7 @@ Making Drew's masterclasses and publications at least more visible on the homepa
 > *Metrics are like a crying baby: they leave you in no doubt that something is wrong, but don't tell you how to find and solve the problem.*
 > Bowles and Box, [Undercover User Experience Design][undercover]
 
-Thankfully, the [user survey][survey] has helped with the 'find and solve the problem' side of things. It's still early days though and Google Analytics is better than people at telling me about page views. I still wonder how many people bounce off the site because they aren't fluent in English (so translated transcripts might help). Or how many people think 'yeah, maybe Vim would help me work better' before landing on the site and sighing: 'Man, I have to watch a video and I don't have time and what on earth does pasting from the visual mode mean anyway? I'll come back another time when I know more about Vim. Maybe'. 
+Thankfully, the [user survey][survey] has helped with the 'find and solve the problem' side of things. It's still early days though and Google Analytics is better than at telling me about page views than people. I still wonder how many people bounce off the site because they aren't fluent in English (so translated transcripts might help). Or how many people think 'yeah, maybe Vim would help me work better' before landing on the site and sighing: 'Man, I have to watch a video and I don't have time and what on earth does pasting from the visual mode mean anyway? I'll come back another time when I know more about Vim. Maybe'. 
 
 **Vimcasts mainly appeals to intermediate and advanced users**: targeting novices is not something that Vimcasts does at the moment. It's a possible direction for the site in the future though. 
 
