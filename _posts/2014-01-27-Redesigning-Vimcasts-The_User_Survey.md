@@ -6,7 +6,7 @@ categories: blog
 excerpt: I've been working with Drew Neil to develop a content strategy for the popular developers' site, Vimcasts. I've had a few thoughts about what might make the site more user-friendly and more supportive of Drew's current business goals. However, there's nothing quite like asking your site visitors to find out what your content does well – and what it doesn't. Read on to find out what Vimcast fans said about the site.
 ---
 
-<p>There's nothing quite like asking your site visitors to find out what your business does well – and what it doesn't. This blog post is based on the reponses from 216 people. The Vimcasts user survey asked five questions. <p/>
+<p>There's nothing quite like asking your site visitors to find out what your business does well – and what it doesn't. So Drew Neil and I sent out a Vimcasts survey. This blog post is based on the reponses from 216 people. The survey asked five questions. <p/>
 
 <ol>
 	<li>how did you first learn about Vimcasts.org? (6 options)</li>
