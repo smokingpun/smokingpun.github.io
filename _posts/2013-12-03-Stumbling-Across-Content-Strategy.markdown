@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stumbling Across Content Strategy"
+title:  "Stumbling across Content Strategy"
 date:   2013-12-03 
 categories: blog
 metadescription: I discovered content strategy in 2013. Read on to find out why it's so much more fun than copywriting.
