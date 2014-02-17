@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Redesigning Vimcasts: The Analytics Overview"
+title:  "How to use Google Analytics: Vimcasts, a case study"
 date:   2014-02-05 
 categories: blog
-metadescription: Learn how I used Google Analytics to uncover user behaviour on the popular developers' site, Vimcasts. 
+metadescription: Learn how I used Google Analytics to interpret user behaviour on the popular developers' site, Vimcasts. 
 excerpt: I've been working with Drew Neil to develop a content strategy for the popular developers' site, Vimcasts. I've learnt a lot from the user survey. For example, a majority of the 216 respondents would like Drew to add categories and search. Now, I dig down into the analytics to track how people have been using the Vimcasts site.
 ---
 
