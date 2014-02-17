@@ -3,6 +3,7 @@ layout: post
 title:  "Redesigning Vimcasts: The User Survey"
 date:   2014-01-27 
 categories: blog
+metadescription: Learn how a user survey helped one organisation figure out how they could improve their website and make their fans very happy.
 excerpt: I've been working with Drew Neil to develop a content strategy for the popular developers' site, Vimcasts. I've had a few thoughts about what might make the site more user-friendly and more supportive of Drew's current business goals. However, there's nothing quite like asking your site visitors to find out what your content does well – and what it doesn't. Read on to find out what Vimcast fans said about the site.
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Redesigning Vimcasts: The Overview"
 date:   2014-01-26 
 categories: blog
+metadescription: See how I helped Drew Neil, founder of Vimcasts, improve his digital content. 
 excerpt: I was asked by Drew Neil, founder of Vimcasts, to help develop a content strategy for the site. When Drew set up Vimcasts in January 2010 he envisaged making perhaps a dozen screencasts about the text editor Vim, in his spare time. The site currently hosts more than 60 free screencasts and 20 blog posts. Drew now makes a living from training people how to use Vim. Read on to see what we've been up to.
 ---
 
