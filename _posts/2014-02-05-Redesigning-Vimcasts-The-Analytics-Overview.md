@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making the most of Google Analytics: Vimcasts, a case study"
+title:  "How to make the most of Google Analytics: Vimcasts, a case study"
 date:   2014-02-05 
 categories: blog
 metadescription: Learn how I used Google Analytics to interpret user behaviour on the popular developers' site, Vimcasts. 

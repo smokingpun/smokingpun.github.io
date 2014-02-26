@@ -203,6 +203,9 @@ a.button_return_to_top {
 .blog p img {
 	width: 100%;
 }
+.blog p img.Vimcasts_redesign_homepage_mobile_short_version {
+	width: 50%;
+}
 .blog ol li {
 	text-align: left;
 	margin-bottom: 10px;
