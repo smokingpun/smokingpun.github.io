@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learn how to optimise the content on your homepage: Vimcasts, a case study"
+title:  "Optimising the content on your homepage: Vimcasts, a case study"
 date: 2014-02-24 
 categories: blog
 metadescription: Read how I helped Vimcast founder Drew Neil optimise the site's homepage.
