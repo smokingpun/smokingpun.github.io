@@ -76,6 +76,9 @@ Thankfully, the [user survey][survey] has helped with the 'find and solve the pr
 
 **Vimcasts mainly appeals to intermediate and advanced users**: targeting novices is not something that Vimcasts does at the moment. It's a possible direction for the site in the future though. 
 
+####What next?
+Our first iteration of the homepage. [Onwards!][optimise your homepage].
+
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section]. 
 
@@ -89,3 +92,4 @@ Thankfully, the [user survey][survey] has helped with the 'find and solve the pr
 [thoughtbot]: https://learn.thoughtbot.com/products/21-navigating-ruby-files-with-vim
 [undercover]: http://undercoverux.com/
 [fixedfont]: http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/#comment-816613999
+[optimise your homepage]: blog/2014/02/24/Redesigning_Vimcasts_the_Homepage.html
