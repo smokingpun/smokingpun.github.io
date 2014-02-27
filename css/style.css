@@ -226,10 +226,18 @@ h2.blog_post_title {
 }
 #free_content_strategy_guide_text {
 	text-align: left;
-	padding: 3% 10% 3% 10%;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 h1.free_content_strategy_guide_text_header {
 	padding-top: 1em;
+}
+body.get_access div#convert_kit_form {
+	padding-bottom: 3em;
+}
+body.get_access .introduction_to_content_strategy_guide {
+	font-size: 1.3em;
+	font-weight: 400;
 }
 
 #comments {
@@ -272,7 +280,6 @@ a.button_return_to_top {
 .my_projects p, .post p {
 	text-align: left;
 }
-
 img {
 	display: block;
 	width: 50%;
