@@ -3,6 +3,11 @@ layout: default
 comments: true
 
 ---
+<section class="blog group">
+      <article>
+      <h1>The Contented Strategy Blog</h1>
+
+
 <h2 class="blog_post_title"><em>{{ page.title }}</em></h2>
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
@@ -18,7 +23,25 @@ comments: true
 <!-- AddThis Button END -->
 <p class="meta">{{ page.date | date_to_string }}</p>
 
+
 <div class="post">
 {{ content }}
 </div>
 
+
+
+      
+      
+      </article>
+
+      <div id="convert_kit_form">
+      {% include convert_kit_vertical_form.html %}
+     </div>
+
+      <div id="comments">
+      {% if page.comments %}
+      {% include disqus.html %}
+      {% endif %}
+      </div>
+
+   </section> 

@@ -224,6 +224,13 @@ h2.blog_post_title {
 	text-align: left;
 	margin-bottom: 20px;
 }
+#free_content_strategy_guide_text {
+	text-align: left;
+	padding: 3% 10% 3% 10%;
+}
+h1.free_content_strategy_guide_text_header {
+	padding-top: 1em;
+}
 
 #comments {
     float: left;
