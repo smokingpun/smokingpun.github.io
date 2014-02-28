@@ -1,6 +1,6 @@
 name: Contented Strategy Blog
 markdown: redcarpet
-paginate: 4
+paginate: 5
 pygments: true
 paginate_path: "blog/page:num"
 description: Hannah Adcock Neil's blog on content strategy
