@@ -15,7 +15,7 @@ h1
 }
 h2 {
 	display: block;
-	margin: 0;
+	margin-bottom: 1.5em;
 	line-height: 1em;
 }
 .navigation
@@ -48,7 +48,7 @@ h2 {
 	background-color: rgb(153,24,24);
 }
 .journey {
-	padding: 6% 10%;
+	padding: 5% 10%;
 	background-color: rgb(247,247,247); 
 	font-size: 18px;
 	line-height: 24px;
@@ -122,18 +122,18 @@ h2 {
 	padding: 6% 0 0 0;
 }	
 .my_projects {
-	padding: 6% 10% 6% 10%;
+	padding: 5% 10% 5% 10%;
 	background-color: rgb(201,209,211);
 }
 .blog {
-	padding: 40px 10% 40px 10%;
+	padding: 40px 5% 40px 5%;
 	background-color: rgb(247,247,247);
 }
 .blog h1 {
 	margin-bottom: 30px;
 }
 .hire_me {
-	padding: 6% 10% 6% 10%;
+	padding: 5% 10% 5% 10%;
 	background-color: rgb(153,24,24);
 	color: rgb(247,247,247);
 }
@@ -218,7 +218,7 @@ table th {
 	padding-right: 1.5em;
 }
 #blog_section.blog {
-	padding: 6% 10% 6% 10%;
+	padding: 5% 10% 5% 10%;
 }
 h2.blog_post_title {
 	text-align: left;
@@ -485,3 +485,41 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		display: none;
 	}	
 }
+
+
+
+a.previous, a.next {
+	background-color:rgb(153,24,24);
+	color: rgb(205,148,148);
+	width: 2em;
+	padding: 12px 3%;
+	margin-top: 10px;
+	border-radius: 5px;
+	margin-left: 0.5em;
+}
+span.previous, span.next {
+	background-color:rgb(247,247,247);
+	color: black;
+	width: 2em;
+	padding: 12px 3%;
+	margin-top: 10px;
+	border-radius: 5px;
+	margin-left: 0.5em;
+	border: 1px solid rgb(205,148,148);
+}
+a:hover.previous, a:hover.next, a:hover.button_see_more_posts  {
+	color:rgb(247,247,247);
+	}
+.pagination {
+	margin-top: 2em;
+}
+a.button_see_more_posts {
+	background-color:rgb(153,24,24);
+	color: rgb(205,148,148);
+	width: 2em;
+	padding: 12px 3%;
+	margin-top: 10px;
+	border-radius: 5px;
+	margin-top: 2em;
+}
+
