@@ -15,7 +15,6 @@ h1
 }
 h2 {
 	display: block;
-	margin-bottom: 1.5em;
 	line-height: 1em;
 }
 .navigation
@@ -136,6 +135,9 @@ h2 {
 	padding: 5% 10% 5% 10%;
 	background-color: rgb(153,24,24);
 	color: rgb(247,247,247);
+}
+.my_projects h2, .blog h2, .hire_me h2 {
+	margin-bottom: 1.5em
 }
 a.button_hire_me {
 	background-color:rgb(247,247,247);
