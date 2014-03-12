@@ -79,7 +79,7 @@ h2 {
 	width: 60%;
 	margin: 0 auto;
 }	
-#your_problem_copy {
+.your_problem_copy {
 	color: rgb(153,24,24);
 }
 .your_problem_list li {
