@@ -205,7 +205,7 @@ a.button_return_to_top {
 .blog p img {
 	width: 100%;
 }
-.blog p img.Vimcasts_redesign_homepage_mobile_short_version {
+.blog p img.Vimcasts_redesign_homepage_mobile_short_version, .blog p img.Vimcasts_category_page_mobile {
 	width: 50%;
 }
 .blog ol li {
