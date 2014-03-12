@@ -7,7 +7,7 @@ metadescription: I learn to code because I thought it would make me a better con
 excerpt: I learn to code because I thought it would make me a better content strategist. So far coding has helped me understand how content can travel, how tasks can be automated and how to get along with developers.
 ---
 
-**I learn to code because I thought it would make me a better content strategist**. So far, this is what learning to code – and that just means HTML, CSS and a bit of Javascript – has taught me about content strategy.
+**I learnt to code because I thought it would make me a better content strategist**. So far, this is what learning to code – and that just means HTML, CSS and a bit of Javascript – has taught me about content strategy.
 
 ###Takeaway points
 
@@ -18,9 +18,9 @@ excerpt: I learn to code because I thought it would make me a better content str
 
 
 ###Coding helps you understand how content can travel
-I got the idea that content should exist in chunks rather than blobs. This made sense. No one likes a blob. However, learning to code has helped me *understand* this concept. Before learning to code – henceforth referred to as 'BLC' – I used WIZYWIG editors. What can I say? They mimicked what I new. 
+I got the idea that content should exist in chunks rather than blobs. This made sense. No one likes a blob. However, learning to code has helped me *understand* this concept. Before learning to code – henceforth referred to as 'BLC' – I used <abbr title="what you see is what you get">WYSIWYG</abbr> editors. What can I say? They mimicked what I new. 
 
-However, using these editors made me think that web content could work like print articles – in the sense that the only thing that really mattered was the integrity of the article itself. As to the small matter of its constituent parts – headings, metadata, and so on – they were just a matter of styling, n'est ce que pas? No! **As coding has taught me, an article's constituent parts are a matter of semantics**. The web robots that render my HTML need to know whether something is a header, a paragraph, an image, a video, a date, and so on. 
+However, using these editors made me think that web content could work like print articles – in the sense that the only thing that really mattered was the integrity of the article itself. As to the small matter of its constituent parts – headings, metadata, and so on – they were just a matter of styling, n'est ce que pas? No! **As coding has taught me, an article's constituent parts are a matter of semantics**. The web robots that crawl my HTML need to know whether something is a header, a paragraph, an image, a video, a date, and so on. 
 
 If the [semantic web movement][semantic web movement] gets its way, we'll get more down and dirty than that. And I'm all for it. For content to easily travel – without us content people having to put in a load of leg work – **a machine needs to be able to 'read' a description of our content**. If we can narrow that down from 'an article' to 'item for sale' and 'one sentence teaser' then we'll be well on the way to that island of bliss: COPE. Create once, publish everywhere. 
 
