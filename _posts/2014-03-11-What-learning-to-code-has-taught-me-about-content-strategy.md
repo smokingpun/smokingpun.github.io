@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "What learning to code taught me about content strategy"
+title:  "What learning to code has taught me about content strategy"
 date:   2014-03-10 
 categories: blog
-metadescription: I learn to code because I thought it would make me a better content strategist. Coding helps you understand how content can travel, how tasks can be automated and what is currently possible on the web. 
+metadescription: I learn to code because I thought it would make me a better content strategist. Coding helps you understand how content can travel, how tasks can be automated and how to get along with developers. 
 excerpt: I learn to code because I thought it would make me a better content strategist. So far coding has helped me understand how content can travel, how tasks can be automated and how to get along with developers.
 ---
 

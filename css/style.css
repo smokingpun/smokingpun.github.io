@@ -215,6 +215,16 @@ a.button_return_to_top {
 .blog ul li {
 	text-align: left;
 }
+section.blog.group article {
+	max-width: 50em;
+	margin: auto;
+}
+section.blog.group article p, section.blog.group article li {
+	font-size: 20px;
+}
+section.blog.group h1 {
+	text-align: left;
+}
 table th {
 	text-align: left;
 	padding-right: 1.5em;
