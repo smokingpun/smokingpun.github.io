@@ -40,11 +40,11 @@ h2 {
 .landing_page h1 {
 	padding: 12.5% 20%;
 	text-transform: uppercase;
-	text-shadow: 0 1px 1px rgb (17, 17, 17);
+	text-shadow: 0 1px 1px rgb(17, 17, 17);
 	font-size: 2.25em;
 	font-weight: 500;
 	color: rgb(247,247,247);
-	background-color: rgb(153,24,24);
+	background-color: rgb(153,24,24)
 }
 .journey {
 	padding: 5% 10%;
