@@ -38,19 +38,14 @@ function setupJsPlumb() {
 }
 
 function onBreakpoint() {
-  var formSelector = '#convert_kit_form .ck_embed_form';
-  var vertical = 'ck_vertical_subscription_form';
-  var horizontal = 'ck_horizontal_subscription_form';
   if(window.innerWidth > breakpoint) {
     // Desktop layout
-    $(formSelector).removeClass(vertical).addClass(horizontal);
     if (window.location.pathname === "/") {
       setupJsPlumb();
       jsPlumb.repaintEverything();
     };
   } else {
     // Mobile layout
-    $(formSelector).removeClass(horizontal).addClass(vertical);
     if (window.location.pathname === "/") {
       jsPlumb.reset();
       jsPlumbConnected = false;
