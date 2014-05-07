@@ -121,12 +121,16 @@ h2 {
 	padding: 6% 0 0 0;
 }	
 .my_projects {
-	padding: 5% 10% 5% 10%;
+	padding: 5% 10% 1.5% 10%;
 	background-color: rgb(201,209,211);
+}
+.my_projects p {
+	width: 60%;
+	margin: auto;
 }
 .blog {
 	padding: 40px 5% 40px 5%;
-	background-color: rgb(247,247,247);
+	background-color: rgb(201,209,211);
 }
 .blog h1 {
 	margin-bottom: 30px;
@@ -136,9 +140,54 @@ h2 {
 	background-color: rgb(153,24,24);
 	color: rgb(247,247,247);
 }
-.my_projects h2, .blog h2, .hire_me h2 {
+.my_projects h2, .blog h2, .hire_me h2, .vimcasts h2, .creative_touch h2 {
 	margin-bottom: 1.5em
 }
+
+.my_projects img.down_arrow {
+	margin: auto;
+	width: 2.5em;
+}
+
+.vimcasts {
+	padding: 5% 10% 5% 10%;
+	background-color: rgb(247,247,247);
+}
+.creative_touch {
+	padding: 5% 10% 5% 10%;
+	background-color: white;
+}
+.vimcasts p, .creative_touch p, .hire_me p {
+	width: 60%;
+	margin: auto;
+	text-align: left;
+}
+
+.vimcasts img.Vimcasts_new_homepage {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-right: 40px;
+	margin-left: 40px;
+	padding-top: 80px;
+	margin: auto;
+	position: relative;
+}
+
+.creative_touch img.creative_touch_mobile, .creative_touch img.creative_touch_lips {
+	width: 28%;
+	margin-top: 50px;
+	height: auto;
+}
+.creative_touch img.creative_touch_mobile {
+	float: right;
+	padding-right: 16%;
+}
+.creative_touch img.creative_touch_lips {
+	float: left;
+	padding-left: 16%;
+}
+
 a.button_hire_me {
 	background-color:rgb(247,247,247);
 	color: black;
@@ -413,9 +462,20 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		font-size: 18px;
 	}
 
-	.blog, .my_projects, .hire_me, .journey {
+	.blog, .hire_me, .journey, .vimcasts, .creative_touch {
 		padding: 6% 4%;
-		width: inherit;
+		
+	}
+	.my_projects {
+		padding: 6% 4% 2% 4%;
+	}
+
+	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p {
+		margin-left: 0;
+		margin-right: 0;
+		width: auto;
+		font-size: 16px;
+		line-height: 20px;
 	}
 	.your_problem_1, .your_problem_2, .your_problem_3 {
 		width: inherit;
@@ -438,6 +498,12 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	}	
 	.blog h1{
 		font-size: 20px;
+	}
+	section.blog.group article p, section.blog.group article li {
+	font-size: 16px;
+	}
+	.creative_touch img.creative_touch_mobile, .creative_touch img.creative_touch_lips {
+		margin-top: 20px;
 	}
 
 	/*media query for serving mid-size viewports*/
@@ -466,6 +532,20 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	.journey_analytics, .journey_implementation, .journey_analysis, .journey_strategy {
 		width: 60%;
 	}
+		.blog, .my_projects, .hire_me, .journey, .vimcasts, .creative_touch {
+		padding: 6% 4%;
+		
+	}
+	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p {
+		margin-left: 0;
+		margin-right: 0;
+		width: auto;
+		font-size: 18px;
+		line-height: 1.5em;
+	}
+	section.blog.group article p, section.blog.group article li {
+	font-size: 18px;
+	}
 
 }
 @media screen and (max-width: 480px) {
@@ -479,7 +559,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		font-size: 14px;
 		padding: 1% 1%;
 	}
-	.my_projects h2, .blog h2, .hire_me h2 {
+	.my_projects h2, .blog h2, .hire_me h2, .vimcasts h2, creative_touch h2 {
 		margin-top: 20px;
 	}	
 }
@@ -525,13 +605,13 @@ a:hover.previous, a:hover.next, a:hover.button_see_more_posts  {
 .pagination {
 	margin-top: 2em;
 }
-a.button_see_more_posts {
-	background-color:rgb(153,24,24);
-	color: rgb(205,148,148);
+/*a.button_see_more_posts {
+	background-color:rgb(247, 247, 247);
+	color: black;
 	width: 2em;
 	padding: 12px 3%;
 	margin-top: 10px;
 	border-radius: 5px;
 	margin-top: 2em;
-}
+}*/
 
