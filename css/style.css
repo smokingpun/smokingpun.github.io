@@ -3,7 +3,7 @@
 body {
 	text-align: center;
 	font-family: "museo-sans",sans-serif;
-	font-size: 18px;
+	font-size: 20px;
 	font-weight:300;
 }
 
@@ -52,7 +52,7 @@ h2 {
 .journey {
 	padding: 5% 10%;
 	background-color: rgb(247,247,247); 
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 24px;
 }
 
@@ -131,6 +131,7 @@ h2 {
 	width: 60%;
 	margin: auto;
 }
+
 .blog {
 	padding: 40px 5% 40px 5%;
 	background-color: rgb(201,209,211);
@@ -529,9 +530,13 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 
 }
 @media screen and (max-width: 850px) and (min-width: 701px) {
-		.journey_center {
-		width: 80%;	
+		
+	
+
+	.journey_center {
+	width: 80%;	
 	}
+
 	.journey_analytics, .journey_implementation, .journey_analysis, .journey_strategy {
 		width: 60%;
 	}
@@ -548,6 +553,9 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	}
 	section.blog.group article p, section.blog.group article li {
 	font-size: 18px;
+	}
+	.journey {
+		font-size: 18px;
 	}
 
 }
