@@ -166,10 +166,19 @@ h2 {
 	padding: 5% 10% 5% 10%;
 	background-color: white;
 }
-.vimcasts p, .creative_touch p, .hire_me p {
+.sendowl {
+	padding: 5% 10% 5% 10%;
+}
+.vimcasts p, .creative_touch p, .hire_me p, .sendowl p {
 	width: 60%;
 	margin: auto;
 	text-align: left;
+}
+.sendowl img {
+	display: block;
+	width: 80%;
+	margin: auto;
+	margin-top: 40px;
 }
 
 .vimcasts img.Vimcasts_new_homepage {
