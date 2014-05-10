@@ -488,7 +488,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		padding: 6% 4% 2% 4%;
 	}
 
-	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p {
+	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p, .sendowl p {
 		margin-left: 0;
 		margin-right: 0;
 		width: auto;
@@ -520,7 +520,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	section.blog.group article p, section.blog.group article li {
 	font-size: 16px;
 	}
-	.creative_touch img.creative_touch_mobile, .creative_touch img.creative_touch_lips {
+	.creative_touch img.creative_touch_mobile, .creative_touch img.creative_touch_lips, sendowl_screenshot img. {
 		margin-top: 20px;
 	}
 
@@ -558,7 +558,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		padding: 6% 4%;
 		
 	}
-	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p {
+	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p, .sendowl p {
 		margin-left: 0;
 		margin-right: 0;
 		width: auto;
