@@ -480,7 +480,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		font-size: 18px;
 	}
 
-	.blog, .hire_me, .journey, .vimcasts, .creative_touch {
+	.blog, .hire_me, .journey, .vimcasts, .creative_touch, .sendowl {
 		padding: 6% 4%;
 		
 	}
@@ -554,10 +554,11 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	.journey_analytics, .journey_implementation, .journey_analysis, .journey_strategy {
 		width: 60%;
 	}
-		.blog, .my_projects, .hire_me, .journey, .vimcasts, .creative_touch {
+
+	.blog, .my_projects, .hire_me, .journey, .vimcasts, .creative_touch, .sendowl {
 		padding: 6% 4%;
-		
-	}
+		}
+
 	.vimcasts p, .creative_touch p, .my_projects p, .hire_me p, .sendowl p {
 		margin-left: 0;
 		margin-right: 0;
