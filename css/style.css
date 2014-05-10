@@ -55,7 +55,12 @@ h2 {
 	font-size: 20px;
 	line-height: 24px;
 }
-
+.journey h2 {
+	text-align: left;
+}
+.journey_analysis h2, .journey_strategy h2 {
+	padding-left: 15px;
+}
 
 /* clearfix */
   
@@ -106,11 +111,11 @@ h2 {
 	clear: both;
 }
 .journey_analysis, .journey_strategy {
-	width: 40%;
+	width: 50%;
 	float: right;
 	padding: 6% 0 0 0;
 }
-.journey_analytics p, .journey_implementation p, .journey_analysis p, .journey_analysis h2 {	
+.journey_analytics p, .journey_implementation p, .journey_analysis p, .journey_analysis h2, .journey_strategy h2, .journey_analytics h2 {	
 	position: relative;
 	z-index: 1;
 	}
@@ -119,7 +124,7 @@ h2 {
 }	
 	
 .journey_analytics, .journey_implementation {
-	width: 40%;
+	width: 50%;
 	float: left;
 	padding: 6% 0 0 0;
 }	
