@@ -40,7 +40,7 @@ These calls to action are under the header 'Level up your Vim' and include: 'Boo
 As you'll see above, this banner currently advertises one of Drew's training courses. As soon as that course date is past, the banner will display information about the next class. <strong>In fact, across the site we've used content modules to show time-sensitive information that is automatically updated</strong>. Drew can let people know what he's up to without needing to manually publish content across a number of pages. It also means he's less likely to have out of date and irrelevant content on the site. 
 
 ###What's next?
-I'll blog next about the new article and screencast pages, as well as about the new categories page. To keep in touch subscibe through RSS or [follow me on Twitter][twitter]. 
+I've blogged about the business case, practicalities, content implications, problems and disadvantages of taking a [mobile first approach][mobile first] to the Vimcasts redesign.   
 
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section].
@@ -52,6 +52,7 @@ I'll blog next about the new article and screencast pages, as well as about the 
 [content strategy section]: /#what_is_content_strategy_section
 [twitter]: https://twitter.com/smokingpun
 [overview]: http://contentedstrategy.com/blog/2014/01/26/redesigning-Vimcasts-the-overview.html
+[mobile first]: blog/2014/05/20/A-Mobile-First-Website-Redesign.html
 
 
 

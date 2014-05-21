@@ -141,6 +141,9 @@ h2 {
 	padding: 40px 5% 40px 5%;
 	background-color: rgb(201,209,211);
 }
+.addthis_toolbox {
+	margin-top: 2.5em;
+}
 .blog h1 {
 	margin-bottom: 30px;
 }
@@ -282,12 +285,14 @@ a.button_return_to_top {
 .blog ul li {
 	text-align: left;
 }
+
 section.blog.group article {
 	max-width: 50em;
 	margin: auto;
 }
 section.blog.group article p, section.blog.group article li {
 	font-size: 20px;
+	line-height: 1.5em;
 }
 section.blog.group h1 {
 	text-align: left;
