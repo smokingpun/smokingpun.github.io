@@ -17,7 +17,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 * [Do I need content strategy?](#do-i-need-content-strategy)
 * [What do content strategists do?](#what-do-content-strategists-do)
 	* [Create content templates](#create-content-templates)
-	* [Create a content inventory and/or audit](#create-a-content-inventory)
+	* [Create a content inventory and/or audit](#create-a-content-inventory-and-or-audit)
 	* [Determine a message architecture](#determine-a-message-architecture)
 	* [Compile a style guide](#compile-a-style-guide)
 	* [Construct an editorial calendar](#construct-an-editorial-calendar)
@@ -25,7 +25,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 	* [Mock-up wireframes](#mock-up-wireframes)
 * [How do I get good content?](#how-do-i-get-good-content)
 	* [Your options](#your-options)
-	* [Working with freelancers](#working-with-freelancers)
+	* [Working with freelance copywriters](#working-with-freelance-copywriters)
 * [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
 * [Further reading](#further-reading)	
 
