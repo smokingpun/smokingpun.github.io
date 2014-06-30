@@ -83,7 +83,7 @@ Content templates mean you are more likely to produce consistent, well-structure
 
 
 ###Create a content inventory or audit
-A **content inventory** is an organised list of your content including as much information about each piece of content as possible. A **content audit** is a qualitative tool that helps you figure out whether those content pieces are any good. 
+A content inventory is an organised list of your content including as much information about each piece of content as possible. A content audit is a qualitative tool that helps you figure out whether those content pieces are any good. 
 
 ####So, why should you bother?
 A content inventory let's you know what content you have on your website. Even if you have a small site, it's amazing how quickly you forget what's on some of your pages or begin to take your website for granted (it's familiar; therefore it's ok). A content inventory includes basic things like:
@@ -109,9 +109,9 @@ Once you've done an audit/inventory you can make some quickish wins by:
 *  improving underperforming content that has a lousy click through rate or obvious messaging flaws
 * getting a useful heads up on what content is engaging users so you can create more content in a similiar vein
 
-You can make some longer terms wins by also doing a **gap analysis**. This involves looking at what content you have on your website and then working out what content is missing. For example, are you strong on knowledge base articles for existing customers, but not so good on outward-facing articles that explain to potential customers how your product features will help them? 
+You can make some longer terms wins by also doing a gap analysis. This involves looking at what content you have on your website and then working out what content is missing. For example, are you strong on knowledge base articles for existing customers, but not so good on outward-facing articles that explain to potential customers how your product features will help them? 
 
-If you're really getting into this auditing stuff, you can also do a **competitor analysis**, which let's you learn from your competitors, avoid their mistakes and spot areas where you can differentiate yourself. For example, if your competitor's website is a bit Silicon Valley Startup 101 then you can market your business as a bit more edgy/amusing/authentic and so on. Equally, if your competitors' pricing plans are based on a % cut and yours is based on a set pricing plan consider which customers your approach would appeal to – and target them with your adverts, blog posts and social media. 
+If you're really getting into this auditing stuff, you can also do a competitor analysis, which let's you learn from your competitors, avoid their mistakes and spot areas where you can differentiate yourself. For example, if your competitor's website is a bit Silicon Valley Startup 101 then you can market your business as a bit more edgy/amusing/authentic and so on. Equally, if your competitors' pricing plans are based on a % cut and yours is based on a set pricing plan consider which customers your approach would appeal to – and target them with your adverts, blog posts and social media. 
 
 Undertake a competitor analysis with an open mind though. Not everything your competitors do is lousy!
 
