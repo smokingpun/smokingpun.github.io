@@ -141,6 +141,11 @@ h2 {
 	padding: 40px 5% 40px 5%;
 	background-color: rgb(201,209,211);
 }
+.content_strategy_guide {
+	padding: 40px 15% 40px 15%;
+	background-color: rgb(247,247,247);
+	text-align: left;
+}
 .addthis_toolbox {
 	margin-top: 2.5em;
 }
@@ -324,6 +329,15 @@ body.get_access .introduction_to_content_strategy_guide {
 	font-weight: 400;
 }
 
+#content_strategy_for_startups {
+	text-align: left;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+h1.content_strategy_for_startups {
+	padding-top: 1em;
+}
+
 #comments {
     float: left;
     width: 100%;
@@ -360,9 +374,18 @@ a.button_return_to_top {
 }
 .post a {
 	text-decoration: underline;
+
 }
-.my_projects p, .post p {
+.my_projects p, .post p, .guide p, .guide h2 {
 	text-align: left;
+}
+/*.guide {
+	background-color: rgb(247,247,247);
+}*/
+
+.guide h2 {
+margin-top: 2em;
+margin-bottom: 1em;
 }
 img {
 	display: block;
@@ -485,7 +508,7 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 		font-size: 18px;
 	}
 
-	.blog, .hire_me, .journey, .vimcasts, .creative_touch, .sendowl {
+	.blog, .hire_me, .journey, .vimcasts, .creative_touch, .sendowl, .content_strategy_guide {
 		padding: 6% 4%;
 		
 	}

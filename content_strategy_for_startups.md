@@ -1,40 +1,38 @@
 ---
-layout: default
-title: Content Strategy for Startups: The Essential Guide
-classname: content_strategy_for_startups
+layout: page
+title: Content Strategy for Startups. The Essential Guide
+classname: content-strategy-for-startups
 ---
 
-#Content Strategy for Startups: The Essential Guide
+
+#Content Strategy for Startups: <br/>The Essential Guide
 
 You know that great content will help your users understand your product and get excited about it. You're pretty sure that it will make you money by turning site visitors into customers. And you know that curated content trumps more content. The only thing is you don't have the time or expertise to develop a content strategy plan in-house. 
 
-This is where I come in. My name is Hannah Adcock and I'm going to talk you through some of the tools of our trade. It's time to make your content work harder – so you don't have to. 
+This is where I come in. My name is Hannah Adcock and I'm going to talk you through some of the tools of our trade. It's time to make your content work harder – so you don't have to.  
 
 ##List of contents
 
-* What is content strategy?
-* Do I need content strategy?
-* What do content strategists do?
-	Create content templates
-	Create a content inventory and/or audit
-	Determine a message architecture
-	Compile a style guide
-	Construct an editorial calendar
-	Research user personas
-	Mock-up wireframes
-* How do I get good content?
-	Your options
-	Working with freelancers
-* Create a content strategy in a week
-* Further reading	
-
-
-
-
+* [What is content strategy?](#what-is-content-strategy)
+* [Do I need content strategy?](#do-i-need-content-strategy)
+* [What do content strategists do?](#what-do-content-strategists-do)
+	* [Create content templates](#create-content-templates)
+	* [Create a content inventory and/or audit](#create-a-content-inventory)
+	* [Determine a message architecture](#determine-a-message-architecture)
+	* [Compile a style guide](#compile-a-style-guide)
+	* [Construct an editorial calendar](#construct-an-editorial-calendar)
+	* [Research user personas](#research-user-personas)
+	* [Mock-up wireframes](#mock-up-wireframes)
+* [How do I get good content?](#how-do-i-get-good-content)
+	* [Your options](#your-options)
+	* [Working with freelancers](#working-with-freelancers)
+* [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
+* [Further reading](#further-reading)	
 
 
 
 ##What is content strategy?
+
 It's just marketing right? Or zooped up copywriting? Not exactly. Content Strategy: 
 
 > "guides your plans for the creation, delivery and governance of content" – Kristina Halvorson. 
@@ -55,15 +53,15 @@ I'm not saying that one is 'better' than the other or that there isn't any overl
 And if you think seriously about these questions you are less likely to end up with lumps of content that seemed like a good idea at the time but don't support key business goals or meet user need.
 
 ##Do I need content strategy?
-I think that all companies – from early stage startups to multinationals – can benefit from thinking strategically about their content. However, this guide is specifically aimed at post-early stage startups that want to use content to grow their business, whether they are boostrapped or funded (although I have more experience of the former). 
+I think that all companies – from early stage startups to multinationals – can benefit from thinking strategically about their content. However, this guide is specifically aimed at post-early stage startups that want to use content to grow their business, whether they are boostrapped or funded.
 
 Early tech stage startups may feel that it's enough to have a basic, high-converting website and to use adverts to drive traffic to it. I've heard several growth experts suggests this is a good use of resources – fair enough. 
 
-##What do content strategist do?
-This varies depending on the company (yes, you knew that answer was coming). There aren't a bunch of rules that we all stick to – more a set of principles that we implement in a number of ways. In terms of deliverables, here are a few things we do that can help startups:
+##What do content strategists do?
+In terms of deliverables, here are a few things we do that can help startups:
 
-###Create content templates 
-It's never helpful if you ask someone to write a blog post and they send you back a word document that includes a self-referential headline (Hey, we've just done something great!) and a few paragraphs. For one, you are stuck with all that crappy Word formatting and are at risk of version control issues. And even worse, you're stuck with what we, in the trade, call a 'blob' of text – yep, that's a technical term. What you really want is a content package, which includes 'chunks' of semantically meaningful text. Let's go over what a content template might include:
+###Create content templates
+You can create **content templates** for all types of pages: product pages, staff biographies, section landing pages, blog pages and so on. They are a simple way of making sure you get the information that you need from members of your team or freelancers. You can be explicit about what you want and what you don't. If you are running a blog, for example, you need to produce content that is search engine optimised, findable, looks good on different viewports and can be promoted effectively on different social media platforms. You don't just want one headline and a few paragraphs of copy. A useful blog template might include these categories:
 
 * a few different headlines, preferably at least a short and a longer version
 * a short teaser
@@ -72,18 +70,23 @@ It's never helpful if you ask someone to write a blog post and they send you bac
 * a tweet or two
 * tags
 * keywords
+* pull out quotes
 * a list of images
 * an image that will work well on social media 
 * a list of any images that won't work on a mobile so you'll need to serve up a cropped version
 * a suggestion for the URL that is SEO optmised
-* a body section including a number of short (1-3 sentence) paragraphs  
+* a body section including a number of short (1-3 sentence) paragraphs
+
   
+####So, why should you bother?
+Content templates mean you are more likely to produce consistent, well-structured, findable, sharable and search engine optimised content. They also make it easier for you to work with freelancers.  
+
 
 ###Create a content inventory and/or audit
 A **content inventory** is an organised list of your content including as much information about each piece of content as possible. A **content audit** is a qualitative tool that helps you figure out whether those content pieces are any good. 
 
-*So, why should you bother*
-A content inventory basically let's you know what content you're dealing with. Even if you have a small website, it's amazing how quickly you forget what's on some of your pages and/or begin to take your website for granted (it's familiar; therefore it's ok). A content inventory includes basic things like:
+####So, why should you bother?
+A content inventory let's you know what content you have on your website. Even if you have a small site, it's amazing how quickly you forget what's on some of your pages or begin to take your website for granted (it's familiar; therefore it's ok). A content inventory includes basic things like:
 
 * ID (identification number for each piece of content)
 * page title
@@ -91,68 +94,66 @@ A content inventory basically let's you know what content you're dealing with. E
 * format (text, pictures, video, and so on)
 * links from/to the page
 
-A content audit let's you see what content is performing and what isn't. It includes extra things like:
+A content audit let's you see what content is performing well and what isn't. It includes extra things like:
 
 * last update
 * traffic/usage statistics
 * accuracy
-* usablity
+* usabilty
 * actionability
 
-... and so on. For some of these categories you could use a ratings sacle of 1-5 from rubbish to totally awesome. 
+... and so on. For categories like 'accuracy', 'usability' and 'actionability' you could use a ratings scale of 1-5, with 1 being rubbish and 5 being totally awesome. 
 
-Once you've done an audit/inventory you can make some quick(ish) wins by:
+Once you've done an audit/inventory you can make some quickish wins by:
 
-*  improving underperforming content that has a lousy click through rate/bounce rate or obvious messaging flaws
+*  improving underperforming content that has a lousy click through rate or obvious messaging flaws
 * getting a useful heads up on what content is engaging users so you can create more content in a similiar vein
 
-You can also do a **gap analysis**, which basically involves looking at what content you have on your website and then working out what content is missing – for example, are you strong on knowledge base articles, but not so good on outward-facing articles that explain to potential customers how your product features will help them? 
+You can make some longer terms wins by also doing a **gap analysis**. This involves looking at what content you have on your website and then working out what content is missing. For example, are you strong on knowledge base articles for existing customers, but not so good on outward-facing articles that explain to potential customers how your product features will help them? 
 
-If you're really getting into this auditing stuff, you can also do a **competitor analysis**, which let's you learn from your competitors, avoid their mistakes and spot areas where you can really differentiate yourself. For example, if your competitor's website is a bit Silicon Valley Startup 101 then maybe you can market your business as a bit more edgy/amusing/authentic and so on. Equally, if your competitor's pricing plans are based on a % cut and yours is based on a set pricing plan consider which customers your approach would appeal to – and target them with your adverts, landing pages, blog posts and social media. 
+If you're really getting into this auditing stuff, you can also do a **competitor analysis**, which let's you learn from your competitors, avoid their mistakes and spot areas where you can differentiate yourself. For example, if your competitor's website is a bit Silicon Valley Startup 101 then you can market your business as a bit more edgy/amusing/authentic and so on. Equally, if your competitors' pricing plans are based on a % cut and yours is based on a set pricing plan consider which customers your approach would appeal to – and target them with your adverts, blog posts and social media. 
 
-Undertake a **competitor analysis** with an open mind though. Not everything your competitors do is lousy!
+Undertake a competitor analysis with an open mind though. Not everything your competitors do is lousy!
 
 ###Determine a message architecture
 According to content stratgeist Margot Bloomstein:
 
 >  "A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline." 
 
-*So, why should you bother?*
-A message architecture helps you develop a cohesive, consistent and even enjoyable user experience. You can't be everything to all people – and you shoulnd't be. So how do you want to be perecived? As:
+####So, why should you bother?
+A message architecture helps you develop a cohesive, consistent and even enjoyable user experience. You can't be everything to all people – and you shoulnd't be. So how do you want to be perceived? As:
 
 * Enduring, experienced and diverse
 * Reliable, secure and helpful
 * Friendly, customer-orientated and straighforward? 
 
-... or something completely different? Just be careful that you *show* that you are x, y and z through your design, tone and voice, choice of images and so on though, rather than telling your customers that you are 'reliable and care about quality', for example, and then pulling in all kinds of low-quality content through an RSS feed, which suggests the opposite!
+... or something completely different? Just be careful that you *show* that you are x, y and z through your design, tone and voice, choice of images and so on. It's no use telling your customers that you are 'reliable and care about quality' and then pulling in all kinds of low-quality content through an RSS feed, which suggests the opposite!
 
-You can establish a message architecture in a number of ways, including 'cardsorting', through a Venn diagram or through a big argument fuelled by too much coffee (not recommended). For more information I'd suggest having a look at Margot Bloomstein's excellent book *Content Strategy at Work*.
+You can establish a message architecture in a number of ways, including ['cardsorting'][cardsorting], through a Venn diagram or through a big argument fuelled by too much coffee (not recommended). For more information I'd suggest having a look at Margot Bloomstein's excellent book [*Content Strategy at Work*][content strategy at work].
 
-Note that a message architecture is different from brand values – the latter is more an internal memo, the former are about how you communicate with your target audience – they are actionable.
+Note that a message architecture is different from brand values. The latter is more an internal memo, while the former are about how you communicate with your target audience. 
 
 ###Compile a style guide
-This is a set of guidelines and standards covering areas such as tone, voice, vocabulary and editing. Good style guides tend to have lots of examples (see A List Apart's [style guide][http://alistapart.com/about/style-guide])
+This is a set of guidelines and standards mainly covering style and tone. If there is a particular style guide that you like, you can always refer to it and just write a supplementary style guide that targets issues of particular relevance to your company. 
 
-If there is a particular style guide that you like, you can always refer to that and then just write a short supplementary style guide that targets issues of particular relevance to your company. 
+Good style guides tend to have lots of examples (see A List Apart's [style guide][a list apart]). They may cover numbers, punctuation, preffered spellings, case and capitalisation, acronymns, sentence length and usual tense, and call to action language. 
 
-*So, why should you bother?*
-Well, if you want to communicate that you are offering a premium, exclusive service then you probably want to make sure that your copy is elegant and slightly highbrow, rather than cheeky and conversational. You probaby want to avoid slang and abbreviations. You might favour the Oxford comma because you'll be using quite a few lists. You might prefer American English because most of your clients are in America. In contrast, if you are selling a security-type product or service to companies then you probably want your copy to be slightly terse, maybe a bit technical. Your sentence length might be shorter; maybe you use more bullet points rather than in-line lists. And so on.
+####So, why should you bother?
+It looks unprofessional if your use of language isn't consistent, and it can seriously undermine your message architecture. For example, if a customer is browsing one page of your website that is written in a conversational tone and then clicks through to a page where the language is suddenly much more formal, what will they think? That your business is... slightly schizophrenic? Or perhaps that you can't be bothered to pay attention to detail? Even if they don't consciously notice the change in tone, they will be left with a slightly fuzzy impression of your company. And this makes you easy to forget, particularly when your competitor offers a much more branded experience, in terms of design, copy and visuals. 
 
-It also just looks a bit unprofessional if your use of language isn't consistent, and it can seriously undermine your message architecture. For example, if a customer is browsing one page of your website that is written in a conversational tone and then clicks through to a page where the language is suddenly much more formal, what will they think? That your business is... slightly schizophrenic? Or perhaps that you can't be bothered to pay attention to detail? Even if they don't consciously notice the change in tone/voice, they will be left with a slightly fuzzy impression of your company. And this makes you easy to forget, particularly when your competitor offers a much more branded experience, in terms of design, copy and visuals. 
-
-Style guides can be as large or as small as you need them to be – and this depends on the expertise of your writers. Good web writers probably don't need tips on web writing – just the useful stuff about tone and voice. Newbie writers might need more help. In which case get them to read: *Letting Go of the Words: Writing Web Content that Works* by Janice (Ginny) Redish.
+Style guides can be as large or as small as you need them to be – and this depends on the expertise of your writers. Good web writers probably don't need tips on web writing – just the useful stuff about tone and voice. Newbie writers might need more help. In which case get them to read: [*Letting Go of the Words: Writing Web Content that Works*][letting go of the words] by Janice (Ginny) Redish.
 
 ###Construct an editorial calendar
 To return to Margot Bloomstein:
 
->  "An editorial calendar lays out the plan for how the experience will continue to change over time: who will do what, where, and at what frequency? It often addresses the complete web experience, not just the site, as it can span thematic updates to _all_ channels." 
+>  "An editorial calendar lays out the plan for how the experience will continue to change over time: who will do what, where, and at what frequency? It often addresses the complete web experience, not just the site, as it can span thematic updates to -all- channels." 
 
-*So, why should you bother?*
-It's easy to get caught up creating a blog post, or an advert or managing a Twitter conversation, but it's always helpful if you know what's up next. You will grow your business by planning to create good, relevant content over the longer term. A one-off blog post, no matter how good, will only achieve so much.
+####So, why should you bother?
+It's easy to get caught up creating a blog post, or an advert or managing a Twitter conversation, but it's always helpful if you know what's up next. You will grow your business by planning to create engaging, relevant content over the longer term. A one-off blog post, no matter how good, will only achieve so much.
 
-Editorial calendars, I think, are also good for morale. You see what's going to happen in the future (Huzzah! You have a future!) as well as reminding you what you've accomplished in the past. You can also use an editorial calendar to appraise past content and see what is evergreen, so can possibly be repackaged or at least referred back to, as well as what is time sensitive, in which case it will need archiving or editing. 
+Editorial calendars, I think, are also good for morale. You see what's going to happen in the future (Huzzah! You have a future!) as well as reminding you what you've accomplished in the past. You can also use an editorial calendar to show what content is evergreen, so can be repackaged at a later date, or time sensitive, in which case it will need archiving or editing. 
 
-You can create an okay editorial calendar using Markdown (as a table) and committ to Github. Or there are lots of spreadsheet templates online. If you hate tables/spreadsheets then you could always try an organisational tool like Asana or Trello. Whatever works for you. Useful categories in a spreadsheet might include:
+You can create an editorial calendar as a table using Markdown and committ to Github. Or there are lots of spreadsheet templates online. If you hate tables and spreadsheets then you could always try an organisational tool like Asana or Trello. Whatever works for you. Useful categories in a spreadsheet might include:
 
 * publication date
 * content type
@@ -180,7 +181,7 @@ What makes up a persona?
 * main tasks they complete on your website
 * main information they want from your website
 
-*So, why should you bother?*
+####So, why should you bother?
 If your customers are people like you then congratulations, you're very lucky. It will be fairly easy to work out what they need. However, if your customers are not like you, or your company has a number of different types of customers, then ideally you need to work out what they need – rather than guess! Then you can produce focused content that appeals to your customers rather than any old content that might not. I always think about what persona or personas I'm writing for when I produce a new piece of content. This way I remain focused on who I'm writing for as well as where I should promote that content.
 
 
@@ -190,12 +191,12 @@ Wireframes are, to quote content strategist Richard Ingram:
 > A simplified representation of a web page or an application screen that illustrates and describes its proposed information and structure, as well as its functional behaviors.
 
 
-*So, why should I bother?*
-Working from the premise that content is pretty much anything meaningful on the page, it's probably best to sort out content first on any new web page before you decide what colour of button you want and whether you really need to use Javascript. Wireframes can just be sketches on a piece of card with real if rather hard-to-read copy. Or you can wireframe online.
+####So, why should I bother?
+Wireframes describe what content should be on a page. Given that content is what your site visitors are most interested in, it's important that you get your content sorted first before moving on to design. Wireframing also means that you can get early stage feedback and made sure that your team are on the same page in terms of what you want to achieve. It will also help your design team understand what you want them to build. However, your content will be displayed on different viewports so wireframes will only help you so much. Sometimes I'll wireframe for different viewports. It depends on how your design and develpment team work. 
 
 
 ##How do I get good content?
-This is often a tricky issue for startups. You know you need good content, as you need good design, good accountancy advice and good developers, but how do you go about getting it? 
+This is often a tricky issue for startups. You know you need good content in the same way you need good design, good accountancy advice and good development, but how do you get it? 
 
 ###Your options
 
@@ -204,18 +205,18 @@ This is a feasible option if you want to access plentiful, cheap content. Just b
 
 
 ####Get your users to generate content
-Huzzah! It's free! Well, kind of. The issue here is that you still need someone from your organistion to set the tone and curate the content. Otherwise you might end up with zilch, or with stuff that's unhelpful. To encourage (positive) user content you could encourage people with special offers, or with the promise of a link to their blog or whatever it is they want to promote. Then be really grateful that they've taken the time to help you. 
+Huzzah! It's free! Well, kind of. The issue here is that you still need someone from your organistion to set the tone and curate the content. Otherwise you might end up with zilch, or with stuff that's unhelpful. To encourage users to produce quality content you could offer people a discount on your product, or a link to their blog or whatever it is they want to promote. Then be really grateful that they've taken the time to help you. 
 
 ####You'll write the content
-If you're a good writer and you know web writing best practice, or have the time to learn, then go for it. My only word of warning would be that as a company founder you'll probably have about a million other things you should be doing. So it might be more cost effective to pay a professional copywriter or marketing agency to create content while you get on with developing your business. If you're not a good writer (and let others be the judge!) then consider employing a copywriter. You'll feel a bit queasy if you get people to your website through advertising or sheer force of personality only for them to bounce off because they don't really understand your copy or just find it a bit 'meh'. 
+If you're a good writer then go for it. My only word of warning is that as a company founder you'll probably have about a million other things you should be doing. So it might be more cost effective to pay a professional copywriter or marketing agency to create content while you get on with developing your business. If you're not a good writer (and let others be the judge!) then consider employing a copywriter. You'll feel a bit queasy if you get people to your website through advertising or sheer force of personality only for them to bounce off because they don't understand your copy or find it a bit 'meh'. 
 
 ####Let's pay a student/someone from India/my mate down the road
-Can't you just pay someone $10 for a blog post – or even $4? Of course you can. If you are lucky, it might even be decent content. Just bear in mind that your content should differentiate you from your competitors, inform and entertain customers and generally make you look like the kind of company that someone wants to throw their money at. If your content doesn't do this it's overpriced, even at $4, because it's stopping customers getting to good content, perhaps even annoying them, and doing nothing for you in terms of SEO because no one wants to share it or talk about it. This point is also relevant if you choose to employ an inexperienced marekting intern. If you really can't afford to pay much for content either produce less, spend time looking around for a gem of writer who is miraculously also cheap, or spend time training your intern. I'll include a list of books and resources in the index section of this guide. 
+Can't you just pay someone $10 for a blog post – or even $4? Of course you can. If you are lucky, it might even be decent content. Just bear in mind that your content should differentiate you from your competitors, inform and entertain customers and generally make you look like the kind of company that someone wants to throw their money at. If your content doesn't do this it's overpriced, even at $4, because it's stopping customers getting to good content, perhaps annoying them, and doing nothing for you in terms of SEO because no one wants to share it or talk about it. This point is also relevant if you choose to employ an inexperienced marekting intern. If you really can't afford to pay much for content either produce less, spend time looking around for a gem of writer who is miraculously also cheap, or spend time training your intern. I'll include a list of books and resources at the end of this guide. 
 
 ####Okay, let's pay a freelance copywriter
-If you find a good freelance copywriter you'll get good content that informs and entertains customers and that they might even want to share (huzzah!). The downside is that you'll still need to spend time, particuarly at the beginning, making sure that your freelancer knows enough about your company to produce relevant content. You'll also need to keep checking in with them so that they remain up to date with what you company is up to – and can come up with good ideas based on this information. Perhaps you can ask them to attend a monthly meeting in person or schedule a weekly Skype call?
+If you find a good freelance copywriter you'll get good content that informs and entertains customers and that they might even want to share (huzzah!). The downside is that you'll still need to spend time, particuarly at the beginning of the relationship, making sure that your freelancer knows enough about your company to produce relevant content. You'll also need to keep checking in with them so that they remain up to date with what you company doing and can come up with good ideas based on this information. Perhaps you can ask them to attend a monthly meeting in person or schedule a weekly Skype call?
 
-###Working with freelancers 
+###Working with freelance copywriters 
 If you want a long and happy relationship with a freelance writer, then consider giving them: 
 
 * a style guide
@@ -226,22 +227,22 @@ If you want a long and happy relationship with a freelance writer, then consider
 In addition, get them involved in helping you shape an editorial calendar. Also make sure you have a conversation about workflow. To prevent version control issues use a collaborative writing tool like GoogleDocs or Draft. Or use a Markdown-supporting text editor and get your content producers to committ to a private repo in Github (although you'll be lucky to find a copywriter than knows Markdown/HTML/Github).
 
 ####How do I spot a good freelancer?
-If you like a copywriter's portfolio then that's a really good start. You might also look for:
+If you like a copywriter's portfolio then that's a good start. You might also look for:
 
-* some experience of web writing
+* some experience of web rather than just print writing
 * an ability to write in different styles (avoid bloggers who can only write in their own style)
 * enough interest in the job that they look at your website and make relevant suggestions 
 * enough knowledge that they might bring up style, audience and workflow in your conversation
 * a decent grasp of web writing best practice
 * customer testimonials or similar
 
-If you think you might struggle to 'spot' a good copywriter, perhaps because English is your second language, you're just not that into words or you're more familiar with print journalism, you could do some swotting up yourself on how to write web content that works. Ginny Redish's book *Web Writing that Works* is the best book on the subject, possibly complemented by *Don't Make Me Think* by Steve Krug.
+If you think you might struggle to 'spot' a good copywriter, perhaps because English is your second language or you're just not that into words you could do some swotting up yourself on how to write web content that works. Ginny Redish's book [*Letting Go of the Words*][letting go of the words] is the best book on the subject. [*Don't Make Me Think*][don't make me think] by Steve Krug is also a great read in terms of all things web.
 
-You could also ask a few friends and colleagues to give you an opinion on the writer's portfolio and style. Ideally, also ask a few of your customers or potential customers (or people like your potential customers!) to give you their opinion. After all, your copywriter will be writing for your customers, not for you. 
+You could also ask a few friends and colleagues to give you an opinion on the writer's portfolio and style. Ideally, also ask a few of your customers or potential customers to give you their opinion. After all, your copywriter will be writing for your customers, not for you. 
 
 
 ####Where do I find a good freelancer?
-You could try online marketplaces or companies like elance or scripted.com. Social media can work too, particularly LinkedIn. Many copywriters also have websites, although you might need to click through quite a few pages of google to get to the independents. Personal recommendation is usually a great bet.
+You could try online marketplaces like [Elance][elance]. Inviting people to bid on a job rather than making it open to everyone might weed out the timewasters. There are also 'talent agencies' like [Scripted][scripted]. Many copywriters, content strategists and content marketers have websites, although you might need to click through quite a few pages of Google to get to the independents. Or you can ask your network for recommendations on social media. Another option is to browse groups on LinkedIn and GooglePlus where freelancers hang out to see if you like the look of anyone.  For example, there is a good GooglePlus [blogging community][blogging community] and [content strategy community][content strategy community]. 
 
 
 ##Create a content strategy in a week
@@ -249,34 +250,34 @@ You're interested in content strategy but you're busy people. Understood. Howeve
 
 Monday
 
-1) Initial discussion about what content your company is creating, who is doing it, and why
-2) Discuss your customer research and create user personas
+* Initial discussion about what content your company is creating, who is doing it, and why
+* Discuss your existing user research and create user personas
 
 
 Tuesday 
 
-1) Discuss content themes – which personas are you going to target this month?
-2) Create content calendar for this month, and preferably a few months in advance as well
+* Discuss content themes – which personas are you going to target this month?
+* Create content calendar for this month, and preferably a few months in advance as well
 
 
 Wednesday 
 
-1) Create content template (for example, a blog template)
-2) Begin to build a style guide and brand cues documents
+* Create content templates (for example, a blog template)
+* Begin to build a style guide 
 
 
 Thursday
 
-1) Discuss who'll write this month's content 
-2) Discuss how you'll promote this month's content and who will be responsible
-3) Undertake a content inventory or audit, if you have time
+* Discuss who'll write this month's content 
+* Discuss how you'll promote this month's content and who will be responsible
+* Undertake a content inventory or audit, if you have time
 
 
 Friday
 
-1) Decide how you'll measure the success of your content efforts (your KPIs)
-2) Discuss your content audit/inventory and see if you can make any quick fixes/quick wins next week
-3) Go to the pub
+* Decide how you'll measure the success of your content efforts (your KPIs)
+* Discuss your content audit/inventory and see if you can make any quick wins next week
+* Go to the pub
   
 ##Further reading
 
@@ -299,9 +300,15 @@ I've only included a list of books because I'm confident that these are good, fi
 *Undercover User Experience Design: Learn how to do great UX work with tiny budgets, no time, and limited support* by Cennydd Bowles and James Box
 
 
-
-
-
+[a list apart]: http://alistapart.com/about/style-guide
+[cardsorting]: http://kristastevens.com/2011/05/11/message-matters-margot-bloomstein-confab-2011/
+[content strategy at work]: http://appropriateinc.com/book/
+[letting go of the words]: http://www.amazon.co.uk/Letting-Go-Words-Interactive-Technologies/dp/0123694868
+[don't make me think]: http://www.amazon.co.uk/gp/product/0321965515/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=479289247&pf_rd_s=lpo-top-stripe&pf_rd_t=201&pf_rd_i=0321344758&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_r=047NKAV97JCSA3EK6ZDX
+[elance]: https://www.elance.com/php/landing/main/login.php?redirect=https%3A%2F%2Fwww.elance.com%2Fmyelance
+[scripted]: http://scripted.com/
+[blogging community]: https://plus.google.com/communities/102678890076316597046 
+[content strategy community]: https://plus.google.com/communities/102017350063545266641
 
 
 
