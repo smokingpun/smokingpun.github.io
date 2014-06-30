@@ -17,7 +17,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 * [Do I need content strategy?](#do-i-need-content-strategy)
 * [What do content strategists do?](#what-do-content-strategists-do)
 	* [Create content templates](#create-content-templates)
-	* [Create a content inventory and/or audit](#create-a-content-inventory-and-or-audit)
+	* [Create a content inventory or audit](#create-a-content-inventory-or-audit)
 	* [Determine a message architecture](#determine-a-message-architecture)
 	* [Compile a style guide](#compile-a-style-guide)
 	* [Construct an editorial calendar](#construct-an-editorial-calendar)
@@ -82,7 +82,7 @@ You can create **content templates** for all types of pages: product pages, staf
 Content templates mean you are more likely to produce consistent, well-structured, findable, sharable and search engine optimised content. They also make it easier for you to work with freelancers.  
 
 
-###Create a content inventory and/or audit
+###Create a content inventory or audit
 A **content inventory** is an organised list of your content including as much information about each piece of content as possible. A **content audit** is a qualitative tool that helps you figure out whether those content pieces are any good. 
 
 ####So, why should you bother?
