@@ -1,8 +1,12 @@
 name: Contented Strategy Blog
-markdown: redcarpet
+markdown: kramdown
 paginate: 5
 pygments: true
 paginate_path: "blog/page:num"
 description: Hannah Adcock Neil's blog on content strategy
 url: http://contentedstrategy.com
 exclude: ["vendor",".bundle"]
+kramdown:
+  auto_ids: true
+redcarpet:
+  with_toc_data: true
