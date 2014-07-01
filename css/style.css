@@ -146,6 +146,8 @@ h2 {
 	background-color: rgb(247,247,247);
 	text-align: left;
 }
+
+
 .addthis_toolbox {
 	margin-top: 2.5em;
 }
@@ -387,6 +389,16 @@ a.button_return_to_top {
 margin-top: 2em;
 margin-bottom: 1em;
 }
+
+.guide h3 {
+	margin-top: 1.75em;
+	margin-bottom: 0.75em;
+}
+.guide h4 {
+	margin-top: 1.5em;
+	margin-bottom: 0;
+}
+
 img {
 	display: block;
 	width: 50%;
