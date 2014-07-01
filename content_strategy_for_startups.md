@@ -33,7 +33,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 
 ##What is content strategy?
 
-It's just marketing right? Or zooped up copywriting? Not exactly.  
+It's just marketing right? Or souped up copywriting? Not exactly.  
 
 > Content strategy is the practice of planning for the creation, delivery, and governance of useful, usable content. - Kristina Halvorson.
 
@@ -41,7 +41,7 @@ Some content strategists also create content – like me – but this isn't obli
 
 > "a marketing technique of creating and distributing relevant and valuable content to attract, acquire, and engage a clearly defined and understood target audience — with the objective of driving profitable customer action.” — Joe Pulizzi. 
 
-Marketers implement content strategies – they don't necessarily create them. They build relationships, rather than repeatable frameworks. Colleen Jones make the difference clear:
+Marketers implement content strategies – they don't necessarily create them. They build relationships, rather than repeatable frameworks. Colleen Jones makes the difference clear:
 
 > I see the main distinction between the two fields of practice as purpose. Content strategy is essential for a wide range of purposes — media products, technical support, customer service, sales, and marketing, to name a few. Content marketing focuses on strategy and implementation for — you guessed it — marketing.
 
@@ -118,7 +118,7 @@ According to content stratgeist Margot Bloomstein:
 >  "A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline." 
 
 ####So, why should you bother?
-A message architecture helps you develop a cohesive, consistent and even enjoyable user experience. You can't be everything to all people – and you shoulnd't be. So how do you want to be perceived? As:
+A message architecture helps you develop a cohesive, consistent and even enjoyable user experience. You can't be everything to all people – and you shouldn't be. So how do you want to be perceived? As:
 
 * Enduring, experienced and diverse
 * Reliable, secure and helpful
