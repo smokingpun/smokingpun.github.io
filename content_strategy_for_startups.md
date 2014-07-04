@@ -13,7 +13,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 
 ##List of contents
 
-* [Why do I need content strategy?](#why-do-i-need-content-strategy)
+* [Why do you need content strategy?](#why-do-you-need-content-strategy)
 * [What is content strategy?](#what-is-content-strategy)
 * [What do content strategists do?](#what-do-content-strategists-do)
 	* [Draw up content templates](#draw-up-content-templates)
@@ -23,14 +23,14 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 	* [Construct an editorial calendar](#construct-an-editorial-calendar)
 	* [Research user personas](#research-user-personas)
 	* [Mock-up wireframes](#mock-up-wireframes)
-* [How do I get good content?](#how-do-i-get-good-content)
+* [How do you get good content?](#how-do-you-get-good-content)
 	* [Your options](#your-options)
 	* [Working with freelance copywriters](#working-with-freelance-copywriters)
 * [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
 * [Further reading](#further-reading)	
 
 
-##Why do I need content strategy?
+##Why do you need content strategy?
 
 Content strategy can help with content pain points like these:
 
