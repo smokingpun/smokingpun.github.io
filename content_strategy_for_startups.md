@@ -13,8 +13,8 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 
 ##List of contents
 
+* [Why do I need content strategy?](#why-do-i-need-content-strategy)
 * [What is content strategy?](#what-is-content-strategy)
-* [Do I need content strategy?](#do-i-need-content-strategy)
 * [What do content strategists do?](#what-do-content-strategists-do)
 	* [Draw up content templates](#draw-up-content-templates)
 	* [Create a content inventory or audit](#create-a-content-inventory-or-audit)
@@ -29,6 +29,20 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 * [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
 * [Further reading](#further-reading)	
 
+
+##Why do I need content strategy?
+
+Content strategy can help with content pain points like these:
+
+* We want to use content to grow our start-up. How can we do this? What will it cost?
+* Our website isn't converting well, so what content should we keep, what should we bin and what should we create?
+* Most of our team produce content so our brand message can feel unfocused. How can we pull all our content together?
+
+Content strategy helps you stop worrying that you don't have the 'right' content or 'enough' content. Done well, it drives traffic to your website and makes you money through improved branding, social engagement, usability and SEO.
+
+I think that all companies – from early stage startups to multinationals – can benefit from thinking strategically about their content. However, this guide is specifically aimed at post-early stage startups and small businesses that want to use content to grow their business.
+
+Early tech stage startups may feel that it's enough to have a basic, high-converting website and to use adverts to drive traffic to it. I've heard several growth experts suggests this is a good use of resources – fair enough. 
 
 
 ##What is content strategy?
@@ -48,11 +62,6 @@ Marketers implement content strategies – they don't necessarily create them. T
 I'm not saying that one is 'better' than the other or that there isn't any overlap. There clearly is – as there is with information architecture and user experience. However, my particular interest is content strategy because it's relevant to so many aspects of your business, not just marketing. 
 
 If you want to learn more about content strategy and content marketing there is an [excellent article comparing the two][content strategy article] on the Content Strategy Forum. 
-
-##Do I need content strategy?
-I think that all companies – from early stage startups to multinationals – can benefit from thinking strategically about their content. However, this guide is specifically aimed at post-early stage startups and small businesses that want to use content to grow their business.
-
-Early tech stage startups may feel that it's enough to have a basic, high-converting website and to use adverts to drive traffic to it. I've heard several growth experts suggests this is a good use of resources – fair enough. 
 
 ##What do content strategists do?
 In terms of deliverables, here are a few things we do that can help startups and small companies:
@@ -192,7 +201,7 @@ Content strategist Richard Ingram describes wireframes as:
 Wireframes describe what content should be on a page. Given that content is what your site visitors are most interested in, it's important that you get it sorted first before moving on to design. Wireframing also means that you can get early stage feedback and made sure that your team are on the same page in terms of what you want to achieve. It will also help your design team understand what you want them to do. However, your content will be displayed on different viewports so a static wireframes will only help you so much. Sometimes I'll wireframe for different viewports. It depends on how your design and development team work. 
 
 
-##How do I get good content?
+##How do you get good content?
 You know you need good content in the same way you need good design, good accountancy advice and good development, but how do you get it? 
 
 ###Your options
@@ -223,7 +232,7 @@ If you want a long and happy relationship with a freelance writer, then consider
 
 In addition, get them involved in helping you shape an editorial calendar. Also make sure you have a conversation about workflow. To prevent version control issues use a collaborative writing tool like GoogleDocs or Draft. Or use a Markdown-supporting text editor and get your content producers to committ to a private repo in Github. Although you'll be lucky to find a copywriter than knows Markdown/HTML/Github.
 
-####How do I spot a good freelancer?
+####How do you spot a good freelancer?
 If you like a copywriter's portfolio then that's a good start. You might also look for:
 
 * an ability to write in different styles (avoid bloggers who can only write in their own style)
@@ -237,7 +246,7 @@ If you think you might struggle to 'spot' a good copywriter, perhaps because Eng
 You could also ask a few friends and colleagues to give you an opinion on the writer's portfolio and style. Ideally, also ask a few of your customers or potential customers to give you their opinion. After all, your copywriter will be writing for your customers, not for you. 
 
 
-####Where do I find a good freelancer?
+####Where do you find a good freelancer?
 You could try online marketplaces like [Elance][elance]. Inviting people to bid on a job rather than making it open to everyone might weed out the timewasters. There are also 'talent agencies' like [Scripted][scripted]. Many copywriters have websites, although you might need to click through quite a few pages of Google to get to the independents. Or you can ask your network for recommendations on social media. Another option is to browse groups on LinkedIn and GooglePlus where freelancers hang out to see if you like the look of anyone.  For example, there is a good GooglePlus [blogging community][blogging community] where you might track down some decent freelancers.
 
 
