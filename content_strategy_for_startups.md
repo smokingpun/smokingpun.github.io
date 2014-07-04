@@ -34,7 +34,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 
 Content strategy can help with content pain points like these:
 
-* We want to use content to grow our start-up. How can we do this? What will it cost?
+* We want to use content to grow our start-up. How can we do this? What would it involve? How do we hire a good copywriter?
 * Our website isn't converting well, so what content should we keep, what should we bin and what should we create?
 * Most of our team produce content so our brand message can feel unfocused. How can we pull all our content together?
 
