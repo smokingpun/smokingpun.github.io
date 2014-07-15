@@ -166,6 +166,10 @@ h2 {
 .content_strategy_guide a {
 	color: black;
 }
+
+.content_strategy_guide a:visited {
+	color: #666;
+}
 .content_strategy_guide a:hover {
 	color: rgb(153,24,24);
 }
