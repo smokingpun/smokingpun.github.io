@@ -40,14 +40,31 @@ h2 {
 	color:rgb(247,247,247);
 	opacity: 1;
 }
-.landing_page h1 {
+.landing_page {
 	padding: 12.5% 20%;
+	background-color: rgb(153,24,24)
+}
+.landing_page h1 {
 	text-transform: uppercase;
 	text-shadow: 0 1px 1px rgb(17, 17, 17);
 	font-size: 2.25em;
 	font-weight: 500;
 	color: rgb(247,247,247);
-	background-color: rgb(153,24,24)
+}
+.landing_page p {
+	font-size: 1em;
+	color: rgb(247,247,247);
+	margin-top: 25px;
+
+}
+.landing_page p a {
+	text-decoration: underline;
+	opacity: 0.9;
+	color: rgb(247,247,247);
+}
+.landing_page p a:hover {
+	color: rgb(247,247,247);
+	opacity: 1;
 }
 .journey {
 	padding: 5% 10%;
@@ -612,6 +629,9 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	.journey {
 		font-size: 18px;
 	}
+	.landing_page h1, p {
+		padding: 2% 2%;
+	}
 
 }
 @media screen and (max-width: 480px) {
@@ -628,6 +648,15 @@ a.button_return_to_top, a.button_hire_me, a.button_find_out_more {
 	.my_projects h2, .blog h2, .hire_me h2, .vimcasts h2, creative_touch h2 {
 		margin-top: 20px;
 	}	
+	.landing_page h1, p {
+		padding: 2% 2%;
+	}
+	.journey h2 {
+		padding: 1% 1%;
+	}
+	.journey p {
+		padding: 1% 1%;
+	}
 }
 @media screen and (max-width: 570px) {
 	h1.blog {
