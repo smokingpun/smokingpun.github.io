@@ -11,6 +11,8 @@ You know that great content will help your users understand your product and get
 
 This is where I come in. My name is Hannah Adcock and I'm going to talk you through some of the tools of our trade. It's time to make your content work harder – so you don't have to.  
 
+[Download a PDF version][download pdf]
+
 ##List of contents
 
 * [Why do you need content strategy?](#why-do-you-need-content-strategy)
@@ -283,6 +285,7 @@ Friday
 * Decide how you'll measure the success of your content efforts (your key performance indicators)
 * Discuss your content audit/inventory and see if you can make any quick wins next week
 * Go to the pub
+
   
 ##Further reading
 
@@ -305,6 +308,8 @@ I've included a list of books that are good, findable resources. However, you ca
 * *Undercover User Experience Design: Learn how to do great UX work with tiny budgets, no time, and limited support* by Cennydd Bowles and James Box
 * *Rocket Surgery Made Easy: The do-it-yourself guide to finding and fixing usability problems* by Steve Krug
 
+
+
 [a list apart]: http://alistapart.com/about/style-guide
 [cardsorting]: http://kristastevens.com/2011/05/11/message-matters-margot-bloomstein-confab-2011/
 [content strategy at work]: http://appropriateinc.com/book/
@@ -315,8 +320,9 @@ I've included a list of books that are good, findable resources. However, you ca
 [blogging community]: https://plus.google.com/communities/102678890076316597046 
 [content strategy community]: https://plus.google.com/communities/102017350063545266641
 [content strategy article]: http://csforum.eu/articles/relationship-between-cs-and-cm
-
-
+[email]: mailto:hannah.adcock@gmail.com
+[website]: http://contentedstrategy.com/
+[download pdf]: https://transactions.sendowl.com/products/63875/DD9EFF67/purchase
 
 
 
