@@ -163,6 +163,12 @@ h2 {
 	background-color: rgb(247,247,247);
 	text-align: left;
 }
+.content_strategy_guide a {
+	color: black;
+}
+.content_strategy_guide a:hover {
+	color: rgb(153,24,24);
+}
 
 
 .addthis_toolbox {
