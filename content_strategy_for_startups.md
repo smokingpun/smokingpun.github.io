@@ -61,7 +61,7 @@ Marketers implement content strategies – they don't necessarily create them. C
 
 > I see the main distinction between the two fields of practice as purpose. Content strategy is essential for a wide range of purposes — media products, technical support, customer service, sales, and marketing, to name a few. Content marketing focuses on strategy and implementation for — you guessed it — marketing.
 
-I'm not saying that one is 'better' than the other or that there isn't any overlap. There clearly is – as there is with information architecture and user experience. However, my particular interest is content strategy because it's relevant to so many aspects of your business, not just marketing. 
+I'm not saying that one is 'better' than the other or that there isn't any overlap. There is – as there is with information architecture and user experience. However, my particular interest is content strategy because it's relevant to so many aspects of your business, not just marketing. 
 
 If you want to learn more about content strategy and content marketing there is an [excellent article comparing the two][content strategy article] on the Content Strategy Forum. 
 
@@ -177,7 +177,7 @@ To quote author Ginny Redish:
 
 > A persona is an individual with a name, a picture, specific demographics, and other characteristics. A persona is, however, not usually based on one actual individual. Rather, each persona is a composite of characteristics or real people in the group the persona represents
 
-You can use personas to breathe life into the information that you've gathered about your site visitors. And if you haven't any information on your site visitors then get gathering! Your support queue, inbox, social media, analytics and site search logs are a good place to start. 
+You can use personas to breathe life into the information that you've gathered about your site visitors. And if you haven't any information on your site visitors then get gathering! Your support queue, inbox, social media, analytics and site search logs are a good place to start. Also, consider conducting a survey or user interviews to gain a deeper understanding about how your customers think. 
 
 What makes up a persona? 
 
