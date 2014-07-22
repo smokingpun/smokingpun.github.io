@@ -228,7 +228,7 @@ By being scientific about what content you produce, rather than churning out twe
 * optimise all your content for different viewports, so you're not wasting resources producing content that people can't – or don't want to – read
 * a/b test different layouts – there's no point writing a great blog post if people find the layout puts them off reading it
 * measure which pieces of content do well using Google Analytics or similar – and consider expanding them or creating more content around that theme
-* repurpose content – perhaps turn a blog post into a SlideShare presentation or a few posts into a product guide targeted at one of your customer segments
+* repurpose content – perhaps turn a blog post into a slide deck or a few posts into a product guide targeted at one of your customer segments
 
 <img class="lean" src="/images/lean.png" alt="create, measure, learn">
 
