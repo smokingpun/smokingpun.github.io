@@ -25,6 +25,7 @@ This is where I come in. My name is Hannah Adcock and I'm going to talk you thro
 	* [Construct an editorial calendar](#construct-an-editorial-calendar)
 	* [Research user personas](#research-user-personas)
 	* [Mock-up wireframes](#mock-up-wireframes)
+* [What kind of content do you need?](#what-kind-of-content-do-you-need)
 * [How do you get good content?](#how-do-you-get-good-content)
 	* [Your options](#your-options)
 	* [Working with freelance copywriters](#working-with-freelance-copywriters)
@@ -89,6 +90,9 @@ You can create content templates for all types of pages: product pages, staff bi
 ####So, why should you bother?
 Content templates mean you are more likely to produce consistent, well-structured, findable, sharable and search engine optimised content. They also make it easier for you to work with freelancers.  
 
+<img class="content_template" src="/images/content_template.png" alt="sample of a content template">
+
+_Part of a content template for a blog article_
 
 ###Create a content inventory or audit
 A content inventory is an organised list of your web content including as much information about each piece of content as possible. A content audit is a qualitative tool that helps you figure out whether those content pieces are any good. 
@@ -140,6 +144,10 @@ A message architecture helps you develop a cohesive, consistent and even enjoyab
 You can establish a message architecture in a number of ways, including ['cardsorting'][cardsorting], through a Venn diagram or through a big argument fuelled by too much coffee (not recommended). For more information I'd suggest having a look at Margot Bloomstein's excellent book [*Content Strategy at Work*][content strategy at work].
 
 Note that a message architecture is different from brand values. The latter is more an internal document, while the former are about how you communicate with your target audience. 
+
+<img class="card_sorting_big" src="/images/card_sorting_big.jpg" alt="photo of card sorting exercise in the sunshine">
+
+_Card sorting in the sunshine – the dog is optional._
 
 ###Compile a style guide
 This is a set of guidelines and standards mainly covering style and tone. If there is a particular style guide that you like, you can always refer to it for general queries. Then you can just write a supplementary style guide that targets issues of particular relevance to your company. 
@@ -202,6 +210,27 @@ Content strategist Richard Ingram describes wireframes as:
 ####So, why should you bother?
 Wireframes describe what content should be on a page. Given that content is what your site visitors are most interested in, it's important that you get it sorted first before moving on to design. Wireframing also means that you can get early stage feedback and make sure that your team are on the same page in terms of what you want to achieve. It will also help your design team understand what you want them to do. However, your content will be displayed on different viewports so a static wireframe will only help you so much. Sometimes I'll wireframe for different viewports. It depends on how your design and development team work. 
 
+<img class="wireframe" src="/images/wireframe.png" alt="part of a homepage wireframe">
+
+_Part of a homepage wireframe_
+
+
+##What kind of content do you need?
+
+Two words – lean content. If you've already read _The Lean Startup_ by Eric Ries, you'll probably be familiar with this approach. If not, I'll summarise: the lean approach is about learning what your customers really want, testing your vision continuously, adapting and adjusting before it's too late. 
+
+###How do you apply this to content?
+
+By being scientific about what content you produce, rather than churning out tweets, blogs, 'how to' articles and YouTube videos because you think it's a good plan. Here are a few ways you can make the most of your limited resources:
+
+* test messages that resonate with your customers before writing content – you can do this by running a short Google AdWords or Facebook advertising campaign and see what copy gets people clicking through
+* write content with a particular user persona in mind – rather than trying to write for everyone who uses your product
+* optimise all your content for different viewports, so you're not wasting resources producing content that people can't – or don't want to – read
+* a/b test different layouts – there's no point writing a great blog post if people find the layout puts them off reading it
+* measure which pieces of content do well using Google Analytics or similar – and consider expanding them or creating more content around that theme
+* repurpose content – perhaps turn a blog post into a SlideShare presentation or a few posts into a product guide targeted at one of your customer segments
+
+<img class="lean" src="/images/lean.png" alt="create, measure, learn">
 
 ##How do you get good content?
 You know you need good content in the same way you need good design, good accountancy advice and good development, but how do you get it? 

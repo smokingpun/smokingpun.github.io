@@ -350,6 +350,14 @@ h2.blog_post_title {
 h1.free_content_strategy_guide_text_header {
 	padding-top: 1em;
 }
+.content_strategy_guide li {
+	padding-bottom: 5px;
+}
+
+img.card_sorting_big, img.wireframe, img.content_template, img.lean {
+	padding-bottom: 5px;
+	width: 100%;
+}
 body.get_access div#convert_kit_form {
 	padding-bottom: 3em;
 }
