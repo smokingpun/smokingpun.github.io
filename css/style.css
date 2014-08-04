@@ -163,8 +163,39 @@ h2 {
 	background-color: rgb(247,247,247);
 	text-align: left;
 }
+
+.content_strategy_guide h5 {
+	margin-bottom: 0;
+	padding-top: 0.8em;
+	font-size: 1em;	
+}
+
+.content_strategy_guide h4 {
+	color: rgb(153,24,24);
+	font-size: 1.2em;
+	padding-top: 1em;
+}
+.content_strategy_guide h3 {
+	font-size: 1.5em;
+}
+.content_strategy_guide h2 {
+	font-size: 1.75em;
+}
+.content_strategy_guide h1 {
+	font-size: 2em;
+}
+
 .content_strategy_guide a {
 	color: black;
+}
+
+#halvorson_quote {
+	border: 3px solid black;
+	padding: 2em 1em;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	text-align: center;
+	font-size: 1.5em;
 }
 
 .content_strategy_guide a:visited {
