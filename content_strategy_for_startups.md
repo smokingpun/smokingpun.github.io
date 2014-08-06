@@ -8,22 +8,37 @@ classname: content-strategy-for-startups
 #Content strategy for startups and small businesses: <br/>The essential guide
 _by Hannah Adcock of Contented Strategy_
 
-Content strategy is "the practice of planning for the creation, delivery, and governance of useful, usable content" (Kristina Halvorson). It can stop you worrying that you don't have the 'right' content or 'enough' content. Done well, it drives traffic to your website and makes you money through improved branding, social engagement, usability and SEO.
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52e913b762406da7"></script>
+<!-- AddThis Button END -->
+
+
+Many startups and small growing businesses overlook the importance of content, because they are focused on other matters. But content is essential to communicating your product, and reducing the cost of servicing your customers. Content strategy will help you make the most of your content. It is "the practice of planning for the creation, delivery, and governance of useful, usable content" (Kristina Halvorson). It can stop you worrying that you don't have the 'right' content or 'enough' content. Done well, it drives traffic to your website and makes you money through improved branding, social engagement, usability and SEO.
 
 
 ##List of contents
 
-* [What problems can content strategy help you tackle?](#What-problems-can-content-strategy-help-you-tackle)
-	* [We want to grow faster and we think good content might help](#We-want-to-grow-faster-and-we-think-good-content-might-help)
-	* [Our app design is great but users are getting stuck on certain tasks](#Our-app-design-is-great-but-users-are-getting-stuck-on-certain-tasks)
-	* [We find it hard to get our team, including freelancers, to produce content in a consistent style](#We-find-it-hard-to-get-our-team-including-freelancers-to-produce-content-in-a-consistent-style)
-	* [We want to improve user engagement with our website but don't know where to start](#We-want-to-improve-user-engagement-with-our-website-but-don't-know-where-to-start)
-	* [We want to differentiate ourselves from our competitors to promote brand loyalty and increase sales](#We-want-to-differentiate-ourselves-from-our-competitors-to-promote-brand-loyalty-and-increase-sales)
-	* [Our content marketing feels uneven and we're not sure it's offering a good return on investment](#Our-content-marketing-feels-uneven-and-we're-not-sure-it's-offering-a-good-return-on-investment)
-	* [Our landing pages look good but don't convert very well](Our-landing-pages-look-good-but-don't-convert-very-well)
-	* [We don't have a copywriter on the team – how do we get good content?](We-don't-have-a-copywriter-on-the-team-how-do-we-get-good-content?)
-	* [We need to outsource content production - how do we find a good freelancer?](We-need-to-outsource-content-production-how-do-we-find-a-good-freelancer)
-* [What is content strategy?](#What-is-content-strategy)	
+* [What problems can content strategy help you tackle?](#what-problems-can-content-strategy-help-you-tackle)
+	* [1. We want to grow faster and we think good content might help](#we-want-to-grow-faster-and-we-think-good-content-might-help)
+	* [2. Our app design is great but users are getting stuck on certain tasks](#our-app-design-is-great-but-users-are-getting-stuck-on-certain-tasks)
+	* [3. We find it hard to get our team, including freelancers, to produce content in a consistent style](#we-find-it-hard-to-get-our-team-including-freelancers-to-produce-content-in-a-consistent-style)
+	* [4. We want to improve user engagement with our website but don't know where to start](#we-want-to-improve-user-engagement-with-our-website-but-dont-know-where-to-start)
+	* [5. We want to differentiate ourselves from our competitors to promote brand loyalty and increase sales](#we-want-to-differentiate-ourselves-from-our-competitors-to-promote-brand-loyalty-and-increase-sales)
+	* [6. Our content marketing feels uneven and we're not sure it's offering a good return on investment](#our-content-marketing-feels-uneven-and-were-not-sure-its-offering-a-good-return-on-investment)
+	* [7. We're not sure if customers understand how to use our product, or that we're reaching everyone who might be a prospective customer](#were-not-sure-if-customers-understand-how-to-use-our-product-or-that-were-reaching-everyone-who-might-be-a-prospective-customer)
+	* [8. Our landing pages look good but don't convert very well](#our-landing-pages-look-good-but-dont-convert-very-well)
+	* [9. How do we get good content when we don't have a copywriter on the team?](#how-do-we-get-good-content-when-we-dont-have-a-copywriter-on-the-team)
+	* [10. How do we tell if a freelancer is any good?](#how-do-we-tell-if-a-freelancer-is-any-good)
+* [What is content strategy?](#what-is-content-strategy)	
 * [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
 * [Further reading](#further-reading)	
 
@@ -64,7 +79,7 @@ If you're working in a rapid prototyping environment then don't pass up the chan
 Some microcopy tips:
 
 #####Microcopy doesn't just need to be functional
-Do take the chance to inject some personality into success messages, reward notifications, 404 pages, server messaging and similar. Just don't let personality get in the way of a user trying to perform an action, and tone down your branding when your user might be angry.
+Do take the chance to inject some personality into success messages, reward notifications, 404 pages, server messaging and similar. This can help customers feel comfortable with your product or service so they want to use it, and recommend it to friends. Just don't let personality get in the way of a user trying to perform an action, and tone down your branding when your user might be angry.
 
 #####Use the same language as your customers
 Don't expect a user to know what an in-house acronym means – and don't use them in your navigation. Similarly, don't assume that users will know what an icon means on your app. Consider supporting an icon with microcopy. 
@@ -76,10 +91,10 @@ We've all been there when we've entered our phone number and an unhelpful error 
 If you can soothe people's anxeties before they get the better of them, then you'll see more email signups and fewer drops offs during checkout. Some common user anxieties include: that you'll spam them or send them too many emails if they part will their email; that they'll need to set up an account to complete their purchase using Paypal; that they will have to enter their credit card details to get a free trial.
 
 #####Don't try to fix a design problem with copy
-As a guide, sentences of 8 words or fewer are classed as 'easy to read'. If you find yourself writing more then it might be because you have a design problem. Change the design rather than using more words. 
+As a guide, sentences of 8 words or fewer are classed as 'easy to read'. Copy problems can point to design issues.  Good copy makes design work 
 
 <div id="halvorson_quote">
-"High quality web content that's useful, usable, and enjoyable is one of the greatest competitive advantages you can create for yourself online."
+"High quality web content that's useful, usable, and enjoyable is one of the greatest competitive advantages you can create for yourself online." 
 Kristina Halvorson, Content Strategy for the Web
 </div>
 
@@ -105,9 +120,9 @@ You can create content templates for all types of pages: product pages, staff bi
 * a body section including a number of short (1-3 sentence) paragraphs
 
   
-<img class="content_template" src="/images/content_template.png" alt="sample of a content template">
+<!-- <img class="content_template" src="/images/content_template.png" alt="sample of a content template"> -->
 
-<!-- _Part of a content template for a blog article_ -->
+_Part of a content template for a blog post_
 
 If you want a long and happy relationship with a freelance writer, then also consider giving them: 
 
@@ -115,7 +130,7 @@ If you want a long and happy relationship with a freelance writer, then also con
 * an outline of your message architecture
 * user personas 
 
-Also make sure you have a conversation about workflow. To prevent version control issues use a collaborative writing tool like GoogleDocs or Draft. Or consider using a content development platform like [Gather Content][Gather Content]. Alternatively, use a Markdown-supporting text editor and get your content producers to commit to a private repo in Github. Although you'll be lucky to find a copywriter than knows Markdown/HTML/Github. I only started learning to code last year. 
+Also make sure you have a conversation about workflow. There are light weight solutions that control versions, and don’t cost much money, such as GoogleDocs or Draft. Or consider using a content development platform like [Gather Content][Gather Content]. Alternatively, use a Markdown-supporting text editor and get your content producers to commit to a private repo in Github. Although you'll be lucky to find a copywriter than knows Markdown/HTML/Github. I only started learning to code last year. 
 
 ####Solution (2): Compile a style guide
 It looks unprofessional if your use of language isn't consistent, and it can seriously undermine your message architecture. For example, if a customer is browsing one page of your website that is written in a conversational tone and then clicks through to a page where the language is suddenly much more formal, what will they think? That your business is... unfocused? Or perhaps that you can't be bothered to pay attention to detail? Even if they don't consciously notice the change in tone, they will be left with a slightly fuzzy impression of your company. And this makes you easy to forget, particularly when your competitor offers a much more branded experience, in terms of design and content.
@@ -131,7 +146,7 @@ Style guides can be as large or as small as you need them to be – and this dep
 You should always be analysing and testing your website to work out how you can improve the user experience and more effectively target your customer segments. However, to do this strategically, you need to know exactly what content is on your website and whether it is any good.  
 
 ####Solution: Create a content inventory or audit
-A content inventory is an organised list of your web content including as much information about each piece of content as possible. A content audit is a qualitative tool that helps you figure out whether those content pieces are any good. 
+A content inventory is an organised list of your web content including as much information about each piece of content as possible. A content audit is a qualitative tool that can identify content that might be missing, as well as content that needs updating or removing.
 
 A content inventory lets you know what content you have on your website. Even if you have a small site, you may forget what's on some of your pages or begin to take your website for granted (it's familiar; therefore it's ok). A content inventory includes basic things like:
 
@@ -162,8 +177,11 @@ If you're really getting into this auditing stuff, you can also do a competitor 
 
 Undertake a competitor analysis with an open mind though. Not everything your competitors do is lousy!
 
+<div id="shaw_quote">
+"Where in the recent past impact and differentiation could be achieved through pure design thinking, these days it is the way an organization creates and manages its content that is the real unique proposition in the marketplace." Mark Shaw, Copywriting
+</div>
 
-###4. We want to differentiate ourselves from our competitors to promote brand loyalty and increase sales
+###5. We want to differentiate ourselves from our competitors to promote brand loyalty and increase sales
 You can't be everything to all people – and you shouldn't be. You have a nice logo and company colours but that isn't enough to create a brand. What you want is to develop a cohesive, consistent and enjoyable user experience across all your content.
 
 ####Solution: Develop a message architecture
@@ -188,7 +206,7 @@ Note that a message architecture is different from brand values. The latter is m
 _Card sorting in the sunshine – the dog is optional._
 
 
-###5. Our content marketing feels uneven and we're not sure it's offering a good return on investment
+###6. Our content marketing feels uneven and we're not sure it's offering a good return on investment
 It's easy to get caught up creating a blog post, or an advert, or managing a Twitter conversation, but make sure you know what's up next. You will grow your business by planning to create engaging, relevant content over the longer term. A one-off blog post, no matter how good, will only achieve so much.
 
 ####Solution: Construct an editorial calendar
@@ -212,7 +230,7 @@ You can create an editorial calendar as a table using Markdown and commit to Git
 This last category can help you keep track of the return on investment offered by your content marketing. But how do you measure this? It depends what you want your content to achieve. If your business model is based on reach then you'll probably be interested in social shares and similar. If your business model is based on a sticky revenue, you'll want to track how your existing customers are engaging with your content. As Eric Ries says though, avoid vanity metrics. In the context of content marketing, this might include an over-emphasis on unique page views, without considering who these users are and how they have interacted with your content. 
 
 
-###6. Our customers are acting in unexpected ways
+###7. We're not sure if customers understand how to use our product, or that we're reaching everyone who might be a prospective customer
 If your customers are people like you then congratulations, you're very lucky. It will be fairly easy to work out what they need. However, if your customers are not like you, or your company has a number of different types of customers, then ideally you need to work out what they need. Don't just guess! Then you can produce focused content that appeals to your customers rather than any old content that might not. I always think about what persona or personas I'm writing for when I produce a new piece of content. This way I remain focused on who I'm writing for as well as where I should promote that content.
 
 ####Solution: Research user personas
@@ -234,7 +252,7 @@ What makes up a persona?
 
 
 
-###7. Our landing pages look good but don't convert very well
+###8. Our landing pages look good but don't convert very well
 Given that content is what your site visitors are most interested in, you'll see better results if you think about your content first before involving a designer. If you've already built your landing page it's not too late to improve your content though. 
 
 ####Solution (1): Mock-up wireframes
@@ -254,7 +272,7 @@ _Part of a homepage wireframe_
 If you've already built your landing page but it isn't converting well, you could a/b test to see what's causing the friction. Perhaps you have too many links? Too much copy? An underperforming headline? An unpersuasive call to action? Services like [Optimizely][Optimizely] and [Visual Website Optimiser][vwo] can make a/b testing fairly straightforward. 
 
 
-###8. We don't have a copywriter on the team – how do we get good content?
+###9. How do we get good content when we don't have a copywriter on the team?
 You know you need good content in the same way you need good design, good accountancy advice and good development, but how do you get it? 
 
 ####Solution (1): We'll aggregate content
@@ -273,7 +291,7 @@ Can't you just pay someone $10 for a blog post – or even $4? Of course you can
 ####Solution (5): Okay, we'll pay a freelance copywriter
 If you find a good freelance copywriter you'll get good content that informs and entertains customers and that they might even want to share (huzzah!). The downside is that you'll still need to spend time, particuarly at the beginning of the relationship, making sure that your freelancer knows enough about your company to produce relevant content. You'll also need to keep checking in with them so that they remain up to date with what your company is doing and can come up with good ideas based on this information. Perhaps you can ask them to attend a monthly meeting in person or schedule a weekly Skype call?
  
-###9. We need to outsource content product – how do we find a good freelancer?
+###10. How do we tell if a freelancer is any good?
 If you like a copywriter's portfolio then that's a good start. You might also look for:
 
 * an ability to write in different styles (avoid bloggers who can only write in their own style)
@@ -295,7 +313,7 @@ It's just marketing right? Or souped up copywriting? Not exactly.
 
 > Content strategy is the practice of planning for the creation, delivery, and governance of useful, usable content. - Kristina Halvorson.
 
-Some content strategists also create content – like me – but this isn't obligatory or even all that usual. Content marketing is slightly different. It is:
+CS helps you set up a repeatable process, so you know what to do when different content needs arise. Content strategists also create content – like me – but this isn't obligatory or even all that usual. Content marketing is slightly different. It is:
 
 > A marketing technique of creating and distributing relevant and valuable content to attract, acquire, and engage a clearly defined and understood target audience — with the objective of driving profitable customer action. — Joe Pulizzi. 
 
@@ -343,8 +361,10 @@ Friday
 * Go to the pub   
      
 
-###Need help with your content strategy? 
-Get in touch at [hannah.adcock@gmail.com][email] so we can talk about what you need. We'll come up with a package that suits your company and budget.
+<div id="need_help_quote">
+Need help with your content strategy? 
+Get in touch at <a href="mailto:hannah.adcock@gmail.com">hannah.adcock@gmail.com</a> so we can talk about what you need. We'll come up with a package that suits your company and budget.
+</div>
 
   
 ##Further reading

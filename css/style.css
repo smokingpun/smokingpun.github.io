@@ -189,13 +189,14 @@ h2 {
 	color: black;
 }
 
-#halvorson_quote {
+#halvorson_quote, #shaw_quote, #need_help_quote {
 	border: 3px solid black;
 	padding: 2em 1em;
 	margin-top: 3em;
 	margin-bottom: 3em;
-	text-align: center;
+	text-align: left;
 	font-size: 1.5em;
+
 }
 
 .content_strategy_guide a:visited {
@@ -207,7 +208,8 @@ h2 {
 
 
 .addthis_toolbox {
-	margin-top: 2.5em;
+	margin-top: 2em;
+	margin-bottom: 1.5em;
 }
 .blog h1 {
 	margin-bottom: 30px;
