@@ -61,13 +61,13 @@ By being scientific about what content you produce, rather than producing as man
 Test messages that resonate with your customers before writing content – you can do this by running a short Google AdWords or Facebook advertising campaign and seeing what copy gets people clicking through. You can also see which of your tweets and posts get the most traction and consider creating content on a similar theme. Or measure which pieces of content on your website have led people into your sales funnel using Google Analytics, KISSmetrics or similar, and consider creating more content around that theme.
 
 #####Work out who you are writing for before creating content
-Write content with a particular type of customer in mind – rather than trying to write for everyone who uses your product (see user personas below). If you aren't sure who your users are consider creating a survey or organising some user interviews to find out. 
+Write content with a particular type of customer in mind – rather than trying to write for everyone who uses your product. If you aren't sure who your users are consider creating a survey or organising some user interviews to find out. 
 
 #####Make sure your users can read your content before creating more 
 Optimise your content for different viewports, so you're not wasting resources producing content that people don't want to read because they have to pinch & zoom or squint. Also considering a/b testing different layouts – there's no point refining your call to action on a landing page if people get distracted by a carousel and don't really see it.
 
 #####Consider repurposing content rather than creating expensive new content
-Perhaps turn a blog post into a slide deck or a few posts into a product guide targeted at one of your customer segments. You might also consider curating content sourced either from your own customer base or from online sources (also see: We don't have a copywriter on the team – how do we get good content?).
+Perhaps turn a blog post into a slide deck or a few posts into a product guide targeted at one of your customer segments. You might also consider curating content sourced either from your own customer base or from online sources (also see: 9. How do we get good content when we don't have a copywriter on the team?).
 
 
 ###2. Our app design is great but users are getting stuck on certain tasks
@@ -227,7 +227,7 @@ You can create an editorial calendar as a table using Markdown and commit to Git
 * pictures
 * success of piece of content (to be filled in retrospectively)
 
-This last category can help you keep track of the return on investment offered by your content marketing. But how do you measure this? It depends what you want your content to achieve. If your business model is based on reach then you'll probably be interested in social shares and similar. If your business model is based on a sticky revenue, you'll want to track how your existing customers are engaging with your content. As Eric Ries says though, avoid vanity metrics. In the context of content marketing, this might include an over-emphasis on unique page views, without considering who these users are and how they have interacted with your content. 
+This last category can help you keep track of the return on investment offered by your content marketing. But how do you measure this? It depends what you want your content to achieve. If your business model is based on reach then you'll probably be interested in social shares and similar. If your business model is based on sticky revenue, you'll want to track how your existing customers are engaging with your content. As Eric Ries says though, avoid vanity metrics. In the context of content marketing, this might include an over-emphasis on unique page views, without considering who these users are and how they have interacted with your content. 
 
 
 ###7. We're not sure if customers understand how to use our product, or that we're reaching everyone who might be a prospective customer
