@@ -51,7 +51,7 @@ Done well, content can help you position yourself as an authority on your subjec
 
 
 ####Solution: lean content
-If you've already read _The Lean Startup_ by Eric Ries, you'll probably be familiar with this approach. If not, I'll summarise: the lean approach is about learning what your customers really want, testing your vision continuously, adapting and adjusting before it's too late. 
+If you've already read [*The Lean Startup*][Lean Startup] by Eric Ries, you'll probably be familiar with this approach. If not, I'll summarise: the lean approach is about learning what your customers really want, testing your vision continuously, adapting and adjusting before it's too late. 
 
 <img class="lean" src="/images/lean.png" alt="create, measure, learn">
 
@@ -408,6 +408,7 @@ I've included a list of books that are good, findable resources. However, you ca
 [Gather Content]: https://gathercontent.com/
 [vwo]: https://vwo.com/
 [Optimizely]: https://www.optimizely.com/
+[Lean Startup]: http://www.amazon.co.uk/The-Lean-Startup-Innovation-Successful/dp/0670921602
 
 
 
