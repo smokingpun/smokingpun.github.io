@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Content Strategy for Startups and small businesses. The Essential Guide.
+title: Content Strategy for Startups and Small Businesses. The Essential Guide.
 classname: content-strategy-for-startups
 ---
 
