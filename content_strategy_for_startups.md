@@ -42,7 +42,7 @@ Many startups and small growing businesses overlook the importance of content, b
 * [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
 * [Further reading](#further-reading)	
 
-<!-- [Download a PDF version][download pdf] -->
+[Download a PDF version][download pdf]
 
 ##What problems can content strategy help you tackle?
 
@@ -122,7 +122,7 @@ You can create content templates for all types of pages: product pages, staff bi
   
 <!-- <img class="content_template" src="/images/content_template.png" alt="sample of a content template"> -->
 
-_Part of a content template for a blog post_
+<!-- _Part of a content template for a blog post_ -->
 
 If you want a long and happy relationship with a freelance writer, then also consider giving them: 
 
