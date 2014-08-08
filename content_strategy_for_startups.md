@@ -42,7 +42,7 @@ Many startups and small growing businesses overlook the importance of content, b
 * [Create a content strategy in a week](#create-a-content-strategy-in-a-week)
 * [Further reading](#further-reading)	
 
-[Download a PDF version][download pdf]
+Don't want to read a web page? [Download a PDF version][download pdf]
 
 ##What problems can content strategy help you tackle?
 
