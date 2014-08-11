@@ -1,0 +1,40 @@
+
+---
+layout: post
+title:  "Redesigning Vimcasts: was it worth it?"
+date:   2014-08-11 
+categories: blog
+metadescription: I was asked by Drew Neil, founder of Vimcasts, to help with a website redesign. We sat down and decided on three content strategy goals: to increase engagement with the website by makign the content easier to navigate on all devices, increase traffic through a braoder social media strategy and give more visibility to training, publications and pro-screencasts. We launched the new website design on April 28th. So – did we achieve our goals? Mainly, yes. Huzzah!
+
+---
+
+I was asked by Drew Neil, founder of Vimcasts, to help with a website redesign. We sat down and decided on three content strategy goals: to increase engagement with the website by making the content easier to navigate on all devices, increase traffic through a braoder social media strategy and give more visibility to training, publications and pro-screencasts. We launched the new website design on April 28th. So – did we achieve our goals? Mainly, yes. Huzzah! Here's our report, three months on.
+
+###Increase engagement with the website by making the content easier to navigate on all devices.
+
+What we did:
+
+* added search
+* added a categories page
+* moved the website to a fast static site generator to reduce page load time
+* gave the homepage a cleaner look so people can easily view the latest blog posts, screen cast or do a general search for what interests them most
+* made the website responsive
+
+What happened:
+
+####Vim fans engaged more with the website
+There was a noticeable increase in the number of pages Vim fans browsed in one session as well as the time they spent on site. Despite a slight decrease in overall site visitors, pageviews increased from 168,094 to 198,972, pages/sessions increased from 1.99 to 2.48 and average session duration increased from 2.59 to 3.23. Looking at Google Analytics' behavior flow we can see more people interacting once and then twice with the website and fewer drops offs. 
+
+[pic]
+
+This increase in engagement was apparent on all devices. Mobile browsers looked at 2.34 pages/session as opposed to 1.95, while tablet browsers looked at 3.17 rather than 2.52. The site-wide bounce rate for mobile users also slightly decreased from 71% to 67.6% and for tablet users from 62% to 58%. 
+
+####Potential Vimcast fans slightly preferred the new homepage
+The homepage bounce rate dropped from 49% to 43% – still plenty of room for improvement, but a move in the right direction. The number of pages/session also increased to 4.08 from 2.82 and the avg. session duration increased to an respectable 6.10sec from 4.51sec. 
+
+####The site speed increased
+The average page load time decreased from a rather laboured 7.65secs to 3.68secs. 
+
+####Thoughts
+The data is encouraging: there has been a measurable increase in engagement with the website on all devices. There is still room for improvement though. The homepage could be improved. There is possibly too little prioritisation of content and the tagline is taking up prime real estate on larger viewports. Some Vim fans also miss the archive page – where all content is organised by date. This is tricky, because date isn't an efficient way to organise data. However, we get that seeing all screencasts might be desirable, at least until there is too much of it!
+
