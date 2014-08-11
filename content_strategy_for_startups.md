@@ -410,6 +410,10 @@ I've included a list of books that are good, findable resources. However, you ca
 [Optimizely]: https://www.optimizely.com/
 [Lean Startup]: http://www.amazon.co.uk/The-Lean-Startup-Innovation-Successful/dp/0670921602
 
+<div id="thanks">
+<strong>A huge thank you</strong> to content strategist <a href="http://storyneedle.com/">Michael Andrews</a> for his invaluable suggestions about how I could improve this guide. Also thanks to content strategist <a href="http://hayleighwrites.wordpress.com/">Hayleigh Wronski</a>, social media consultant <a href="http://www.alisonbattisby.com/">Alison Battisby</a>, entrepreneur <a href="https://twitter.com/charlieirish">Charlie Irish</a> and my husband <a href="http://peertopeer.io/">Andrew Neil</a> for their kind and constructive comments.   
+</div>
+
 
 
 
