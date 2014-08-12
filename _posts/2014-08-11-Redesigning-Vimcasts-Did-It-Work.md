@@ -92,7 +92,7 @@ It's slightly hard to be measure because Drew has been promoting his Core Vim Co
 ####My thoughts
 There's still room for improvement in terms of the homepage and in terms of optimising key landing pages. At the moment, people can't use PayPal to buy the Core Vim Course and Classes. This is affecting the conversion rate, among other factors. 
 
-Mainly though, I feel like I'm not quite getting to grips with the statistics. I'm looking at individual statistics grouped together rather than tracking the journey of people through the sales funnel. This is something we need to work on to gain a better understanding of how people interact with the paid options on the website. 
+Mainly though, I'm been looking at individual statistics grouped together rather than tracking the journey of people through the sales funnel. We need to set up sales funnel tracking to gain a better understanding of how people interact with the paid options on the website. 
 
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section].
