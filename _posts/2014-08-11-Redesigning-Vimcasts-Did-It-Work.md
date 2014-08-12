@@ -26,7 +26,7 @@ Here's what happened:
 
 ####The audience engaged more with the website
 There was a noticeable increase in the number of pages that visitors browsed in one session as well as the time they spent on site.
-Despite a slight decrease in overall site visitors, the total number of pages visited over a three month period increased from 168,100 to 199,000 pageviews.
+Despite a slight decrease in overall site visitors, the total number of pages visited increased from 168,100 in the three months preceding the launch to 199,000 pageviews in the three months afterwards.
 We saw an increase from 1.99 to 2.48 pages/session, while average session duration went up from 2m59s to 3m23s.
 Looking at Google Analytics' behavior flow we saw more people interacting once and then twice with the website and fewer drops offs. 
 
@@ -38,15 +38,15 @@ For mobile users, we saw an increase from 1.95 to 2.34 pages/session; for tablet
 The site-wide bounce rate for mobile users also slightly decreased from 71% to 67.6% and for tablet users from 62% to 58%. 
 
 ####Potential Vimcast fans slightly preferred the new homepage
-The homepage bounce rate dropped from 49% to 43% – still plenty of room for improvement, but a move in the right direction. The exit rate dropped from 42.98% to 35.65%. The number of pages/session also increased to 4.08 from 2.82 and the avg. session duration increased to an respectable 6.10sec from 4.51sec. 
+The homepage bounce rate dropped from 49% to 43% – still plenty of room for improvement, but a move in the right direction. The exit rate dropped from 42.98% to 35.65%. The number of pages/session also increased to 4.08 from 2.82 and the avg. session duration increased to a respectable 6.10sec from 4.51sec. 
 
 ####The site speed increased
 The average page load time decreased from 7.65secs to 3.68secs. 
 
 ####My thoughts
-The data is encouraging: there has been a measurable increase in engagement with the website on all devices. There is still room for improvement though. There is too little prioritisation of content on the homepage, meaning that some visitors are unsure what action to take. Also, are there other factors that could explain these results? 
+The data is encouraging: there has been a measurable increase in engagement with the website on all devices. There is still room for improvement though. There is too little prioritisation of content on the homepage, meaning that some visitors are unsure what action to take. 
 
-I considered whether people were confused by the new website and clicking through to find what they wanted. I also considered whether visitors landed on the homepage rather than the deprioritised archive page and clicking through a few levels to find relevant content. However, these suggestions are a bit pessimistic. To continue moving through a site people usually need to have faith that they'll find the information they need. Confused visitors tend to leave. We also actually saw a decrease in the number of visitors landing on the hompepage (28.85% to 23.55%) – more visitors were landing directly on screencast or article pages and then moving around the site.  
+Also, are there other factors that could explain these results? I considered whether people were confused by the new website and clicked through to find what they wanted. I also considered whether visitors landed on the homepage rather than the deprioritised archive page and clicked through the site to find relevant content. However, these suggestions are a bit pessimistic. To continue moving through a site people usually need to have faith that they'll find the information they need. Confused visitors tend to leave. We also actually saw a decrease in the number of visitors landing on the hompepage (28.85% to 23.55%) – more visitors were landing directly on screencast or article pages and then moving around the site.  
 
 ###Goal 2. Increase traffic through a broader social media strategy
 
@@ -63,7 +63,7 @@ What we failed to do:
 
 Here's what happened:
 
-Not a lot. The GooglePlus account is slowly gaining traction (720 views) and people are sharing and liking the posts. Twitter remains a popular way for people to engage with Vimcasts – there are currently 3,900 followers, which is 400 more than on 26th January. However, the number  of people finding Vimcasts though social media has remained fairly constant.
+Not a lot. The Google+ account is slowly gaining traction (720 views) and people are sharing and liking the posts. Twitter remains a popular way for people to engage with Vimcasts – there are currently 3,900 followers, which is 400 more than at the end of January. However, the number  of people finding Vimcasts though social media has remained fairly constant.
 
 ####My thoughts
 We've probably got the results we deserve in terms of this goal. The share buttons are not being used much. This might be because they are at the end of screencast (and article) pages and only some people will see them. It might also be because they are just above related content meaning visitors are presented with two possible actions - and choose the latter. A possible solution is to move the share buttons to the top (or side) of the article and screencast pages. 
@@ -90,7 +90,9 @@ It's slightly hard to be measure because Drew has been promoting his Core Vim Co
 <img class="Vimcasts_screenshot_training" src="/images/Vimcasts_screenshot_training.png" alt="a screenshot of the top of the Vimcasts training page">
 
 ####My thoughts
-There's still room for improvement in terms of the homepage and in terms of optimising key landing pages. At the moment, people can't use PayPal to buy the Core Vim Course and Classes. This is affecting the conversion rate, among other factors. Mainly though, I feel like I'm not quite getting to grips with the statistics. I'm looking at individual statistics grouped together rather than tracking the journey of people through the sales funnel. This is something we need to work on to gain a better understanding of how people interact with the paid options on the website. 
+There's still room for improvement in terms of the homepage and in terms of optimising key landing pages. At the moment, people can't use PayPal to buy the Core Vim Course and Classes. This is affecting the conversion rate, among other factors. 
+
+Mainly though, I feel like I'm not quite getting to grips with the statistics. I'm looking at individual statistics grouped together rather than tracking the journey of people through the sales funnel. This is something we need to work on to gain a better understanding of how people interact with the paid options on the website. 
 
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section].
