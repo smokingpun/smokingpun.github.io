@@ -7,7 +7,7 @@ metadescription: How can content strategy help a website redesign? In this post 
 exerpt: Earlier this year I worked with Drew Neil on the Vimcasts redesign. We had three main goals – to increase engagement with the website by making the content easier to navigate on all devices, to increase traffic through a broader social media strategy and to give more visibility to training, publications and pro-screencasts. So, did we achieve our goals? In this post I compare data from before and after the launch. 
 ---
 
-Earlier this year I worked with Drew Neil on the Vimcasts redesign. We had three main goals: to increase engagement with the website by making the content easier to navigate on all devices, to increase traffic through a broader social media strategy and to give more visibility to training, publications and pro-screencasts. So, did we achieve our goals? In this post I compare data from before and after the launch. 
+Earlier this year I worked with Drew Neil on the [Vimcasts][Vimcasts] redesign. We had three main goals: to increase engagement with the website by making the content easier to navigate on all devices, to increase traffic through a broader social media strategy and to give more visibility to training, publications and pro-screencasts. So, did we achieve our goals? In this post I compare data from before and after the launch. 
 
 ###Goal 1. Increase engagement with the website by making the content easier to navigate on all devices.
 
@@ -99,6 +99,7 @@ To gain a better understanding of how people interact with the paid options on t
 
 [email]: mailto:hannah.adcock@gmail.com
 [content strategy section]: /#what_is_content_strategy_section
+[Vimcasts]: http://vimcasts.org/
 
 
 
