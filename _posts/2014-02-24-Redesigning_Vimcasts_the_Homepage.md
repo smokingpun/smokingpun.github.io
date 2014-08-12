@@ -9,7 +9,7 @@ excerpt: I've been working with Drew Neil to develop a content strategy for the 
 
 I've been working with Drew Neil to develop a content strategy for the popular developers' site, [Vimcasts][Vimcasts]. I've already blogged about how the [user survey][survey] helped us to find out what people thought of Vimcasts and how Google Analytics [helped us analyse people's behaviour][analytics]. Now it's time to make Vimcasts' content work harder. We'll start with the homepage. This is how it looks at the moment (you can read a description [here][overview]):
 
-<img class = "Vimcasts_screenshot" src="/images/Vimcasts_screenshot.png" alt="a screenshot of current Vimcasts homepage">
+<img class="Vimcasts_screenshot" src="/images/Vimcasts_screenshot.png" alt="a screenshot of current Vimcasts homepage">
 
 ###Our Goal: Increase people's engagement with the site
 Our research suggested that although Vimcasts has a committed fan base, there are a lot of people – almost a quarter of a million in a year – who are spending only a short amount of time on the site. People who completed the [user survey][survey] also pointed out that Vimcasts could be more user-friendly in terms of having some kind of search or categories functionality. 
