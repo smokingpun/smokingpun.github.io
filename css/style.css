@@ -339,6 +339,10 @@ a.button_return_to_top {
 .blog h3 {
 	margin-top: 40px;
 }
+.blog h4 {
+	margin-bottom: 0;
+	margin-top: 1.9em;
+}
 .blog p {
 	line-height: 1.5em;
 }
