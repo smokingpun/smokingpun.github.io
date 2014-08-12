@@ -261,6 +261,9 @@ h2 {
 	margin: auto;
 	position: relative;
 }
+.meta {
+	text-align: left;
+}
 
 .creative_touch img.creative_touch_mobile, .creative_touch img.creative_touch_lips {
 	width: 28%;
