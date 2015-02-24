@@ -1,3 +1,39 @@
+
+#lets-go {
+  background-image: url(../images/background_image.jpg);
+  position: relative;
+  height: 450px;
+
+}
+
+.red-with-spots {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#lets-go .medium-7.large-6.columns {
+  padding-top: 130px;
+}
+
+#lets-go .medium-5.large-6.columns {
+  padding-top: 50px;
+}
+
+#grow-your-startup {
+  padding-top: 40px;
+}
+
+.journey_center h3 {
+  text-align: center;
+}
+
+
+#what_is_content_strategy_section {
+  padding-top: 50px;
+
+}
+
 meta.foundation-version {
   font-family: "/5.5.1/"; }
 
