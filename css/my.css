@@ -1,8 +1,13 @@
 
+.homepage #lets-go {
+  height: 400px;
+
+}
+
 #lets-go {
   background-image: url(../images/Contented-Strategy-Background-1.jpg);
   position: relative;
-  height: 400px;
+  height: 300px;
 
 }
 
