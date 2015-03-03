@@ -1,4 +1,6 @@
 
+/*homepage*/
+
 .homepage #lets-go {
   height: 400px;
 
@@ -46,6 +48,8 @@
 
 #my-projects {
   padding-top: 50px;
+
+
 
 }
 
@@ -113,7 +117,7 @@
 #hire-me-section {
   background-image: url(../images/Contented-Strategy-Background-1.jpg);
   position: relative;
-  height: 400px;
+  height: 300px;
 
 }
 
@@ -126,6 +130,38 @@
 #hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns p, #hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns h3 {
 
 color: white;
+
+}
+
+#ongoing-content-strategy-support .button {
+  margin-top: 20px;
+}
+
+
+/*landing pages*/
+
+
+#drive-sales-quote, #redesign-quote {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(247,247,247)
+}
+
+.tick {
+  max-height: 30px;
+  margin-right: 1rem;
+}
+
+#drive-sales-key-benefits-1 h3, #redesign-key-benefits-1 h3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#drive-sales-how-i-work h3, #redesign-how-i-work h3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
 
 }
 
