@@ -6,6 +6,16 @@
 
 }
 
+.all-services-page #lets-go p {
+  font-size: 1.18rem;
+
+}
+
+.all-services-page #lets-go h3 {
+  font-size: 1.8rem;
+
+}
+
 #lets-go {
   background-image: url(../images/Contented-Strategy-Background-1.jpg);
   position: relative;
@@ -157,7 +167,7 @@ color: white;
 /*landing pages*/
 
 
-#drive-sales-quote, #redesign-quote {
+#drive-sales-quote, #redesign-quote, #try-out-cs-quote, #all-cs-services-quote {
   margin-top: 30px;
   margin-bottom: 30px;
   padding-top: 50px;
@@ -170,7 +180,7 @@ color: white;
   margin-right: 1rem;
 }
 
-#drive-sales-key-benefits-1 h3, #redesign-key-benefits-1 h3 {
+#drive-sales-key-benefits-1 h3, #redesign-key-benefits-1 h3, #try-out-cs-key-benefits-1 h3 {
   margin-top: 30px;
   margin-bottom: 20px;
 }
@@ -181,4 +191,18 @@ color: white;
 
 }
 
+.try-out-cs-how-i-work h3 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
 
+#about-me-in-header {
+  font-size: 1.5rem;
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+#all-cs-services-1, #all-cs-services-2, #all-cs-services-3 {
+  padding-bottom: 30px;
+}
+}
