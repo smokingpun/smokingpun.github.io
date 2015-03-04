@@ -6,14 +6,18 @@
 
 }
 
-.all-services-page #lets-go p {
+.all-services-page #lets-go p, .portfolio-page #lets-go p {
   font-size: 1.18rem;
 
 }
 
-.all-services-page #lets-go h3 {
+.all-services-page #lets-go h3, .portfolio-page #lets-go h3 {
   font-size: 1.8rem;
 
+}
+
+.portfolio-page #lets-go {
+  margin-bottom: 0;
 }
 
 #lets-go {
@@ -99,7 +103,7 @@
 }
 
 
-#artios {
+#artios, #bcalm {
   padding-top: 70px;
   padding-bottom: 70px;
   background-color: rgb(201,209,211)
@@ -175,6 +179,14 @@ color: white;
   background-color: rgb(247,247,247)
 }
 
+
+#portfolio-quote {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(247,247,247)
+
+}
+
 .tick {
   max-height: 30px;
   margin-right: 1rem;
@@ -204,5 +216,33 @@ color: white;
 
 #all-cs-services-1, #all-cs-services-2, #all-cs-services-3 {
   padding-bottom: 30px;
+}
+}
+
+
+/*portfolio page*/
+
+#Xoomworks, #vimcasts {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.vimcasts {
+  padding-left: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+/*blog*/
+
+ul.posts {
+  list-style: none;
+  margin-left: 0;
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+ul.posts li {
+  padding-bottom: 15px;
 }
 }

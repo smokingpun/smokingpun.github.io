@@ -1,40 +1,87 @@
 ---
 layout: default
 title: Contented Strategy
+body_class: blog
 paginate: 3
 ---
+
+
+<section id = "lets-go">
+  <div class="row">
+    <div class="medium-7 medium-offset-1 large-7 large-offset-1 columns">
+    <div class="value-proposition">
+    <h2>The Contented Strategy Blog</h2>
+    <h4>Tips, advice and case studies for startups, SMEs and social entrepreneurs</h4>
+    </div>
+    </div>
+  </div>
+</section>
+
   
 <section class="blog group">
-      <article>
-      <h1>The Contented Strategy Blog</h1>
+  <div class="row">
+    <div class="medium-8 medium-offset-1 large-8 large-offset-1 columns">
 
-  <ul class="posts">
-    {% for post in paginator.posts %}
-      <li>
-      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-			<p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+        <ul class="posts">
+          {% for post in paginator.posts %}
+            <li>
+            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+      			<p>{{ post.excerpt }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+     </div>   
 
-  </article>
 
-  <!-- Pagination links -->
-<div class="pagination">
- 
 
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        <!-- Pagination links -->
+      <div class="pagination">
 
-  
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-</section>
+            <div class="row">
+            <div class="medium-8 medium-offset-1 large-8 large-offset-1 columns">
+       
+
+              {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+              {% else %}
+                <span class="previous">Previous</span>
+              {% endif %}
+               <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+              
+              {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+              {% else %}
+                <span class="next ">Next</span>
+              {% endif %}
+
+
+
+              </div>
+          </div>
+        </section>
+
+    <section id="free-content-strategy-guide">
+      <form>
+
+        <div class="row">
+          <div class="medium-8 medium-offset-1 large-8 large-offset-1 columns">
+
+           <h3>Free content strategy guide</h3> 
+           <p>Download my content strategy for startups and SMEs and turn your content into a competitive advantage.</p>
+
+            <div class="row collapse">
+                <div class="small-8 columns">
+                    <input type="text" placeholder="email@example.com" />                  
+                    </div>
+                     <div class="small-4 columns">
+                    <input type="download" value="Download" name="download" class="button postfix"/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </form> 
+
+     </section>  
+
