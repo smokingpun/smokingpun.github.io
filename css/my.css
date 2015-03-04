@@ -10,7 +10,18 @@
   background-image: url(../images/Contented-Strategy-Background-1.jpg);
   position: relative;
   height: 300px;
+  margin-bottom: 30px;
 
+}
+
+.homepage .value-proposition {
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.value-proposition {
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
 .red-with-spots {
@@ -19,14 +30,6 @@
   top: 0;
 }
 
-#lets-go .row .medium-7.large-6.columns {
-  padding-top: 130px;
-}
-
-
-#lets-go .row .medium-5.large-6.columns {
-  padding-top: 50px;
-}
 
 #about-me {
   padding-top: 40px;
@@ -122,9 +125,18 @@
 }
 
 
-#hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns {
-  padding-top: 100px;
+#hire-me-section  {
+  padding-top: 50px;
 }
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+  #hire-me-section  {
+    padding-top: 100px;
+  }
+
+}
+
 
 
 #hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns p, #hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns h3 {
@@ -135,6 +147,10 @@ color: white;
 
 #ongoing-content-strategy-support .button {
   margin-top: 20px;
+}
+
+.pic-of-me {
+  max-height: 150px;
 }
 
 
