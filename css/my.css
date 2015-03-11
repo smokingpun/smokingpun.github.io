@@ -6,14 +6,30 @@
 
 }
 
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+.all-services-page #lets-go h3, .portfolio-page #lets-go h3 {
+  font-size: 1.6rem;
+
+}
+.all-services-page #lets-go p, .portfolio-page #lets-go p {
+  font-size: 1.1rem;
+
+}
+
+}  
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+.all-services-page #lets-go h3, .portfolio-page #lets-go h3 {
+  font-size: 2rem;
+
+}
 .all-services-page #lets-go p, .portfolio-page #lets-go p {
   font-size: 1.18rem;
 
 }
-
-.all-services-page #lets-go h3, .portfolio-page #lets-go h3 {
-  font-size: 1.8rem;
-
 }
 
 .portfolio-page #lets-go {
@@ -75,9 +91,9 @@
   margin: auto;
 }
 
-.across_arrow {
+/*.across_arrow {
   max-height: 12px;
-}
+}*/
 
 .number-1-dot, .number-2-dot, .number-3-dot, .number-4-dot {
   max-height: 30px;
@@ -96,11 +112,7 @@
   background-color: rgb(247,247,247);
 }
 
-.sendowl-with-champagne {
-  padding-left: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
+
 
 
 #artios, #bcalm {
@@ -120,6 +132,17 @@
   margin-top: 2rem;
 }
 
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+#artios .button {
+  margin-top: 2.5rem;
+}
+}
+
+
+
+
 #blog_section {
   padding-top: 70px;
   padding-bottom: 70px;
@@ -138,6 +161,16 @@
 
 }
 
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+#hire-me-section {
+  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  position: relative;
+  height: 420px;
+
+}
+}
+
 
 #hire-me-section  {
   padding-top: 50px;
@@ -146,26 +179,48 @@
 @media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
 
   #hire-me-section  {
-    padding-top: 100px;
+    padding-top: 50px;
+  }
+
+  #hire-me-section h3 {
+    padding-top: 40px;
   }
 
 }
 
 
 
-#hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns p, #hire-me-section .small-12.medium-8.medium-centered.large-8.large-centered.columns h3 {
+#hire-me-section a {
 
-color: white;
+color: rgb(201,209,211);
 
 }
 
-#ongoing-content-strategy-support .button {
-  margin-top: 20px;
+
+/*mobile homepage*/
+
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+
+#grow-your-business {
+  padding-top: 30px;
 }
 
-.pic-of-me {
-  max-height: 150px;
+#artios, #sendowl, #blog_section, #free-content-strategy-guide  {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
+
+
+
+
+
+
+
+
+}
+
 
 
 /*landing pages*/
@@ -214,6 +269,13 @@ color: white;
 
 @media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
 
+#all-cs-services-1 {
+  padding-top: 30px;
+}
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
 #all-cs-services-1, #all-cs-services-2, #all-cs-services-3 {
   padding-bottom: 30px;
 }
@@ -222,18 +284,60 @@ color: white;
 
 /*portfolio page*/
 
+
 #Xoomworks, #vimcasts {
   padding-top: 70px;
   padding-bottom: 70px;
 }
 
-.vimcasts {
+
+
+
+
+img.vimcasts {
+
+  max-width: 270px;
+  
+
+}
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+img.champagne, img.Xoomworks-logo, img.vimcasts {
+  margin: auto;
+}
+
+}
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+img.vimcasts, img.Artios-logo {
   padding-left: 2rem;
-  padding-top: 3rem;
+  padding-top: 5rem;
   padding-bottom: 1rem;
 }
 
-/*blog*/
+
+img.Xoomworks-logo {
+  padding-left: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+}
+
+}
+
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+img.vimcasts, img.Xoomworks-logo, img.Artios-logo {
+  padding-top: 20px;
+}
+
+}
+
+
+/*blog index*/
 
 ul.posts {
   list-style: none;
@@ -246,3 +350,29 @@ ul.posts li {
   padding-bottom: 15px;
 }
 }
+
+
+
+
+
+
+
+/*blog page*/
+
+
+.addthis_toolbox {
+  padding-bottom: 40px;
+}
+
+
+
+.post h3 {
+  padding-top: 26px;
+
+}
+.post h4 {
+  padding-top: 20px;
+
+}
+
+
