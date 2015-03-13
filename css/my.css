@@ -375,4 +375,48 @@ ul.posts li {
 
 }
 
+/*ebook landing page*/
 
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+
+#title-and-strapline h3, #title-and-strapline h2 {
+  text-align: center;
+}
+
+#title-and-strapline h3 {
+  margin-bottom: 65px;
+}
+
+#title-and-strapline h2 {
+  margin-top: 40px;
+}
+
+}
+
+p.spam-text {
+  font-size: 0.7rem;
+}
+
+#title-and-strapline {
+  text-align: left;
+}
+
+#title-and-strapline h3 {
+  margin-bottom: 35px;
+}
+
+#title-and-strapline h2 {
+  margin-top: 20px;
+  
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+img.cover-image {
+  margin: auto;
+}
+
+
+}
