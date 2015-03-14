@@ -1,6 +1,11 @@
 
 /*homepage*/
 
+
+h2 span {
+    white-space: nowrap;
+}
+
 .homepage #lets-go {
   height: 400px;
 
@@ -410,7 +415,7 @@ p.spam-text {
 
 #title-and-strapline h2 {
   margin-top: 20px;
-  
+
 
 @media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
