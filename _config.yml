@@ -5,7 +5,12 @@ highlighter: true
 paginate_path: "blog/page:num"
 description: Hannah Adcock Neil's blog on content strategy
 url: http://contentedstrategy.com
-exclude: ["vendor",".bundle"]
+exclude:
+  - vendor
+  - _vendor
+  - .bundle
+  - tmp
+  - node_modules
 kramdown:
   auto_ids: true
 redcarpet:
