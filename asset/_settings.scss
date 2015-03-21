@@ -1384,7 +1384,7 @@ $black       : #000000;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: $ghost;
+$topbar-bg-color: $white;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
@@ -1417,7 +1417,7 @@ $topbar-link-font-size: rem-calc(17);
 // $topbar-button-top: 7px;
 
 // Style the top bar dropdown elements
-$topbar-dropdown-bg: $ghost;
+$topbar-dropdown-bg: $white;
 $topbar-dropdown-link-color: $oil;
 // $topbar-dropdown-link-color-hover: $topbar-link-color-hover;
 $topbar-dropdown-link-bg: $ghost;

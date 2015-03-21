@@ -107,9 +107,9 @@ h2 span {
 
 
 #sendowl {
-  padding-top: 70px;
-  padding-bottom: 70px;
-  background-color: rgb(247,247,247);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
 }
 
 
@@ -121,9 +121,9 @@ h2 span {
 
 
 #artios, #bcalm {
-  padding-top: 70px;
-  padding-bottom: 70px;
-  background-color: rgb(201,209,211)
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
 }
 
 .Xoomworks-BI-screenshot {
@@ -162,7 +162,7 @@ h2 span {
 #hire-me-section {
   background-image: url(../images/Contented-Strategy-Background-1.jpg);
   position: relative;
-  height: 300px;
+  height: 350px;
 
 }
 
