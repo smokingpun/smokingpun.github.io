@@ -1,0 +1,14 @@
+{
+  "name": "quickstart-jekyll-zurb",
+  "version": "2.0.0",
+  "homepage": "https://github.com/lvillani/quickstart-jekyll-zurb",
+  "authors": [
+    "Lorenzo Villani <lorenzo@villani.me>"
+  ],
+  "description": "Quickstarts a Jekyll + ZURB Foundation project",
+  "license": "Public Domain",
+  "private": true,
+  "devDependencies": {
+    "foundation": "~5.5.0"
+  }
+}
