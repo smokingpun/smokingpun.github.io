@@ -1,6 +1,10 @@
 
 /*homepage*/
 
+.nav-container {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
 
 h2 span {
     white-space: nowrap;
@@ -78,8 +82,8 @@ h2 span {
 
 #free-content-strategy-guide {
   margin-top: 20px;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 35px;
+  padding-bottom: 35px;
   background-color: rgb(201,209,211);
 }
 
@@ -202,6 +206,12 @@ color: rgb(201,209,211);
 }
 
 
+
+#free-content-strategy-guide .button {
+  margin-top: 1.5rem;
+}
+
+
 /*mobile homepage*/
 
 
@@ -291,8 +301,8 @@ color: rgb(201,209,211);
 
 
 #Xoomworks, #vimcasts {
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
 
 
@@ -424,4 +434,16 @@ img.cover-image {
 }
 
 
+}
+
+
+/*footer*/
+
+#footer-section ul {
+  list-style-type: none;
+ } 
+
+
+#footer-section ul li{
+  display: inline;
 }
