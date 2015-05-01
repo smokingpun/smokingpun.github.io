@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Writing a great tech job description"
+date:   2015-05-01 
+categories: blog
+metadescription: Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some great work. So, how do you recruit these great people? Usually, through some kind of content: you might write a blog post, send out some tweets, perhaps send a message down a newsletter. Great! But not so great if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
+---
+
 ##Writing a great tech job description: How content strategy can help
 
 Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some great work. So, how do you recruit these great people? Usually, through some kind of content: you might write a blog post, send out some tweets, perhaps send a message down a newsletter. Great! But not so great if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
