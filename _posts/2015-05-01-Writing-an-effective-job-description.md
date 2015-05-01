@@ -31,7 +31,7 @@ The friendly bit is communicated by the informal style. The flexible bit is show
 
 ###2.Show don't tell
 
-This is a useful maxim no matter what content you're writing. It basically means that instead of writing 'The man was scared' you instead <em>show</em> he's scared: 'His teeth were chattering; his face paled to a ghostly white as he clung onto the chair, as if to defend himself from some unknown force.'
+This is a useful maxim no matter what content you're writing. It basically means that instead of writing 'The boy was scared' you instead <em>show</em> he's scared: 'His teeth were chattering; his face paled as he clung onto the chair, as if to defend himself from some unknown force.'
 
 <img class="scared" src="/images/scared.jpg" alt="small boy looking scared">
 
@@ -46,7 +46,7 @@ When I was writing the SendOwl advert I mainly used 1-2 sentence paragraphs plus
 Although it's a bit dated now, plenty of tech world job descriptions went through a phase where everyone needed to be a 'coding ninja' 'rockstar' 'or customer support hero'. 
 
 <!-- <img class="coding_ninja" src="/images/code-ninja.png" alt="coding ninja job advert"> -->
-<!-- <img class="rockstar" src="/images/rockstar.png" alt="rockstar job advert"> -->
+<img class="rockstar" src="/images/rockstar.png" alt="rockstar job advert">
 
 Personally, this type of language makes me wince, but then I'm English. 
 
@@ -70,7 +70,7 @@ Even a term like 'hacker' may not resonate with candidates in the way you expect
 
 Unless you want to exclude at least 50% of possible candidates, don't use 'he' in your job advert and wonder why no women applied. Here are <a href="http://techcompaniesthatonlyhiremen.tumblr.com/">a number of companies</a> that made that mistake.
 
-<!-- <img class="he" src="/images/he.png" alt="job advert just using he"> -->
+<img class="he" src="/images/he.png" alt="job advert just using he">
 
 Maybe women shouldn't be so quick to take offence though, when it was just a silly mistake? Hum. I've been inadvertently referred to as a man many times in my career (I'm looking at you RBS and Strava) and it always makes me feel like I'm an outsider, who shouldn't really be doing something. 
 
@@ -92,7 +92,7 @@ Ideally you want people who share your company values, but who otherwise have a 
 
 Don't forget that even 140 characters is enough to attract or repel potential candidates. When I was advertising the SendOwl post on social media I led with 'Friendly and flexible Rails job' rather than simply saying: 'We're looking to hire a senior/mid-level Rails dev'. The latter isn't bad, but by prioritising a candidate's experience you are communicating that this is what really matters to you. This initial message might not resonate with highly skilled candidates who get imposter's syndrome, or who want to work for a company that doesn't feel so 'graded' and corporate. 
 
-<!-- <img class="Twitter-job-advert" src="/images/twitter-dev-advert.png" alt="advertising a job on Twitter"> -->
+<img class="Twitter-job-advert" src="/images/twitter-job-advert.png" alt="advertising a job on Twitter">
 
 First impressions matter.
 
