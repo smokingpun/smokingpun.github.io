@@ -2,3 +2,5 @@ _site/*
 tmp
 _vendor
 node_modules
+.bundle
+.sass-cache
