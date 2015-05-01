@@ -1,9 +1,46 @@
 
+/*footer*/
+
+p.copyright {
+  font-size: 0.7rem;
+}
+  
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.social_buttons a {
+  opacity: 0.8;
+}
+
+.social_buttons a:hover {
+  opacity: 1.0;
+}
+.social_buttons {
+  font-size: 1.6rem;
+  list-style: none;
+  padding: 0;
+}  
+
+
 /*homepage*/
 
 .nav-container {
   border-bottom: 1px solid black;
   border-top: 1px solid black;
+}
+
+
+.top-bar-section .right .dropdown {
+  border: 1px solid black;
 }
 
 h2 span {
@@ -207,10 +244,9 @@ color: rgb(201,209,211);
 
 
 
-#free-content-strategy-guide .button {
-  margin-top: 1.5rem;
+#free-content-strategy-guide p {
+  margin-bottom: 30px;
 }
-
 
 /*mobile homepage*/
 
@@ -303,6 +339,7 @@ color: rgb(201,209,211);
 #Xoomworks, #vimcasts {
   padding-top: 35px;
   padding-bottom: 35px;
+
 }
 
 
@@ -327,7 +364,7 @@ img.champagne, img.Xoomworks-logo, img.vimcasts {
 
 @media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
 
-img.vimcasts, img.Artios-logo {
+img.vimcasts, img.Artios-logo, img.bcalm {
   padding-left: 2rem;
   padding-top: 5rem;
   padding-bottom: 1rem;
@@ -390,6 +427,8 @@ ul.posts li {
 
 }
 
+
+
 /*ebook landing page*/
 
 
@@ -436,14 +475,3 @@ img.cover-image {
 
 }
 
-
-/*footer*/
-
-#footer-section ul {
-  list-style-type: none;
- } 
-
-
-#footer-section ul li{
-  display: inline;
-}
