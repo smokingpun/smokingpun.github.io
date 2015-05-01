@@ -3,7 +3,6 @@ layout: post
 title:  "Writing a great tech job description"
 date:   2015-05-01 
 categories: blog
-
 ---
 
 
