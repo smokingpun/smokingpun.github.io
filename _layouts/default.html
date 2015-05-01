@@ -1,67 +1,81 @@
 <!doctype html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title>Content Strategy: Turn your content into a competitive advantage</title>
     <meta charset="utf-8"/>
-      <meta name="viewport" content="width=device-width, user-scalable=no">
-          <meta name="description" content="{{ page.metadescription }}">
+    <meta name="google-site-verification" content="uRw7I-J9M1bd_N9iaJJ4MMBUoGdO1cv4s3ULs9Lz-Kc" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="description" content="Need help with content audits, interpreting analytics and developing a sustainable content strategy? Get in touch! Curated content turns site visitors into customers.">
 
-    <link rel="stylesheet" href="/css/reset.css" />
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/asset/app.css" />
+    <link rel="stylesheet" href="/css/my.css" />
     <link rel="stylesheet" href="/css/icons.css" />
-     <link href="/feed.xml" rel="alternate" title="Contented Strategy Blog" type="application/atom+xml" />
+    <link href="/feed.xml" rel="alternate" title="Contented Strategy Blog" type="application/atom+xml"/>
+    <script type="text/javascript" src="/js/modernizr.js"></script>
+    <script src="js/foundation/foundation.interchange.js"></script>
     <script type="text/javascript" src="//use.typekit.net/hij2ruv.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/main.js"></script>
-    
+
+
+
   </head>
-  <body class="{{ page.classname }}">
-  <header id="page_navigation">
-    <ul class="navigation">
-      <li><a href="/#top">home</a></li>
-<!--       <li><a href="/#what_is_content_strategy_section">content strategy</a></li>
- -->      <li><a href="/#my_projects_section">my projects</a></li>
-      <li><a href="/blog">blog</a></li>
-      <li><a href="/#hire_me_section">hire me</a></li>
-    </ul>
-  </header>
+  <body class="{{page.body_class}}">
 
-    {{ content }}
-     
-    <section class="hire_me">
-      <article>
-      <h2 id="hire_me_section">Hire Me</h2>
-      <p><a href="mailto:hannah.adcock@gmail.com">Get in touch</a> so we can talk about what you need. I've given you a rough idea of what I can do, but we'll come up with a package that suits your company and budget.</p>
-      <p><a href="mailto:hannah.adcock@gmail.com">hannah.adcock [at] gmail.com</a></p>
-      <div>
-                <ul class="social_buttons">
-        <li>
-          <a href="http://twitter.com/smokingpun" class="icon-twitter">
-            <span class="visuallyhidden">Twitter</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.linkedin.com/in/hannahadcock" class="icon-linkedin">
-            <span class="visuallyhidden">LinkedIn</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://github.com/smokingpun" class="icon-github">
-            <span class="visuallyhidden">GitHub</span>
-          </a>
-        </li>
-        <li>
-          <a href="https://plus.google.com/u/0/+HannahAdcock/posts" class="icon-googleplus">
-            <span class="visuallyhidden">Googleplus</span>
-          </a>
-        </li>
+
+
+
+<div class="sticky nav-container">
+<nav class="top-bar" data-topbar role="navigation">
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="/">Contented Strategy</a></h1>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+    <li class="divider"></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li class="divider"></li>
+      <li><a href="/content-strategy-portfolio.html">Portfolio</a></li>
+      <li class= "active has-dropdown">
+      <a href="/all-content-strategy-services.html">How I can help you</a>
+        <ul class="dropdown">
+          <li><a href="/use-content-strategy-to-drive-sales.html">Use content to drive sales</a></li>
+          <li><a href="/make-redesigns-work-for-your-site-visitors.html">Create user-focused websites</a></li>
+          <li><a href="/try-out-content-strategy.html">Try out content strategy</a></li>
         </ul>
+      </li>
+    </ul>
 
-      </div>
-      </article>
-   </section>
+    <!-- Left Nav Section -->
+    <ul class="left">
+    </ul>
+  </section>
+</nav>
+</div>
+
+
+
+
+{{content}}
+
+
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/js/foundation.min.js"></script>
+
     <script type="text/javascript">
+    $(document).foundation();
+    </script>
+
+
+
+   <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-47270138-1']);
@@ -75,7 +89,6 @@
 
 </script>
   </body> 
- 
 
 
 

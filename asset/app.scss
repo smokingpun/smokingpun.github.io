@@ -1,0 +1,7 @@
+// Override Foundation settings in `asset/_settings.scss`
+@import "settings";
+
+// The generated foundation.css file will use the settings
+// as defined in your local `_settings.scss` file.
+@import "normalize";
+@import "foundation";

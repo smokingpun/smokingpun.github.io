@@ -1,0 +1,477 @@
+
+/*footer*/
+
+p.copyright {
+  font-size: 0.7rem;
+}
+  
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.social_buttons a {
+  opacity: 0.8;
+}
+
+.social_buttons a:hover {
+  opacity: 1.0;
+}
+.social_buttons {
+  font-size: 1.6rem;
+  list-style: none;
+  padding: 0;
+}  
+
+
+/*homepage*/
+
+.nav-container {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+
+
+.top-bar-section .right .dropdown {
+  border: 1px solid black;
+}
+
+h2 span {
+    white-space: nowrap;
+}
+
+.homepage #lets-go {
+  height: 400px;
+
+}
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+.all-services-page #lets-go h3, .portfolio-page #lets-go h3 {
+  font-size: 1.6rem;
+
+}
+.all-services-page #lets-go p, .portfolio-page #lets-go p {
+  font-size: 1.1rem;
+
+}
+
+}  
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+.all-services-page #lets-go h3, .portfolio-page #lets-go h3 {
+  font-size: 2rem;
+
+}
+.all-services-page #lets-go p, .portfolio-page #lets-go p {
+  font-size: 1.18rem;
+
+}
+}
+
+.portfolio-page #lets-go {
+  margin-bottom: 0;
+}
+
+#lets-go {
+  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  position: relative;
+  height: 300px;
+  margin-bottom: 30px;
+
+}
+
+.homepage .value-proposition {
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.value-proposition {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.red-with-spots {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+
+#about-me {
+  padding-top: 40px;
+}
+
+
+#grow-your-business {
+  padding-top: 50px;
+
+}
+
+#free-content-strategy-guide {
+  margin-top: 20px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  background-color: rgb(201,209,211);
+}
+
+
+#my-projects {
+  padding-top: 50px;
+
+
+
+}
+
+.down_arrow {
+  max-height: 30px;
+  margin: auto;
+}
+
+/*.across_arrow {
+  max-height: 12px;
+}*/
+
+.number-1-dot, .number-2-dot, .number-3-dot, .number-4-dot {
+  max-height: 30px;
+  margin-right: 10px;
+}
+
+
+#sendowl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
+}
+
+
+#how-i-work {
+  background-color: rgb(247,247,247);
+}
+
+
+
+
+#artios, #bcalm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
+}
+
+.Xoomworks-BI-screenshot {
+  padding-left: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+#artios .button {
+  margin-top: 2rem;
+}
+
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+#artios .button {
+  margin-top: 2.5rem;
+}
+}
+
+
+
+
+#blog_section {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+#blog_section h3 {
+  padding-bottom: 20px;
+}
+
+
+
+#hire-me-section {
+  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  position: relative;
+  height: 350px;
+
+}
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+#hire-me-section {
+  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  position: relative;
+  height: 420px;
+
+}
+}
+
+
+#hire-me-section  {
+  padding-top: 50px;
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+  #hire-me-section  {
+    padding-top: 50px;
+  }
+
+  #hire-me-section h3 {
+    padding-top: 40px;
+  }
+
+}
+
+
+
+#hire-me-section a {
+
+color: rgb(201,209,211);
+
+}
+
+
+
+#free-content-strategy-guide p {
+  margin-bottom: 30px;
+}
+
+/*mobile homepage*/
+
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+
+#grow-your-business {
+  padding-top: 30px;
+}
+
+#artios, #sendowl, #blog_section, #free-content-strategy-guide  {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+/*landing pages*/
+
+
+#drive-sales-quote, #redesign-quote, #try-out-cs-quote, #all-cs-services-quote {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(247,247,247)
+}
+
+
+#portfolio-quote {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(247,247,247)
+
+}
+
+.tick {
+  max-height: 30px;
+  margin-right: 1rem;
+}
+
+#drive-sales-key-benefits-1 h3, #redesign-key-benefits-1 h3, #try-out-cs-key-benefits-1 h3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#drive-sales-how-i-work h3, #redesign-how-i-work h3 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+
+}
+
+.try-out-cs-how-i-work h3 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+#about-me-in-header {
+  font-size: 1.5rem;
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+#all-cs-services-1 {
+  padding-top: 30px;
+}
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+#all-cs-services-1, #all-cs-services-2, #all-cs-services-3 {
+  padding-bottom: 30px;
+}
+}
+
+
+/*portfolio page*/
+
+
+#Xoomworks, #vimcasts {
+  padding-top: 35px;
+  padding-bottom: 35px;
+
+}
+
+
+
+
+
+img.vimcasts {
+
+  max-width: 270px;
+  
+
+}
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+img.champagne, img.Xoomworks-logo, img.vimcasts {
+  margin: auto;
+}
+
+}
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+img.vimcasts, img.Artios-logo, img.bcalm {
+  padding-left: 2rem;
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+}
+
+
+img.Xoomworks-logo {
+  padding-left: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+}
+
+}
+
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+img.vimcasts, img.Xoomworks-logo, img.Artios-logo {
+  padding-top: 20px;
+}
+
+}
+
+
+/*blog index*/
+
+ul.posts {
+  list-style: none;
+  margin-left: 0;
+}
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+ul.posts li {
+  padding-bottom: 15px;
+}
+}
+
+
+
+
+
+
+
+/*blog page*/
+
+
+.addthis_toolbox {
+  padding-bottom: 40px;
+}
+
+
+
+.post h3 {
+  padding-top: 26px;
+
+}
+.post h4 {
+  padding-top: 20px;
+
+}
+
+
+
+/*ebook landing page*/
+
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+
+#title-and-strapline h3, #title-and-strapline h2 {
+  text-align: center;
+}
+
+#title-and-strapline h3 {
+  margin-bottom: 65px;
+}
+
+#title-and-strapline h2 {
+  margin-top: 40px;
+}
+
+}
+
+p.spam-text {
+  font-size: 0.7rem;
+}
+
+#title-and-strapline {
+  text-align: left;
+}
+
+#title-and-strapline h3 {
+  margin-bottom: 35px;
+}
+
+#title-and-strapline h2 {
+  margin-top: 20px;
+
+
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+img.cover-image {
+  margin: auto;
+}
+
+
+}
+
