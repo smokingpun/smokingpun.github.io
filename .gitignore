@@ -1,6 +1,7 @@
 _site/*
 tmp
-_vendor
+_vendor/*
+!_vendor/foundation/
 node_modules
 .bundle
 .sass-cache
