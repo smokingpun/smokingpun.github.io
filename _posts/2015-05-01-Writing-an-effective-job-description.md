@@ -45,7 +45,7 @@ When I was writing the SendOwl advert I mainly used 1-2 sentence paragraphs plus
 
 Although it's a bit dated now, plenty of tech world job descriptions went through a phase where everyone needed to be a 'coding ninja' 'rockstar' 'or customer support hero'. 
 
-<img class="coding_ninja" src="/images/coding-ninja.png" alt="coding ninja job advert">
+<!-- <img class="coding_ninja" src="/images/code-ninja.png" alt="coding ninja job advert"> -->
 <img class="rockstar" src="/images/rockstar.png" alt="rockstar job advert">
 
 Personally, this type of language makes me wince, but then I'm English. 
