@@ -1,7 +1,7 @@
 name: Contented Strategy Blog
 markdown: kramdown
 paginate: 5
-highlighter: true
+highlighter: 'pygments'
 paginate_path: "blog/page:num"
 description: Hannah Adcock Neil's blog on content strategy
 url: http://contentedstrategy.com
