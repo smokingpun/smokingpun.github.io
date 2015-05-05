@@ -427,6 +427,18 @@ ul.posts li {
 
 }
 
+/*blog posts*/
+
+
+.post img {
+  margin-top: 30px;
+}
+
+.blog_caption {
+  font-size: 0.8em;
+  margin-bottom: 25px;
+  font-style: italic;
+}
 
 
 /*ebook landing page*/
