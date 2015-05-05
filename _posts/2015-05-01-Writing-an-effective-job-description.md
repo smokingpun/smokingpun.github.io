@@ -35,11 +35,11 @@ This is a useful maxim no matter what content you're writing. It basically means
 
 <img class="scared" src="/images/scared.jpg" alt="small boy looking scared">
 
-<!-- <div class="blog_caption">
+<div class="blog_caption">
 
 The way you write can be just as important as what you write – so show don't tell!
 
-</div> -->
+</div>
 
 Showing is generally more effective, engaging and believable than simply telling. So, if you want to communicate you are friendly, don't just say 'We're friendly, we promise!'. Instead, show you're friendly by writing an approachable job advert. Avoid jargon. Use flowing or shorter sentences rather than complex ones reminiscent of EU reports on tax management. Select short paragraphs rather than long, stodgy paragraphs that are hard to read. Use examples to prove your points.
 
