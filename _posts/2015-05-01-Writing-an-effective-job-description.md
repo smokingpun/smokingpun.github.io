@@ -35,9 +35,9 @@ This is a useful maxim no matter what content you're writing. It basically means
 
 <img class="scared" src="/images/scared.jpg" alt="small boy looking scared">
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>The way you write can be just as important as what you write – so show don't tell!</em>
+The way you write can be just as important as what you write – so show don't tell!
 
 </div>
 
@@ -54,9 +54,9 @@ Although it's a bit dated now, plenty of tech world job descriptions went throug
 <!-- <img class="coding_ninja" src="/images/code-ninja.png" alt="coding ninja job advert"> -->
 <img class="rockstar" src="/images/rockstar.png" alt="rockstar job advert">
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>A 'rockstar' job advert will only appeal to certain types of people</em>
+A 'rockstar' job advert will only appeal to certain types of people
 
 </div>
 
@@ -71,9 +71,9 @@ If you want to attract brilliant people with slightly less confidence, older peo
 Here is a perfect example of an advert that will only attract a certain kind of person (the kind you probably don't want working for your company):
 <img class="brogrammers" src="/images/brogrammers.jpg" alt="brogrammers job advert">
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>Who says that sexism is dead?</em>
+Who says that sexism is dead?
 
 </div>
 
@@ -90,9 +90,9 @@ Unless you want to exclude at least 50% of possible candidates, don't use 'he' i
 
 <img class="he" src="/images/he.png" alt="job advert just using he">
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>We want a man to work here because everyone knows women can't code – this is the subtext of only using a male pronoun</em>
+We want a man to work here because everyone knows women can't code – this is the subtext of only using a male pronoun
 
 </div>
 
@@ -120,9 +120,9 @@ The latter isn't bad, but by prioritising a candidate's experience you are commu
 
 <img class="Twitter-job-advert" src="/images/twitter-job-advert.png" alt="advertising a job on Twitter">
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>Think carefully about how you advertise your job on Twitter to attract great candidates</em>
+Think carefully about how you advertise your job on Twitter to attract great candidates
 
 </div>
 
@@ -138,9 +138,9 @@ There's no point attracting a wide range of great candidates if you don't treat 
 
 <img class="female-scientists" src="/images/science.jpg" alt="female scientists">
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>Don't let your often unconscious assumptions and prejudices make you miss out on some great people</em>
+Don't let your often unconscious assumptions and prejudices make you miss out on some great people
 
 </div>
 
@@ -152,9 +152,9 @@ Don't be that man or woman who turns down a great candidate because of your inte
 
 Words matter so spend time crafting a job advert that appeals to the kind of candidates you want. Make sure you know what you want to communicate about your company, so candidates know how your company is different, and why they might be a great fit. Remember that it's not just what you say in a job advert that matters but how you say it. Stilted language, cliches and long paragraphs will quickly contradict any promises you make about working in a fast-paced and creative environment. Most of all, be prepared to spent time not only writing your perfect job advert but also promoting it, and in fairly considering potential candidates who take the time to apply. 
 
-<div id="blog_caption">
+<div class="blog_caption">
 
-<em>This blog post was inspired by a very interesting discussion on <a href="http://adaslist.co/">Ada's List</a> – thanks to everyone involved!</em>
+This blog post was inspired by a very interesting discussion on <a href="http://adaslist.co/">Ada's List</a> – thanks to everyone involved!
 
 </div>
 
