@@ -3,10 +3,10 @@ layout: post
 title:  "Writing a great tech job description"
 date:   2015-05-01 
 categories: blog
-metadescription: Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some fantastic work. So, how do you recruit these great people? Usually, through some kind of content. You might write a blog post, send out some tweets, perhaps send a message down a newsletter. Fab! But not so fab if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
+metadescription: Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some fantastic work. So, how do you recruit these great people? Usually, through some kind of content. You might write a job advert, a blog post, send out some tweets, perhaps send a message down a newsletter. Fab! But not so fab if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
 ---
 
-Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some fantastic work. So, how do you recruit these great people? Usually, through some kind of content. You might write a blog post, send out some tweets, perhaps send a message down a newsletter. Fab! But not so fab if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
+Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some fantastic work. So, how do you recruit these great people? Usually, through some kind of content. You might write a job advert, a blog post, send out some tweets, perhaps send a message down a newsletter. Fab! But not so fab if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
 
 
 ###1. Know what you want to communicate about your company
