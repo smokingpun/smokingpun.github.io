@@ -49,7 +49,7 @@ When I was writing the SendOwl advert I mainly used 1-2 sentence paragraphs plus
 
 ###3. Choose your words carefully
 
-Although it's a bit dated now, plenty of tech world job descriptions went through a phase where everyone needed to be a 'coding ninja' 'rockstar' 'or customer support hero'. 
+Although it's a bit dated now, plenty of tech world job descriptions went through a phase where everyone needed to be a 'coding ninja,' 'rockstar' 'or customer support hero'. 
 
 
 <img class="rockstar" src="/images/rockstar.png" alt="rockstar job advert">
@@ -92,7 +92,7 @@ Unless you want to exclude at least 50% of possible candidates, don't use 'he' i
 
 <div class="blog_caption">
 
-We want a man to work here because everyone knows women can't code – this is the subtext of only using a male pronoun
+"We want a man to work here because everyone knows women can't code" – this is the subtext of only using a male pronoun
 
 </div>
 
