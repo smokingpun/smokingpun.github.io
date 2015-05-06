@@ -37,7 +37,7 @@ This is a useful maxim no matter what content you're writing. It basically means
 
 <div class="blog_caption">
 
-The way you write can be just as important as what you write – so show don't tell!
+The way you write can be just as important as what you write – so show don't tell! <a href="https://flic.kr/p/kfwWo">[photo credit]</a>
 
 </div>
 
@@ -51,14 +51,14 @@ When I was writing the SendOwl advert I mainly used 1-2 sentence paragraphs plus
 
 Although it's a bit dated now, plenty of tech world job descriptions went through a phase where everyone needed to be a 'coding ninja' 'rockstar' 'or customer support hero'. 
 
-<!-- <img class="coding_ninja" src="/images/code-ninja.png" alt="coding ninja job advert"> -->
+
 <img class="rockstar" src="/images/rockstar.png" alt="rockstar job advert">
 
-<!-- <div class="blog_caption">
+<div class="blog_caption">
 
 A 'rockstar' job advert will only appeal to certain types of people
 
-</div> -->
+</div>
 
 Personally, this type of language makes me wince, but then I'm English. 
 
@@ -71,11 +71,11 @@ If you want to attract brilliant people with slightly less confidence, older peo
 Here is a perfect example of an advert that will only attract a certain kind of person (the kind you probably don't want working for your company):
 <img class="brogrammers" src="/images/brogrammers.jpg" alt="brogrammers job advert">
 
-<!-- <div class="blog_caption">
+<div class="blog_caption">
 
 Who says that sexism is dead?
 
-</div> -->
+</div>
 
 I'm not sure how 'top notch' and 'world class' an agency is that can come up with such an unashamedly sexist job advert, but there you are. 
 
@@ -90,11 +90,11 @@ Unless you want to exclude at least 50% of possible candidates, don't use 'he' i
 
 <img class="he" src="/images/he.png" alt="job advert just using he">
 
-<!-- <div class="blog_caption">
+<div class="blog_caption">
 
 We want a man to work here because everyone knows women can't code – this is the subtext of only using a male pronoun
 
-</div> -->
+</div>
 
 Maybe women shouldn't be so quick to take offence though, when it was just a silly mistake? Hum. I've been inadvertently referred to as a man many times in my career (I'm looking at you RBS and Strava) and it always makes me feel like I'm an outsider, who shouldn't really be doing something. 
 
@@ -120,11 +120,11 @@ The latter isn't bad, but by prioritising a candidate's experience you are commu
 
 <img class="Twitter-job-advert" src="/images/twitter-job-advert.png" alt="advertising a job on Twitter">
 
-<!-- <div class="blog_caption">
+<div class="blog_caption">
 
 Think carefully about how you advertise your job on Twitter to attract great candidates
 
-</div> -->
+</div>
 
 
 
@@ -136,13 +136,13 @@ There's no point attracting a wide range of great candidates if you don't treat 
 
 
 
-<img class="female-scientists" src="/images/science.jpg" alt="female scientists">
+<img class="female-scientist" src="/images/female_scientist.jpg" alt="young female scientist Alexa Dantzler">
 
-<!-- <div class="blog_caption">
+<div class="blog_caption">
 
-Don't let your often unconscious assumptions and prejudices make you miss out on some great people
+Don't let your assumptions and prejudices make you miss out on some great people. <a href="https://flic.kr/p/gsbWbA">[image credit]</a>
 
-</div> -->
+</div>
 
 Don't be that man or woman who turns down a great candidate because of your internal and often unconscious bias. You'll miss out on some great people. 
 
