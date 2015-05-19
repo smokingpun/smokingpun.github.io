@@ -3,7 +3,7 @@ layout: post
 title:  "Make your tech startup stand out using a message architecture"
 date:   2015-05-08 
 categories: blog
-metadescription: You want people to visit your site and immediately get a strong sense of who you are, what you do, what matters to you and why they should choose you and not a competitor. When companies get it right, site visitors are left feeling clever, impressed and with a strong a desire to purchase your products. When companies get it wrong, visitors are left feeling confused, bored or slightly stupid, and are much more likely to leave or to proceed with caution. In this post, I'll look at how developing a message architecture will help you successfully communicate key qualities about your company to potential customers.
+metadescription: You want people to visit your site and immediately get a strong sense of who you are, what you do, what matters to you, and why they should choose you and not a competitor. When companies get it right, site visitors are left feeling clever, impressed and with a strong a desire to purchase your products. When companies get it wrong, visitors are left feeling confused, bored or slightly stupid, and are much more likely to leave or to proceed with caution. In this post, I'll look at how developing a message architecture will help you successfully communicate key qualities about your company to potential customers.
 ---
 
 
