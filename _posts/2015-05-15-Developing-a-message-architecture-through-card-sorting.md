@@ -15,7 +15,7 @@ You want people to visit your site and immediately get a strong sense of who you
 
 Some tech startup websites fail to successfully communicate what makes their company unique. They often hazily communicate that they are a technologically-minded and approachable kind of company. Apart from that, they don't really stand out from each other in terms of design or content. I find myself forgetting who they are and what they do about 20 seconds after leaving their site. And this is a missed opportunity. With so many people competing for the attention of your customers, you can't afford to under utilise what should give you a competitive advantage – your content. 
 
-Take email service Mad Mimi for example. Their website immediately gives a sense of who they are, what they do, and why they are different through a clever use of design and content. Even if you don't like their website, you will most likely remember it – and that offers MadMimi a distinct competitive advantage.
+Take email service Mad Mimi for example. Their website immediately gives a sense of who they are, what they do, and why they are different through a clever use of design and content. Even if you don't like their website, you will most likely remember it – and that offers Mad Mimi a distinct competitive advantage.
 
 <img class="Mad-Mimi" src="/images/mad-mimi.png" alt="Mad Mimi homepage">
 
@@ -60,7 +60,7 @@ Andreas Voniatis, founder of [maths-driven digital agency Artios](https://artios
 
 >Developing a message architecture gave me a lot of confidence that our new website was going to work. If there is no thinking involved in the first instance then copywriters and designers will have to make it up. You, as a business owner, should be responsible for ensuring that the necessary thinking process takes place before you bring in other people. After all, it affects everything on your website and beyond: the colour palette, the font, the images, the style of the words, everything to do with your marketing collateral. It’s unthinkable not to have this thinking in place before a major web project begins.
 
->The card sorting exercise also made me question a lot of things: do we really want to be seen this way? How can we stand out from competitors? For example, every agency says they are data driven but through developing the process of message architecture we realised we were actually maths-driven. This is a point of differentiation from our competitors and has caught the attention of prospective customers.
+>The card sorting exercise also made me question a lot of things: do we really want to be seen this way? How can we stand out from competitors? For example, nearly every agency says they are data-driven but through developing a message architecture we realised we were actually maths-driven. This is a point of differentiation from our competitors and has caught the attention of prospective customers.
 
 <img class="Artios-screenshot" src="/images/Artios-copy-screenshot.png" alt="screenshot showing some copy from Artios website inspired by their message architecture">
 
