@@ -8,7 +8,7 @@ metadescription: You want people to visit your site and immediately get a strong
 
 
 
-You want people to visit your site and immediately get a strong sense of who you are, what you do, what matters to you and why they should choose you and not a competitor. When companies get it right, site visitors are left feeling clever, impressed and with a strong a desire to purchase your products. When companies get it wrong, visitors are left feeling confused, bored or slightly stupid, and are much more likely to leave or to proceed with caution. In this post, I'll look at how developing a message architecture will help you successfully communicate key qualities about your company to potential customers.
+You want people to visit your site and immediately get a strong sense of who you are, what you do, what matters to you, and why they should choose you and not a competitor. When companies get it right, site visitors are left feeling clever, impressed and with a strong a desire to purchase your products. When companies get it wrong, visitors are left feeling confused, bored or slightly stupid, and are much more likely to leave or to proceed with caution. In this post, I'll look at how developing a message architecture will help you successfully communicate key qualities about your company to potential customers.
 
 
 ###Don't look like every other tech startup
@@ -159,7 +159,7 @@ This implementation stage can be challenging so you might want to bring in a str
 Also, make sure your designer knows and supports your message architecture. There's no point in your content producers going out of their way to show how approachable you are, if your designer favours a small paragraph text size and lots of images that take ages to load on mobile.
 
 
-###Concluding thoughts about establishing a message architecture
+###Concluding thoughts about developing a message architecture
 
 By establishing a message architecture though a card sorting session, you'll make sure that your startup stands out from the crowd and that customers know what makes you special. You'll also discover who you are and why you're different – something that isn't always obvious when you're head down building your MVP. Just make sure that your card sorting session is professionally conducted and taken (fairly) seriously by all involved. You don't want it descending into a shouting match or a gossip session!
 
