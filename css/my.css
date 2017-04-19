@@ -80,7 +80,7 @@ h2 span {
 }
 
 
-#lets-go {
+/*#lets-go {
 
     background-image: url(../images/Contented-Strategy-masthead-curved-1-cropped.png);
     background-size: contain;
@@ -89,28 +89,8 @@ h2 span {
     position: relative;
 
   }  
+*/
 
-@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */  
-
-  #lets-go {
-
-    background-image: url(../images/Contented-Strategy-masthead-curved-cropped-medium.png);
-    margin-bottom: 30px;
-
-  }  
-
-}  
-
-@media only screen and (min-width: 64.063em) {  /* min-width 1025px, large screens */
-  
-  #lets-go {
-
-    background-image: url(../images/Contented-Strategy-masthead-curved-1.png);
-    background-size: 100%;
-    margin-bottom: 30px;
-
-  }  
-}
 
 
 
@@ -138,7 +118,7 @@ h2 span {
 
 
 
-@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */  
+/*@media only screen and (min-width: 40.063em) {   min-width 641px, medium screens   
 
   #about-me {
     padding-top: 40px;
@@ -146,7 +126,7 @@ h2 span {
 
 
 
-}
+}*/
 
 
 
