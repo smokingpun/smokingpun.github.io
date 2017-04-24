@@ -128,7 +128,9 @@ h2 span {
 
 }*/
 
-
+#free-content-strategy-guide p {
+  margin-bottom: 20px;
+}
 
 #free-content-strategy-guide {
   margin-top: 20px;
@@ -137,15 +139,11 @@ h2 span {
   background-color: rgb(201,209,211);
 }
 
-#free-content-strategy-guide h3 {
-  padding-bottom: 20px;
+
+.cover-image {
+  padding-left: 2em;
+  padding-bottom: 2em;
 }
-
-#free-content-strategy-guide h4 {
-  padding-top: 20px;
-}
-
-
 
 #my-projects {
   padding-top: 50px;
@@ -269,9 +267,7 @@ color: rgb(201,209,211);
 
 
 
-#free-content-strategy-guide p {
-  margin-bottom: 30px;
-}
+
 
 /*mobile homepage*/
 
