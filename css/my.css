@@ -140,11 +140,6 @@ h2 span {
 }
 
 
-.cover-image {
-  padding-left: 2em;
-  padding-bottom: 2em;
-}
-
 #my-projects {
   padding-top: 50px;
 
@@ -230,6 +225,13 @@ h2 span {
 
 }
 
+.about-the-author {
+  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  position: relative;
+  height: 350px;
+
+}
+
 @media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 #hire-me-section {
@@ -243,6 +245,10 @@ h2 span {
 
 #hire-me-section  {
   padding-top: 50px;
+}
+
+.about-the-author  {
+  padding-top: 60px;
 }
 
 @media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
@@ -424,10 +430,6 @@ ul.posts li {
 
 
 
-
-
-
-
 /*blog page*/
 
 
@@ -460,49 +462,39 @@ ul.posts li {
 }
 
 
+
+
 /*ebook landing page*/
 
-
-
-@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
-
-
-#title-and-strapline h3, #title-and-strapline h2 {
-  text-align: center;
+#value-proposition-book h2 {
+  margin-top: 60px;
+  margin-bottom: 10px;
 }
 
-#title-and-strapline h3 {
-  margin-bottom: 65px;
+#value-proposition-book h4 {
+  margin-bottom: 15px;
 }
 
-#title-and-strapline h2 {
-  margin-top: 40px;
+#value-proposition-book img.cover-image {
+  margin-top: 130px;
+  padding-left: 2em;
 }
 
+#what-can-you-expect-book-landing-page h3 {
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 
-p.spam-text {
-  font-size: 0.7rem;
+#who-is-this-book-for-book-landing-page h3 {
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 
-#title-and-strapline {
-  text-align: left;
-}
-
-#title-and-strapline h3 {
-  margin-bottom: 35px;
-}
-
-#title-and-strapline h2 {
-  margin-top: 20px;
-
-
-@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
-
-img.cover-image {
-  margin: auto;
+#who-is-this-book-for-book-landing-page {
+  padding-bottom: 40px;
 }
 
 
-}
+
+
 
