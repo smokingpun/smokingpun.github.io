@@ -111,8 +111,16 @@ h2 span {
 }
 
 .value-proposition {
-  padding-top: 50px;
-  padding-bottom: 20px;
+  padding-top: 45px;
+  padding-bottom: 15px;
+}
+
+.value-proposition h1 {
+  color: white;
+}
+
+.value-proposition h3 {
+  color: white;
 }
 
 .red-with-spots {
