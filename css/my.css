@@ -116,11 +116,15 @@ h2 span {
 }
 
 .value-proposition h1 {
-  color: white;
+  color: rgb(255,250,250);
 }
 
 .value-proposition h3 {
-  color: white;
+  color: rgb(255,250,250);
+}
+
+.value-proposition h2 {
+  color: rgb(255,250,250);
 }
 
 .red-with-spots {
