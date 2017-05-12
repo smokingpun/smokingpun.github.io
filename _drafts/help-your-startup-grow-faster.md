@@ -33,6 +33,12 @@ is and what problem it solves. Even if you have been trading for three
 years this can be a valuable exercise. Make sure all your stakeholders
 are involved so you get everyone onboard now.
 
+<img class="team-pic" src="/images/team-pic.png" alt="cartoon of a team">
+
+<strong>Get all your team involved at an early stage to prevent delays further down the line</strong>
+
+###Craft a core content strategy statement
+
 After this initial brain storming, you're ready to craft a core content
 strategy statement. A core content strategy statement addresses issues
 such as:
@@ -43,7 +49,13 @@ such as:
 
 A tech startup that provides software for athletes in training might craft a statement like this one:
 
-“Increase signups by producing detailed technical content that will provide ambitious amateur athletes with answers to their training challenges.” 
+>Increase signups by producing detailed technical content that will provide ambitious amateur athletes with answers to their training challenges.
+
+What content will they produce? Detailed technical content that answers athletes' training challenges (many won't have professional coaches)
+
+Who is the content for? Ambitious amateur athletes
+
+What's the end result? More signups
 
 
 ## Decide what content to create or revise first
@@ -120,7 +132,7 @@ and get value from their product to start with. She discovers that their support
 
 So, she now know what she needs to do to try and get more customers to
 convert to a paid trial: rewrite the startups onboarding content so customers
-find it easy to create a product. And customers who creates a product
+find it easy to create a product. And customers who create a product
 are more likely to find value in the company and pay for the product.
 
 Good job the startup didn't simply create a new product feature like their tech
@@ -131,4 +143,4 @@ Or drop their prices as their sales person suggested.
 And that blog the CEO is so keen for our head of content to create because everyone else has one? It will go on the back burner for now. It’s not a priority.
 
 
-This is an extract from Chapter 1 of my book Content Strategy for Startups and Growing Businesses. To be the first to hear when the book ships – and receive a discount – sign up to my book newsletter list. I'll never spam you or pass on your details and you can unsubscribe at any time. 
+<strong>This is an extract from Chapter 1 of my book on content strategy.</strong> 

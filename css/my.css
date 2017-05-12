@@ -159,6 +159,14 @@ h2 span {
 }
 
 
+.book-signup-form-section {
+  margin-top: 20px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  background-color: rgb(201,209,211);
+}
+
+
 #my-projects {
   padding-top: 50px;
 
