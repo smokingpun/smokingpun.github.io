@@ -304,7 +304,7 @@ These two website examples should give you a better understanding of what I mean
 * They might even consider buying from you - happy days!
 
 
-## Content strategy deliverables and takeaways in this post:
+### Content strategy deliverables and takeaways in this post:
 
 -   Core content strategy statement
 -	Exploration of 'neglected' pages
