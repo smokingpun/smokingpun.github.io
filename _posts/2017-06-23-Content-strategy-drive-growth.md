@@ -4,16 +4,16 @@ title:  "Problem: We want to grow faster and think good content will help"
 date:   2017-06-14 
 categories: blog
 metadescription: Learn how content strategy can help solopreneurs, startups and growing businesses drive growth.
-excerpt: Many solopreneurs, startups and growing businesses overlook the importance of content, because they are focused on other matters. However, this leads to lost sales and increased costs. In this chapter I’ll give you an overview of how you can make sure you have content that drives growth and increases productivity, as well as how you can make the business case for content strategy.
+excerpt: Many solopreneurs, startups and growing businesses overlook the importance of content, because they are focused on other matters. However, this leads to lost sales and increased costs. In this article I’ll give you an overview of how you can make sure you have content that drives growth and increases productivity.
 ---
 
-##What you'll learn in this blog post: 
+## What you'll learn in this blog post: 
 
 * How quality content can drive growth
 * How to create useful content that will help customers make a buying decision and encourage repeat purchases
 * How to make sure that all your content is offering a good return on investment
 
-###Why it matters: 
+### Why it matters: 
 
 * Poor or inappropriate content will lose you the attention and trust of your audience
 * Mediocre content, with poor information architecture, will fail to convert browsers to customers
@@ -100,12 +100,12 @@ dross.
 
 Neglected content often includes
 
-###Checkout pages 
+### Checkout pages 
 <em>Pay pages that guide a customer through the process of giving you money.</em> 
 
 Make sure that these are simple, easy to use and mobile-optimised. For example, if you are buying an ebook then you don't want to be asked for your address: this is confusing and unnecessary. Avoid checkout providers who are cheap (or free) but offer a very poor user experience. You'll end up losing money because of a poor customer conversion rate. <a href="https://www.sendowl.com/blog/how-to-improve-your-conversion-rate-part2.html">This article</a> I wrote for SendOwl offers some tips.
 
-###Knowledge base content
+### Knowledge base content
 <em>Help or support articles for new or potential customers.</em>
 
 Support content is a great way to reduce the cost per customer of customer support. You basically encourage your customers to 'self-help' rather than contact you every time they have a question. Support content also has SEO value (often for long-tail key words) and can be a good way to convert customers who want detail. Good customer support content might include:
@@ -117,7 +117,7 @@ Support content is a great way to reduce the cost per customer of customer suppo
 * Walkthrough with screenshots
 * Related content
 
-###Onboarding content 
+### Onboarding content 
 <em>Emails and dashboard content that helps new customers find value in your product or service</em>
 
 Getting value from your product is easy if you built it, but make sure that it's equally easy for your customers, particularly if they are on a free trial. Guide users towards useful actions that will benefit them. For example, I work with UXPin, a "full stack design platform" that helps me prototype websites, apps and so on. On my free trial I was encouraged to start a project when I logged in.
@@ -130,7 +130,7 @@ I created a project, enjoyed using the software – and signed up (which meant m
 
 For an insight into <a href="http://www.useronboard.com/">how other companies use onboarding</a> have a look at this website.
 
-###Customer support emails, phone calls and chat
+### Customer support emails, phone calls and chat
 <em>Reply to a question or query</em>
 
 Although it's important that customers get support quickly, it's essential they get useful support. There's nothing more frustrating than spending 30 mins on the phone to someone (or spending half a day on email) and still not getting the answer you need.
@@ -141,7 +141,7 @@ Avoid contracting out support (especially choosing a company by price alone) unl
 
 <em>Even 24/7 phone support will go down badly with customers if your support team is not really very helpful. <a href="https://flic.kr/p/PxqzC">photo credit</a>.</em>
 
-###Less prestigious website pages 
+### Less prestigious website pages 
 <em>Anything that you need to click a few links to find</em>
 
 All content on your site should be valuable and serve a clear purpose. So don't create poor content because it 'doesn't really matter' or fail to revise content because 'no one will notice'. All your content matters and customers (and search engines) will notice if you skimp on 'less prestigious' pages. 
@@ -149,7 +149,7 @@ All content on your site should be valuable and serve a clear purpose. So don't 
 If you look at your analytics, you might also be surprised to see how high-performing some of your seemingly 'less prestigious' pages can be, perhaps because they have unexpected SEO value so lots of customers are landing on them or because they provide vital information that your customers need (but that you didn't know they needed).
 
 
-###Microcopy and UI text 
+### Microcopy and UI text 
 <em>Labels on a form field, tiny pieces of instructional text, words on a button, field labels, error messages, confirmation text, even urls<em>
 
 Micrcopy is the unsung hero of your app or website. It can
@@ -164,7 +164,7 @@ As well as being useful, microcopy can also differentiate you from competitors. 
 ![](/images/appear.in-microcopy.png)
 
 
-###Social proof 
+### Social proof 
 <em>Customer stories, video, testimonial, interviews, and so on</em>
 
 When you're just starting out or are small-scale then you don't have a large proven customer base. So 'social proof' can be a powerful way to persuade potential users of the credibility of your company and product or service. 
@@ -180,7 +180,7 @@ However, if you want to make the biggest impact with social proof, approach it s
 * Make sure you think about when customers need to see social proof – just having one page of 'customer stories' might not be sufficient, if your customers want to see social proof on your homepage or features page, before they decide whether to move deeper into your site. 
 
 
-###Internal documentation about processes 
+### Internal documentation about processes 
 <em>Any documents meant for company eyes only, ranging from what holidays people can take, over-time, expenses, and so on, to 'how to' documentation about your social media strategy, message architecture, branding information, and so on</em>
 
 This content is largely about saving your company time and money in terms of processes. Every internal query you have to answer about holidays or expenses, or how to use this piece of software, say, costs you money. So get your answers to these queries down in one place so you don't have to keep repeating yourself. 
