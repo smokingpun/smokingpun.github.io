@@ -255,7 +255,7 @@ h2 span {
 .about-the-author {
   background-image: url(../images/Contented-Strategy-Background-1.jpg);
   position: relative;
-  height: 350px;
+  min-height: 350px;
 
 }
 
@@ -516,9 +516,13 @@ ul.posts li {
   margin-bottom: 15px;
 }
 
+
+@media only screen and (min-width: 64.063em) {  /* min-width 1025px, large screens */
+
 #value-proposition-book img.cover-image {
   margin-top: 130px;
   padding-left: 2em;
+}
 }
 
 #what-can-you-expect-book-landing-page h3 {
@@ -531,11 +535,22 @@ ul.posts li {
   margin-bottom: 30px;
 }
 
-#who-is-this-book-for-book-landing-page {
-  padding-bottom: 40px;
+#what-is-content-strategy h3 {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+#what-is-content-strategy {
+  margin-bottom: 40px;
 }
 
 
+#content-strategy-ebook {
+  margin-top: 40px;
+}
 
-
+img.ceo-image {
+    float: left;
+    margin: 0 0 10px 10px;
+}
 

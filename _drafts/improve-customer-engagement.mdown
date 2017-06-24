@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "Four key strategies to improve customer engagement"
+date:   2017-01-23 
+categories: blog
+metadescription:
+---
+
+<blockquote>The first step to better understanding your users is simple: listen to them.
+<cite>Meyer and Wachter-Boettcher</cite></blockquote>
+
+If you understand who your customers are, then you can create targeted content that will persuade them to buy your product, keep buying it, and talk to their friends and social media followers about how great it is.
+
+If your customers are people like you then congratulations, you’re very lucky. It will be fairly easy to work out what they need. However, if your customers are not like you, or your company has a number of different types of customers, then ideally you need to work out what they need. Don’t just guess. Then you can produce focused content that appeals to your customers rather than any old content that might not.
+
+###User personas
+
+User personas are easy and cheap to create, mainly because they don’t involve talking to actual users. To quote author Ginny Redish:
+
+“A persona is an individual with a name, a picture, specific demographics, and other characteristics. A persona is, however, not usually based on one actual individual. Rather, each persona is a composite of characteristics or real people in the group the persona represents.”
+
+You can use personas to breathe life into the information that you’ve gathered about your site visitors. And if you haven’t any information on your site visitors then get gathering. Your support queue, inbox, social media, analytics and site search logs are a good place to start.
+
+What makes up a persona?
+
+* name
+* age
+* family status
+* gender
+* education level
+* main tasks they complete on your website
+
+###A sample persona
+
+Let’s imagine I run a cool startup that specialises in analytics. Our main competitive advantage is that we use mathematics to power our analytics. After some research I realise one of user personas is something like this:
+
+Early 30s
+Marketing manager at major ecommerce brand
+Science or mathematics background
+Needs us to back up our claims about how maths can provide actionable insights for his company
+
+With Craig in mind, I now know what content to prioritise on our website. I’ll make sure I surface information about how we use maths early on. I’ll make sure our tone is businesslike and that we get to the point fast (Craig is busy). I’ll use images that shout ‘we’re cutting edge’ – no cute animations here.
+
+Make sure that your user personas have a basis in fact though. It’s easy to turn this into a creative writing exercise, which can be fun, but fairly pointless in terms of helping you create focused content. Done well though, user personas keep your team focused on those people who matter most: your audience.
+
+###User surveys
+
+I’m a big fan of user surveys. True, they only tell you what your actual users want – as opposed to potential customers who might buy if only you did something a little bit different. However, they can be immensely valuable in corroborating what you know, challenging your assumptions and making you smile because who knew? People like your stuff!
+
+I recently helped live coding video startup Peer to Peer with a survey. They wanted to know whether people liked downloading their videos or whether they’d be more keen on streaming individual chapters. Peer to Peer started with the assumption that streaming would be better: after all, that’s the direction pioneered by successful companies like Netflix. Various tech friends and colleagues had also said streaming chapters would be better. People could watch a chapter when they had a moment, without clogging up their hard drive.
+
+However, the survey results showed that around 75% of Peer to Peer customers wanted to download the video, giving perfectly sensible reasons like their internet speed was pants, or that they wanted to listen on a journey where the internet could be pretty sketchy. So, although Peer to Peer can look into streaming, because it might attract new customers (something they’ll need to validate), they probably shouldn’t kill the download option just yet.
+
+
+
+Surveys can help you test your assumptions about what customers want
+
+###Customer support
+
+It can be a bit too easy for customer support to exist in its own little world. Either because you do it all yourself, you contract it out, or you have a dedicated customer support team whose job pretty much solely involves handling customer emails and phone calls. However, customer support can provide all kinds of useful insights into who is using your product, or thinking about using it, and whether your content is doing a good job in communicating your product.
+
+To extract these insights ask your customer support people to provide a monthly report for your content people flagging up:
+
+Documentation gaps
+Marketing gaps
+Changes to your customer profiles
+A/b testing
+
+A/b testing is when you serve up different version of your content – from a different colour for your buy now button to an entirely different page – and see which gets the best results. A/b testing can be brilliant because it shows what users do – as opposed to what they tell you they will do, which is not always the same thing.
+
+However, you need enough people to make the test statistically significant. You also still need to evaluate your results against your key business messages. I remember working with one client to test a few straplines. Although one strapline tested fairly well, we decided to bin it because it just didn’t communicate our business as well as some of the others and risked attracting customers who would soon get disillusioned because we didn’t quite do what they wanted.
+
+###Customer interviews
+
+Talk to actual customers! This could simply mean that you ask recent customers why they chose you as opposed to a competitor. Ask your customer support team to keep an eye out for likely people and then send them a short email with a few questions. Or ask if they can jump on a short call. You might be surprised by what made different customers choose you. You can then assess your content based on their feedback.
+
+If a majority of customers choose you because you provided a simple and easy solution does your website prioritise this message? Or is this message tucked underneath a message about increasing productivity that doesn’t seem to resonate as well?
+
+Corridor test
+
+One of the most straightforward ways to find out whether your content is fit for purpose is to watch someone using your site. It’s called a corridor test because all you need is a laptop and passerby – no need for a big budget or loads of time. Ask people to run through some critical tasks on your website using a laptop and/or mobile. See how they get on. You’ll soon get a good idea of any user pain points.
+
+I remember looking at the website of a potential client, to see how easy it would be to buy their product. Not very was the answer. From the features page I had to scroll back to the main menu where they had a ‘buy now’ button. Even one corridor test would have flagged this up as a problem.
+
+“No matter how they find you, your users almost always have very specific goals and expectations. And if your content doesn’t meet their expectations – and quickly – they will leave. Period.”
+Kristina Halvorson and Melissa Rach
+
+###Design for real life
+
+Okay, I’ve pinched this heading from the book by Eric Meyer and Sara Wachter-Boettcher. One of the temptations with user research is to see your ideal users as content, productive kind of people who carefully weigh up pros and cons before deciding to buy your product. In reality, your ‘ideal’ customer might have just had a big bust up with their partner. Or worked a 60 hour week and hardly have enough brain cells to boil the kettle, let alone try and make sense of your marketing copy.
+
+
+
+Your customers might not always be smiley, happy, efficient people.
+
+So although that preppy success message or smiley face might work for our idealised user, it might make our actual user want to regurgitate their breakfast. “Making digital products friendly isn’t enough to make them feel human.” And I’ll put my hands up here and say I’ve been guilty of this.
+
+As well as suggesting that even the lives of our ideal users “are full of rough edges”, Meyer and Wachter-Boettcher question whether we should ignore the needs of ‘edge cases’ who are not our ideal customers but who might actually need our products. These edge cases are vulnerable and stressed out people. Meyer and Wachter-Boettcher christen these ‘stress cases’ and suggest that if we make things for people at their worst, then “they’ll work that much better when people are at their best”.
+
+I actually experienced this recently: I love my Jawbone UP band but got irritated very quickly when their helpful in-app messages started berating me about my sleep habits.
+
+I’D JUST HAD A BABY. YOU WOULDN’T BELIEVE WHAT I’D DO FOR A GOOD NIGHT’S SLEEP.
+
+To be fair to UP, they give you a chance to opt out and to say why. However, I still feel a bit annoyed every time I think about it. Sleep deprivation is a sensitive issue that you don’t always have control over.
+
+Jawbone then got it even more spectacularly wrong with a Father’s Day marketing campaign. Apparently putting ‘Your dad’ as a subject line might – surprise surprise – upset people whose dad has died or who have a complicated relationship with them. Being ‘friendly’ doesn’t make something human.
+
+If you annoy, alienate and upset your audience then you risk losing them – forever.
+
+###Decide on your priorities
+
+It’s likely that you’ll have a few different audience groups who use your product. You might have new customers and existing customers. Or software engineers, indie gamers and craftspeople. Or small businesses and multinational.Your key messages should appeal to everyone, but you’ll need to match different content to different audience groups.
+
+For example, if your business model involves people subscribing on a monthly basis to use your product then your existing customers base is very important. You want to keep them sweet. It is so much easier to retain an existing customer than to attract a new one.
+
+So, although you’ll still go after new customers, don’t forget about the people who are giving you money every month at the moment. Make sure that content about new features reaches them through the product interface, a newsletter, or perhaps a blog. Keep the content sales-free and useful. Although you can thread through a few business messages. “We now support Apple Pay. And it only launched today! We’re totally on top of new stuff that will help you sell more/make more money”.
