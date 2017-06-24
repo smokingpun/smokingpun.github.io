@@ -204,7 +204,7 @@ supercharged and offers the best return possible for your investment.
 
 However, there are a few reason why your content might hinder growth rather than drive it, including:
 
-* you don't understand who your customers are and what they need (see first chapter)
+* you don't understand who your customers are and what they need 
 * your feel pressured by team members/departments to create certain content 
 * you feel that websites should be arranged in a certain way (or the many people you consult have strong views on how a website should look, often opposing!)
 * you have something really important to say about your business and that deserves top billing
@@ -214,7 +214,7 @@ Stand tall. You need to reject these pressures. Unless you give your customers w
 So, think about your customers and think about how they need to journey through your content (and that includes social media, print content, phone calls, text messages, and so on). Then, and only then, will you start creating content that will drive growth. 
 
 
-Let's look at a website that I pays attention to what a customer needs rather than simply 'broadcasting' information about the company.
+Let's look at a website that pays attention to what a customer needs rather than simply 'broadcasting' information about the company.
 
 ![](/images/brains-screenshot.png)
 
@@ -270,7 +270,7 @@ As a contrast, let's have a quick look at a website that isn't so committed to t
 
 I'll be the first to acknowledge that big corporations like this one have their work cut out: there are a lot of different customer groups potentially interested in what they are doing. However, a quick glance at the homepage gives me the impression that it has been carved up to satisfy the broadcast requirements of the company rather than to satisfy customers.
 
-The homepage is heavy on links to PR releases. The financial team have managed to get seven clustered links included. Further down we have a publications and videos where the marketing and social media team get to showcase their stuff. And we have a 'traditional' top and secondary navigation and an enormous footer menu. 
+The homepage is heavy on links to PR releases. The financial team have managed to get seven clustered links included. Further down we have publications and videos where the marketing and social media team get to showcase their stuff. And we have a 'traditional' top and secondary navigation and an enormous footer menu. 
 
 Presumably that's at least three or four teams in the company that are happy-ish. They have real estate on the homepage. The most important page right? 
 
