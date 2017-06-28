@@ -9,9 +9,10 @@ excerpt: Many solopreneurs, startups and growing businesses overlook the importa
 
 ## What you'll learn in this blog post: 
 
-* How quality content can drive growth
-* How to create useful content that will help customers make a buying decision and encourage repeat purchases
-* How to make sure that all your content is offering a good return on investment
+* How to use a core mission statement to nail down the fundamentals of your company and work out what content you should produce, who it's for and what's the end result
+* Why providing a consistently good experience across all your content has a direct impact on your conversion rate
+* How you can improve often overlooked pages
+* Why you should concentrate on user flow through your website and app, and how you can do this 
 
 ### Why it matters: 
 
