@@ -9,7 +9,7 @@ metadescription: You want people to visit your site and immediately get a strong
 You want people to visit your site and immediately get a strong sense of who you are, what you do, what matters to you, and why they should choose you and not a competitor. When companies get it right, site visitors are left feeling clever, impressed and with a strong a desire to purchase your products. When companies get it wrong, visitors are left feeling confused, bored or slightly stupid, and are much more likely to leave or to proceed with caution. In this post, I'll look at how developing a message architecture will help you successfully communicate key qualities about your company to potential customers.
 
 
-###Don't look like every other tech startup
+### Don't look like every other tech startup
 
 Some tech startup websites fail to successfully communicate what makes their company unique. They often hazily communicate that they are a technologically-minded and approachable kind of company. Apart from that, they don't really stand out from each other in terms of design or content. I find myself forgetting who they are and what they do about 20 seconds after leaving their site. And this is a missed opportunity. With so many people competing for the attention of your customers, you can't afford to under utilise what should give you a competitive advantage – your content. 
 
@@ -26,7 +26,7 @@ You might not like their style, but the Mad Mimi website stands out.
 
 
 
-###How you can make yourself stand out with content strategy
+### How you can make yourself stand out with content strategy
 
 There are lots of ways to make your company stand out, but in this blog post I'm going to concentrate on developing a message architecture, because this tackles the issue of your startup's identity at a fundamental level. 
 
@@ -43,7 +43,7 @@ A message architecture is different from brand values. The latter is more an int
 
 
 
-###Developing a message architecture through card sorting
+### Developing a message architecture through card sorting
 
 You can develop a message architecture in a number of ways, including card sorting, through a Venn diagram or through a big argument fuelled by too much coffee (not recommended). 
 
@@ -52,7 +52,7 @@ I'm going to look in more detail at card sorting, which is my preferred option, 
 You'll need someone to act as a facilitator for the session, who will jump in with targeted questions at key moments (why did you choose x rather than y?; what does x mean to you?). I'd recommend bringing in someone external to your organisation who won't let the session be derailed by internal politics. However, if you don't want to do that choose someone who is good at listening, but who has the authority to gently lead the discussion in a productive direction. 
 
 
-###How a message architecture helped one tech company stand out
+### How a message architecture helped one tech company stand out
 
 Andreas Voniatis, founder of [maths-driven digital agency Artios](https://artios.io/), talks about his experience:
 
@@ -71,7 +71,7 @@ Digital agency Artios communicate that they are mathematical – and this makes 
 
 
 
-###Running a card sorting session
+### Running a card sorting session
 
 In advance, write down actionable words that may relate to your company and industry (plus a few obvious ringers) on pieces of card that are the same size and colour. Here are a few ideas:
 
@@ -97,14 +97,14 @@ In advance, write down actionable words that may relate to your company and indu
 | engaging | versatile | fun |
 
 
-####Create your categories
+#### Create your categories
 Using larger piece of card that are a different colour write down these words:
 
 * who we are
 * who we're not
 * who we want to be
 
-####Get started
+#### Get started
 
 On the day, leave yourself about 1.5-2 hours for your card sorting session.
 
@@ -122,7 +122,7 @@ You don't have to do this card sorting exercise indoors!
 
 </div>
 
-####Get categorising
+#### Get categorising
 
 Get rid of all the cards in the 'who we're not' category.
 
@@ -135,7 +135,7 @@ Decide which quality (or qualities) in a group are the ones that you most want t
 List the remaining qualities in order of priority – you should aim to have about 5-9 cards left in a vertical list.
 
 
-####Congratulations! You now have a message architecture
+#### Congratulations! You now have a message architecture
 
 You now have an actionable message architecture. Take a photo. Pin the cards to your wall or stick them to your computer. Refer to them a lot!
 
@@ -148,7 +148,7 @@ You can't be all things to all people – so what do you want to be?
 </div>
 
 
-###What do you do now?
+### What do you do now?
 
 Now, you apply your message architecture to all your content. Either revisit existing content and tweak accordingly, or, if you're starting from scratch, ensure your new content communicates your key messages. 
 
@@ -157,7 +157,7 @@ This implementation stage can be challenging so you might want to bring in a str
 Also, make sure your designer knows and supports your message architecture. There's no point in your content producers going out of their way to show how approachable you are, if your designer favours a small paragraph text size and lots of images that take ages to load on mobile.
 
 
-###Concluding thoughts about developing a message architecture
+### Concluding thoughts about developing a message architecture
 
 By establishing a message architecture though a card sorting session, you'll make sure that your startup stands out from the crowd and that customers know what makes you special. You'll also discover who you are and why you're different – something that isn't always obvious when you're head down building your MVP. Just make sure that your card sorting session is professionally conducted and taken (fairly) seriously by all involved. You don't want it descending into a shouting match or a gossip session!
 
