@@ -93,26 +93,7 @@ h2 span {
 
   } 
 
-/* Small only */
-@media screen and (max-width: 39.9375em) {
-
-#banner {
-
-    background-image: url(/images/content-strategy-banner.svg);
-    background-size: contain;
-    background-position-x: center;
-    background-repeat: no-repeat;
-    position: relative; 
-    min-height: 225px;
-    margin-bottom: 30px;
-    background-color: rgb(70,142, 210)
-
-  } 
-
-}
-
-
-.homepage .value-proposition {
+  .homepage .value-proposition {
   padding-top: 100px;
   padding-bottom: 20px;
 }
@@ -133,6 +114,24 @@ h2 span {
 .value-proposition h2 {
   color: rgb(255,250,250);
 }
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+
+#banner {
+    min-height: 215px;
+  } 
+
+
+.value-proposition {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}  
+
+}
+
+
+
 
 .red-with-spots {
   position: absolute;
