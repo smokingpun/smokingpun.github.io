@@ -7,7 +7,7 @@ metadescription: Learn how content strategy can help solopreneurs, startups and 
 excerpt: If you are a startup, solopreneur or growing business, then marketing can be a confusing area. However, if you instead focus on what content your customers need then you can begin to turn content into an enjoyable and profitable asset.
 ---
 
-##Start with content strategy – not marketing
+## Start with content strategy – not marketing
 You're a startup, solopreneur or team member of a growing business. And you know you need to grow your business. Perhaps you've been advised to concentrate on marketing tactics for startups, or perhaps on SEO or social media? 
 
 However, if you jump straight in to startup marketing without a content strategy you run the risk of producing a load of expensive content that offers a very poor return on investment. Why? Because if your content is not precisely focused on what your audience need, as well as on your specific business goals, then it will fail to help your business grow.
@@ -46,7 +46,7 @@ different types of customers, then you need to work out what they need.
 Don’t just guess! Then you can produce focused content that appeals to
 your customers rather than any old content that might not.
 
-##1. Listen to your customers to be able to sell to your customers
+## 1.Listen to your customers to be able to sell to your customers
 
 ### Create a user survey
 
@@ -136,7 +136,7 @@ matter for such a simple test of functionality.
 > Halvorson and Melissa Rach
 
 
-##2. Create an audience research document that highlights your main findings
+## 2. Create an audience research document that highlights your main findings
 
 Collate all your research in one place so you can refer back to it and
 show it to other members of your team. You might also want to create a high level overview so you don't overwhelm other team members. A high level overview of all your user research also lets you refresh your memory at a later date without having to go into all the granular details. 
@@ -197,7 +197,7 @@ images that shout ‘we’re cutting edge’ – no cute animations here.
 Done well, user personas keep your team focused on those people who
 matter most: your audience.
 
-## 3. Understand what content your different personas need from you
+## 4. Understand what content your different personas need from you
 
 You’ll likely have a few different personas who use your product.
 For example,
@@ -243,7 +243,7 @@ very important. You want to keep them happy. It is *so* much easier to
 retain an existing customer than to attract a new one. And if you reduce churn (people leaving) and increase plan value (type of membership) and average lifetime (how long they stick around for) then your profit margins will start looking very nice indeed.
 
 
-##Good luck
+## Good luck
 
 I hope this post has given you some useful insights into why customer research is essential, as well as how you can 'do' customer research on a tiny budget (good for you if you have a bigger budget!).
 
