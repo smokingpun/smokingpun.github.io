@@ -249,7 +249,7 @@ I hope this post has given you some useful insights into why customer research i
 
 You should see an improvement in your conversion rate, as well as in your workflow, as soon as you start precisely targeting content at your actual customers.
 
-For further insights into how you can use content to grow your business see <a href="http://contentedstrategy.com/blog/2017/06/14/Content-strategy-drive-growth.html">this post</a>, which focuses on creating coherent and focused content across all of your site (rather than just a few seemingly 'key' pages). Or sign up below to be the first to hear when I publish my content strategy ebook, specifically aimed at solopreneurs, startups and growing businesses. 
+For further insights into how you can use content to grow your business see <a href="http://contentedstrategy.com/blog/2017/06/14/Content-strategy-startups-drive-growth.html">this post</a>, which focuses on creating coherent and focused content across all of your site (rather than just a few seemingly 'key' pages). Or sign up below to be the first to hear when I publish my content strategy ebook, specifically aimed at solopreneurs, startups and growing businesses. 
 
 
 
