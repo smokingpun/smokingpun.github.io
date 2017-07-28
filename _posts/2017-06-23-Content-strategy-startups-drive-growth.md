@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Problem: We want to grow faster and think good content will help"
+title:  "We want to grow our startup faster and think a content strategy will help"
 date:   2017-06-14 
 categories: blog
 metadescription: Learn how content strategy can help solopreneurs, startups and growing businesses drive growth.
