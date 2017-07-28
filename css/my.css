@@ -80,17 +80,6 @@ h2 span {
 }
 
 
-/*#lets-go {
-
-    background-image: url(../images/Contented-Strategy-masthead-curved-1-cropped.png);
-    background-size: contain;
-    background-position-x: center;
-    background-repeat: no-repeat;
-    position: relative;
-
-  }  
-*/
-
 #banner {
 
     background-image: url(/images/content-strategy-banner.svg);
@@ -104,6 +93,23 @@ h2 span {
 
   } 
 
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+
+#banner {
+
+    background-image: url(/images/content-strategy-banner.svg);
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    position: relative; 
+    min-height: 225px;
+    margin-bottom: 30px;
+    background-color: rgb(70,142, 210)
+
+  } 
+
+}
 
 
 .homepage .value-proposition {
