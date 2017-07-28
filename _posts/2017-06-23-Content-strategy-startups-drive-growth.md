@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "We want to grow our startup faster and think a content strategy will help"
+title:  "We want to grow our startup faster and think content strategy will help"
 date:   2017-06-14 
 categories: blog
 metadescription: Learn how content strategy can help solopreneurs, startups and growing businesses drive growth.
 excerpt: Many solopreneurs, startups and growing businesses overlook the importance of content, because they are focused on other matters. However, this leads to lost sales and increased costs. In this article I’ll give you an overview of how you can make sure you have content that drives growth and increases productivity.
 ---
+
+# We want to grow our startup faster and think content strategy will help
+
+Content is why people come to your website. They want to complete a
+task, find information, be entertained, or a combination of all three.
+If you make these goals even remotely difficult for them then they’ll
+leave.
+
+A customer doesn’t want to know everything about your company. She wants
+the content she needs, when she needs it.
+
+So, a content strategy aimed specifically at startups can help your company grow faster by getting the
+attention of customers, answering their questions, and motivating them
+to take specific actions.
 
 ## What you'll learn in this blog post: 
 
@@ -25,18 +39,6 @@ excerpt: Many solopreneurs, startups and growing businesses overlook the importa
 <strong>This post is an extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="http://contentedstrategy.com/content_strategy_for_startups.html">Be the first to hear when it launches – and receive a discount.</a></strong>
 
 ## Get the basics sorted first
-
-Content is why people come to your website. They want to complete a
-task, find information, be entertained, or a combination of all three.
-If you make these goals even remotely difficult for them then they’ll
-leave.
-
-A customer doesn’t want to know everything about your company. She wants
-the content she needs, when she needs it.
-
-So, good content can help your company grow faster by getting the
-attention of customers, answering their questions, and motivating them
-to take specific actions.
 
 In this chapter I’ll give you an overview of how you can make sure you have content that drives growth and increases productivity, as well as how you can make the business case for content strategy.
 

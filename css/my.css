@@ -93,12 +93,12 @@ h2 span {
 
 #banner {
 
-    background-image: url(../images/background_image.jpg);
+    background-image: url(../images/content-strategy-banner.jpg);
     background-size: cover;
     background-position-x: center;
     background-repeat: no-repeat;
     position: relative; 
-    min-height: 300px;
+    min-height: 500px;
     margin-bottom: 30px;
 
   } 
