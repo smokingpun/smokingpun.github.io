@@ -7,7 +7,7 @@ metadescription: Learn how content strategy can help solopreneurs, startups and 
 excerpt: Many solopreneurs, startups and growing businesses overlook the importance of content, because they are focused on other matters. However, this leads to lost sales and increased costs. In this article I’ll give you an overview of how you can make sure you have content that drives growth and increases productivity.
 ---
 
-# We want to grow our startup faster and think content strategy will help
+## We want to grow our startup faster and think content strategy will help
 
 Content is why people come to your website. They want to complete a
 task, find information, be entertained, or a combination of all three.
@@ -21,7 +21,7 @@ So, a content strategy aimed specifically at startups can help your company grow
 attention of customers, answering their questions, and motivating them
 to take specific actions.
 
-## What you'll learn in this blog post: 
+### What you'll learn in this blog post: 
 
 * How to use a core mission statement to nail down the fundamentals of your company and work out what content you should produce, who it's for and what's the end result
 * Why providing a consistently good experience across all your content has a direct impact on your conversion rate
