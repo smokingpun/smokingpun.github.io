@@ -9,7 +9,7 @@ metadescription: Your team is your company's greatest asset, so it makes sense t
 Your team is your company's greatest asset, so it makes sense to recruit people who will love your company, stick around and do some fantastic work. So, how do you recruit these great people? Usually, through some kind of content. You might write a job advert, a blog post, send out some tweets, perhaps send a message down a newsletter. Fab! But not so fab if this content puts off great candidates while attracting poor ones. In this post I'll look at how you can use some content techniques to write job adverts that work for your company.
 
 
-###1. Know what you want to communicate about your company
+### 1. Know what you want to communicate about your company
 
 Work out what key messages about your company you want to communicate to candidates. Are you fun, friendly and relaxed? Reliable, helpful and considerate? Fast moving, technological and social?
 
@@ -29,7 +29,7 @@ The friendly bit is communicated by the informal style. The flexible bit is show
 
 
 
-###2. Show don't tell
+### 2. Show don't tell
 
 This is a useful maxim no matter what content you're writing. It basically means that instead of writing 'The boy was scared' you instead <em>show</em> he's scared: 'His teeth were chattering; his face paled as he clung onto the chair, as if to defend himself from some unknown force' (Stephen King, eat your heart out).
 
@@ -47,7 +47,7 @@ When I was writing the SendOwl advert I mainly used 1-2 sentence paragraphs plus
 
 
 
-###3. Choose your words carefully
+### 3. Choose your words carefully
 
 Although it's a bit dated now, plenty of tech world job descriptions went through a phase where everyone needed to be a 'coding ninja,' 'rockstar' 'or customer support hero'. 
 
@@ -84,7 +84,7 @@ Even if you don't use such obviously divisive language as 'brogrammer' be sparin
 Even a term like 'hacker' may not resonate with candidates in the way you expect, particularly if it means to you: 'I'm a cool anti-establishment kind of person'. This is the story of <a href="http://www.fastcompany.com/3044094/strong-female-lead/how-changing-one-word-in-job-descriptions-can-lead-to-more-diverse-candid">how Buffer attracted a broader range of candidates </a>when they changed some job descriptions from 'hacker' to 'developer'.
 
 
-###4. Don't forget to use gender neutral pronouns
+### 4. Don't forget to use gender neutral pronouns
 
 Unless you want to exclude at least 50% of possible candidates, don't use 'he' in your job advert and wonder why no women applied. Here are <a href="http://techcompaniesthatonlyhiremen.tumblr.com/">a number of companies</a> that made that mistake.
 
@@ -104,7 +104,7 @@ Of course, if you don't want any women to apply then using 'he' in your advert i
 
 
 
-###5. Think carefully about where you're posting or advertising your advert
+### 5. Think carefully about where you're posting or advertising your advert
 
 If you want to attract a mature developer who wants a good work-life balance then putting up an advert at Google Campus or a tech incubator is probably not going to work.
 
@@ -128,7 +128,7 @@ Think carefully about how you advertise your job on Twitter to attract great can
 
 
 
-###6. Challenge your assumptions
+### 6. Challenge your assumptions
 
 There's no point attracting a wide range of great candidates if you don't treat their applications fairly. In an ideal world we'd all have an amazing ability to neutralise our assumptions, cultural alignment and life experiences so we can treat everyone the same. However, this isn't an ideal world and we don't. It's nothing really to be ashamed of (it happens to all of us), but it is something that you should spend some time thinking about. For example:
 
@@ -148,7 +148,7 @@ Don't be that man or woman who turns down a great candidate because of your inte
 
 
 
-###Conclusion
+### Conclusion
 
 Words matter so spend time crafting a job advert that appeals to the kind of candidates you want. Make sure you know what you want to communicate about your company, so candidates know how your company is different, and why they might be a great fit. Remember that it's not just what you say in a job advert that matters but how you say it. Stilted language, cliches and long paragraphs will quickly contradict any promises you make about working in a fast-paced and creative environment. Most of all, be prepared to spent time not only writing your perfect job advert but also promoting it, and in fairly considering potential candidates who take the time to apply. 
 
