@@ -531,6 +531,11 @@ ul.posts li {
   .buy-now-row {
     margin-top: 2em;
   }
+
+  .buy-now-row-homepage {
+    margin-top: 1.5em;
+  }
+
 }
 
 @media only screen and (min-width: 64.063em) {  /* min-width 1025px, large screens */
