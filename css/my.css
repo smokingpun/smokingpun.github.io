@@ -86,12 +86,24 @@ h2 span {
     background-size: contain;
     background-position-x: center;
     background-repeat: no-repeat;
-    position: relative; 
+    position: relative;
     min-height: 400px;
     margin-bottom: 30px;
     background-color: rgb(70,142, 210)
 
   } 
+
+#banner-red {
+
+    background-image: url(/images/Contented-Strategy-Background-1.png);
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: repeat;
+    position: relative;
+    min-height: 14em;
+    max-height: 16em;
+    margin-bottom: 5em;
+  }   
 
   .homepage .value-proposition {
   padding-top: 100px;
@@ -122,6 +134,11 @@ h2 span {
     min-height: 215px;
   } 
 
+#banner-red {
+    min-height: 10em;
+    max-height: 12em;
+    margin-bottom: 2em;;
+  } 
 
 .value-proposition {
   padding-top: 10px;
