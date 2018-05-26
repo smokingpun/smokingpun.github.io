@@ -269,14 +269,14 @@ h2 span {
 
 
 #hire-me-section {
-  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  background-image: url(/images/Contented-Strategy-Background-1.png);
   position: relative;
   height: 350px;
 
 }
 
 .about-the-author {
-  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  background-image: url(../images/Contented-Strategy-Background-1.png);
   position: relative;
   min-height: 350px;
 
@@ -285,7 +285,7 @@ h2 span {
 @media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
 #hire-me-section {
-  background-image: url(../images/Contented-Strategy-Background-1.jpg);
+  background-image: url(../images/Contented-Strategy-Background-1.png);
   position: relative;
   height: 420px;
 
