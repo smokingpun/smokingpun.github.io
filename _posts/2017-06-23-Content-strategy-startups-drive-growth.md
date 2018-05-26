@@ -36,7 +36,7 @@ to take specific actions.
 * Inconsistent content – some good content and some poor – will confuse and frustrate customers
 * Search engines penalise poor content so your search rankings will suffer
 
-<strong>This post is an extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="http://contentedstrategy.com/content_strategy_for_startups.html">Be the first to hear when it launches – and receive a discount.</a></strong>
+<strong>This post is an early extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="http://contentedstrategy.com/content_strategy_for_startups.html">Read more about how the book can help you drive growth, engagement and investment.</a></strong>
 
 ## Get the basics sorted first
 

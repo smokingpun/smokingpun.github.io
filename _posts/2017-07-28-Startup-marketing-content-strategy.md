@@ -35,7 +35,7 @@ love your product
 * Companies that don't understand what their customers need are more likely to develop features and schemes that fail to engage and attract customers
  
 
-<strong>This post is an extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="http://contentedstrategy.com/content_strategy_for_startups.html">Be the first to hear when it launches – and receive a discount.</a></strong>
+<strong>This post is an early extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="http://contentedstrategy.com/content_strategy_for_startups.html">Read more about how the book can help you drive growth, engagement and investment.</a></strong>
 
 
 
