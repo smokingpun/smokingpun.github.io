@@ -22,7 +22,9 @@ In this post I talk about how you can write the book you've always dreamed about
 
 ## Be realistic about your timeframe
 
-You can achieve your goals but if you have family commitments then it might take you a bit longer than two weeks. Say two years. Embrace this kind of time frame. If you are already working and looking after small people, dogs, a house, packing for holidays (a military exercise if ever there was one), doing the washing, doing more washing, managing your finances, and so on, then the fact that you get anything done is cause for celebration. Writing a book is doable but only if you accept that you aren't superwoman or superman and no one should expect you to be. 
+You can achieve your goals but if you have family commitments then it might take you a bit longer than two weeks. Say two years. Embrace this kind of time frame. If you are already working and looking after small people, dogs, a house, packing for holidays (a military exercise if ever there was one), doing the washing, doing more washing, managing your finances, and so on, then the fact that you get anything done is cause for celebration. 
+
+Writing a book is doable but only if you accept that you aren't superwoman or superman and no one should expect you to be. 
 
 
 
@@ -52,7 +54,9 @@ However, there are a number of times in a day when you're doing something that d
 
 ## Treat yourself to quality writing time 
 
-Although writing a book is likely to be your side project, so not something you can easily justify spending money on, try at least occasionally to fence off quality time. See if your partner, friends or family can help with your children, dogs, or other dependants. Pay a cleaner. Employ someone to do odd jobs. I know many or perhaps all of these options may not be available, but see what you can do. If this project matters to you then you deserve to have at least some quality time to spend on it, if possible. Because you're worth it, as some wise person said. Or a shampoo advert. I forget which. 
+Although writing a book is likely to be your side project, so not something you can easily justify spending money on, try at least occasionally to fence off quality time. See if your partner, friends or family can help with your children, dogs, or other dependants. Pay a cleaner. Employ someone to do odd jobs. I know many or perhaps all of these options may not be available, but see what you can do. 
+
+If this project matters to you then you deserve to have at least some quality time to spend on it, if possible. Because you're worth it, as some wise person said. Or a shampoo advert. I forget which. 
 
 
 ## Get reviewers or a mentor on board
