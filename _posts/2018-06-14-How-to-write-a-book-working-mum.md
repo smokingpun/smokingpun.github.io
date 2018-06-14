@@ -26,7 +26,9 @@ You can achieve your goals but if you have family commitments then it might take
 
 Writing a book is doable but only if you accept that you aren't superwoman or superman and no one should expect you to be. 
 
+![cartoon image of superheroes](/images/superwoman.jpg)
 
+_No one should expect you to be a superhero_
 
 ## Accept that 20 minutes is a wonderful opportunity
 
@@ -42,6 +44,9 @@ I appreciate this goes against the prevailing wisdom but if I try and do lots of
 
 Personally, I never try and seriously write or work while looking after my children, which is a full time job in itself. I'll instead fit writing in when they are napping, or with someone else, or after they've gone to bed. In any case, if I tried to work when my toddler around my book would read like this: zzzh4chhhaums 7s8sj as her sticky little fingers got to work.
 
+![cartoon image of explosion](/images/explosion.png)
+
+_Multi-tasking often ends badly – like when you try and write while looking after a toddler_
 
 
 ## Think about your book while doing other things
@@ -65,6 +70,9 @@ You're going to have plenty of moments when your enthusiasm flags or you think y
 
 Begin by thinking who you'd really like to get on board and then reach out to them, even if you haven't met them yourself. Explain what you're doing and why you really care about their opinion (treading a fine line between honesty and flattery). You'll hopefully be surprised by how helpful people can be.
 
+![cartoon image of mentor](/images/mentor.png)
+
+_Finding a mentor can help when times get tough and you need help to keep writing_
 
 
 ## Plan for ongoing research
@@ -80,7 +88,6 @@ Accept you can always do more – more research, more revision, more editing, an
 I'm a huge fan of ebooks because they are cheap for you to create, easy to update and you get to keep nearly all of the cover price if you sell direct from your own website. Plus you can automate the sales process using various digital delivery providers so that you can make money while you sleep (or try to sleep, if you have young children). Plus with ebooks you can sell to people all over the world, which is particularly important if you're writing a book on a niche subject. 
 
 Of course, you need to put a marketing plan in place otherwise you'll never sell anything through your own website. But going through a conventional publisher is no guarantee of great sales either (and I've done both) and you have to sell a lot more books to take home the same amount of money. 
-
 
 
 ## Accept that marketing will be a challenge
