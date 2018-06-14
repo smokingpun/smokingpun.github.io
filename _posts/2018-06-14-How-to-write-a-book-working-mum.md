@@ -4,7 +4,7 @@ title:  "How to write a book when you don't have any time. By a working mum."
 date:   2018-06-12 
 categories: blog
 metadescription: This post is about how to write a book when you don't have any time. It's particularly aimed at busy men and women who have children. 
-
+excerpt: In this post I talk about how you can write the book you've always dreamed about, even with your many responsibilities, if you just follow a few basic guidelines. I also encourage you to bin unhelpful concepts like multitasking, the superwoman (or superman) complex, and feeling guilty.  
 ---
 
 # How to write a book 
