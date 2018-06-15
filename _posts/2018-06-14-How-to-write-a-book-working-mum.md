@@ -26,7 +26,7 @@ You can achieve your goals but if you have family commitments then it might take
 
 Writing a book is doable but only if you accept that you aren't superwoman or superman and no one should expect you to be. 
 
-![cartoon image of superheroes](/images/superwoman.jpg)
+![cartoon image of superheroes](/images/superwoman-not.jpg)
 
 _No one should expect you to be a superhero_
 
