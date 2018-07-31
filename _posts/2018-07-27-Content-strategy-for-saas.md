@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to measure and improve your SaaS content (and why you should bother)"
+title:  "How to measure and improve your SaaS content - and why you should bother"
 date:   2018-07-27 
 categories: blog
 metadescription: Learn how content strategy can improve your software as a service business
