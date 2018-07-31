@@ -7,7 +7,7 @@ metadescription: Learn how content strategy can improve your software as a servi
 excerpt: This is a blog post for SaaS founders who don't really like content but have a niggling feeling it is important and they could do better. Content is important, you can do better, and in this post I'll show you how. 
 ---
 
-# How to measure and improve your SaaS content (and why you should bother)
+#How to measure and improve your SaaS content (and why you should bother)
 
 You've spent hours, weeks, months, even years of your life developing your SaaS product. You know it's great. So do a few of your friends and a few early adopters. Your product works. It solves the high-value problem it was designed to solve. Job done then? No, obviously not. 
 
