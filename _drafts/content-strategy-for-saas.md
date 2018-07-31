@@ -7,7 +7,7 @@ metadescription: Learn how content strategy can improve your software as a servi
 excerpt: This is a blog post for SaaS founders who don't really like content but have a niggling feeling it is important and they could do better. Content is important, you can do better, and in this post I'll show you how. 
 ---
 
-#How to measure and improve your SaaS content (and why you should bother)
+# How to measure and improve your SaaS content (and why you should bother)
 
 You've spent hours, weeks, months, even years of your life developing your SaaS product. You know it's great. So do a few of your friends and a few early adopters. Your product works. It solves the high-value problem it was designed to solve. Job done then? No, obviously not. 
 
@@ -16,7 +16,7 @@ Building a SaaS product is about running a business and that involves lots of sk
 Call it what you want, but unless you spend time thinking strategically about your content then you run the very real risk of never getting any traction. Why should people buy your product when they don't understand what problem it solves and how it will make their life better?
 
 
-##Why you should care about creating great content
+## Why you should care about creating great content
 
 People come to your website for the content. They heard a snippet of information about your product that has got their interest and they want to know more. 
 
@@ -35,14 +35,14 @@ Chris Freeman
 
 
 
-##What makes good content for software products?
+## What makes good content for software products?
 
 Generally speaking, content that gets people to take a revenue-linked action as soon as possible. You'll need content for other tasks – for investors, job seekers, affiliates, partners, and so on – but this content is probably not high priority. Don't let it get in the way of your core users taking business-critical actions. 
 
 But how can you write content that gets people to sign up to a free trial, request a demo, pay for an account, upgrade to a more expensive one or repeat purchase? Here's how:
 
 
-###1. Get outside your own head
+### 1. Get outside your own head
 
 "I think customers will do this because I think this..."
 
@@ -55,7 +55,7 @@ You need to get in touch with people who are in pain and in search of a solution
 Which brings us to point number 2. 
 
 
-###2. Unleash your customer knowledge
+### 2. Unleash your customer knowledge
 
 I bet you actually really know your customers. Some were probably customers #1 and #2 and have been with you since the beginning. They've told you what they like about your product, what they don't, and how you should improve it (you might even have listened). 
 
@@ -64,7 +64,7 @@ However, to extract real value from this customer information you need to get a 
 Then get more information. And a bit more, for good measure. You can do this in various ways including:
 
 
-####Send out a survey 
+#### Send out a survey 
 
 You can send out a survey to paying customers asking questions like:
 
@@ -87,7 +87,7 @@ I advise separating the two surveys because you want more people who did convert
 <em>This survey question asked whether people wanted to download or stream long tech videos – and more people than expected favoured downloading</em>
 
 
-####Talk to your customers
+#### Talk to your customers
 
 This one is easy to miss because you probably feel like you hear from your customers all the time. You are helping them do something through your support section. Or trying to face-to-face convert high-value clients or get your first 100 users.  
 
@@ -105,7 +105,7 @@ You need to find power users, basically, people who love your product, and get t
 * What is their life actually like using the product?
 
 
-####Raid your support section
+#### Raid your support section
 
 Your support section isn't just a valuable resource in terms of working out whether your product has a bug, or whether you need a new feature. Or a pain the proverbial, given how many people seem to ask questions that seem super obvious to you (the all-knowing founder).
 
@@ -119,7 +119,7 @@ Go raid your support section, looking for valuable insights into:
 
 
 
-####Snoop on your competitors
+#### Snoop on your competitors
 
 This is a particularly good option if you don't have many paying customers. 
 
@@ -134,7 +134,7 @@ Then use this language to grab their attention through your content.
 <em>See what people are saying about your competitors (I was looking at personal safety apps)</em>
 
 
-###3. Tell a good story about your product
+### 3. Tell a good story about your product
 
 Once you really feel like you know your customers – particularly your most important ones – then you are ready to reassess your content. Which brings us to this point, number 3. Tell a good story. 
 
@@ -185,7 +185,7 @@ A word of caution about these techniques though: never lose track of the fact th
 
 A storytelling approach to content can be useful but not if you get carried away and start rambling. Give your customers the information they specifically need when they need it.
 
-####How much content do you need?
+#### How much content do you need?
 
 If your product doesn't cost much you can tell a short story – over a page or so – and probably still convert very well. Particularly if you offer a free trial so people don't need to give you money up front.
 
@@ -207,7 +207,7 @@ Which brings us to point 4.
 
 
 
-##4. Your content isn't just your homepage
+## 4. Your content isn't just your homepage
 
 Even if you have brilliant content on your homepage, or even on a few marketing pages, your work isn't done. 
 
@@ -262,13 +262,13 @@ Good content techniques for customer retention include:
 * Excellent help articles (to help people get the most from your product)
 
 
-##How do we best tell if our content is working effectively?
+## How do we best tell if our content is working effectively?
 
 I know many developers avoid or dislike content because it doesn’t offer such clear cut results as code (and I can empathise. I’m an amateur coder but at least when I get it right it usually works, which is pretty satisfying).
 
 However, you can be logical about testing and improving your content. Here are two approaches:
 
-###The pain point approach: best when you know something isn't working
+### The pain point approach: best when you know something isn't working
 
 This is a good approach when you know something is blocking growth and are wondering what to do.
 
@@ -285,7 +285,7 @@ This is a good approach when you know something is blocking growth and are wonde
 For more advice on running tests (including content tests) read <em>Hacking Growth</em> by Sean Ellis and Morgan Brown. 
 
 
-###The content MOT approach: best when you want an overall idea of whether your content works
+### The content MOT approach: best when you want an overall idea of whether your content works
 
 This approach basically involves giving your content an MOT, like you would your car. It's known as a content audit.
 
@@ -316,7 +316,7 @@ If you are running an early stage startup, you should also consider doing a comp
 Most importantly, you learn how you can differentiate yourself. 
 
 
-##What now?
+## What now?
 
 If your sneaking suspicion that your content is underperforming has matured to alarm bells and a nagging feeling of 'I must do something' then this next sentence is for you. 
 
