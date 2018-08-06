@@ -323,7 +323,7 @@ Celebrate your content success. Then repeat.
 
 
 
-<em>Need help with assessing or improving your content? Get in touch: [hannah.adcock@gmail.com](mailto: hannah.adcock@gmail.com)</em>
+<em>Need help with assessing or improving your content? Get in touch: [hannah@contentedstrategy.com](mailto: hannah@contentedstrategy.com)</em>
 
 
 
