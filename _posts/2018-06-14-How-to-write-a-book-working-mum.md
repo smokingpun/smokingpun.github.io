@@ -11,6 +11,8 @@ excerpt: In this post I talk about how you can write the book you've always drea
 
 ## When you don't have any time
 
+<em>Now updated to include advice from other authors!</em>
+
 
 I don't know about you, but when I read articles about how you can write a book/learn to cook like a celebrity chef/read Game of Thrones, all in two weeks, I want to scream; but don't, obviously, because it might wake the baby. These articles nearly always seem to be written by smug young people with very little in the way of responsibility (and going to the gym and sampling artisan beer don't count). 
 
@@ -34,8 +36,7 @@ _No one should expect you to be a superhero_
 
 I fondly remember the days when I'd make myself a cup of tea, wonder around a bit, rearrange my desk and then do some writing, for hours if I wanted. No more. The key to writing a book when you're busy is to accept that 20 minutes is a wonderful opportunity. If you spot 20 minutes (or even the promise of 20 minutes) sit down and write. The washing up can wait. It doesn't matter that the house is a bit messy - really, it doesn't. Don't go anywhere near social media. Accept that writing in your pyjamas is perfectly acceptable. 
 
-I'm always amazed by how much you can get done if you do little bursts frequently. However, if you are tired then don't feel guilty. Go back to bed. Have a bath. The book can wait.
-
+I'm always amazed by how much you can get done if you do little bursts frequently. However, if you are tired then don't feel guilty. Go back to bed. Have a bath. The book can wait
 
 
 ## Bin multitasking
@@ -47,6 +48,14 @@ Personally, I never try and seriously write or work while looking after my child
 ![cartoon image of explosion](/images/explosion.png)
 
 _Multi-tasking often ends badly – like when you try and write while looking after a toddler_
+
+### Advice from author Ceri Radford
+
+>Writing time is sacred time. I try to leave the house and work in a café so that I'm not even remotely tempted to do anything about the general state of domestic chaos. I kept thinking there would be a time when I could write and look after my daughter, but it's yet to happen. She howled and would only nap in her pram as a small baby, climbed my leg to get at my laptop as a bigger baby, and now at three plays brilliantly by herself until the precise moment she hears the click of my laptop opening. 
+
+>There is no easy way to be a parent and a writer - they're two all-encompassing things. I feel better if I'm making progress on something I'm happy with, even if the pace is slower than it used to be. I also comfort myself with the idea that it's not like I'm a footballer - I'm not going to get worse at writing as I get older. Things will get easier. 
+
+>Ceri Radford, author of [A Surrey State of Affairs](https://www.amazon.co.uk/Surrey-State-Affairs-Novel/dp/B00B9ZMZY4), currently working on her second novel
 
 
 ## Think about your book while doing other things
@@ -62,6 +71,17 @@ However, there are a number of times in a day when you're doing something that d
 Although writing a book is likely to be your side project, so not something you can easily justify spending money on, try at least occasionally to fence off quality time. See if your partner, friends or family can help with your children, dogs, or other dependants. Pay a cleaner. Employ someone to do odd jobs. I know many or perhaps all of these options may not be available, but see what you can do. 
 
 If this project matters to you then you deserve to have at least some quality time to spend on it, if possible. Because you're worth it, as some wise person said. Or a shampoo advert. I forget which. 
+
+### Advice from literary agent and author Claire Wingfield
+
+>Having less time as a new mum helped me focus and complete my draft, as I went from having 'all the time in the world' and not completing personal projects (always prioritising my work as a freelance editor and literary consultant) to having limited time but an increased sense of both my own creativity and the necessity of time management. 
+
+>Having less time made me more protective of it and even influenced the format of my creative-writing guide [52 Dates for Writers - Ride a Tandem, Assume an Alias and 50 Other Ways to Improve Your Novel Draft](https://www.clairewingfield.co.uk/writing-handbook/).
+
+>Claire Wingfield, literary agent and author
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxXo9-zUtMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 ## Get reviewers or a mentor on board
