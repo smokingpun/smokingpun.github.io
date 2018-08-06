@@ -9,15 +9,6 @@ excerpt: This is a blog post for SaaS founders who don't really like content but
 
 <h1>How to measure and improve your SaaS content (and why you should bother)</h1>
 
-You've spent hours, weeks, months, even years of your life developing your SaaS product. You know it's great. So do a few of your friends and a few early adopters. Your product works. It solves the high-value problem it was designed to solve. Job done then? No, obviously not. 
-
-Building a SaaS product is about running a business and that involves lots of skills like accounting, managing people, researching your market, and, importantly, persuading people to actually buy your product. You can call this marketing. Or PR. Or even 'Gah, I hate this stuff!'.
-
-Call it what you want, but unless you spend time thinking strategically about your content then you run the very real risk of never getting any traction. Why should people buy your product when they don't understand what problem it solves and how it will make their life better?
-
-
-<h2>Why you should care about creating great content</h2>
-
 People come to your website for the content. They heard a snippet of information about your product that has got their interest and they want to know more. 
 
 They want to see how your product can solve their problem, scratch a painful itch, or make them happier. And they want to know whether they can trust you and whether other people do too. And it is your content (not your product, or even your web design) that will help them at this crucial stage.
@@ -35,7 +26,7 @@ Chris Freeman
 
 
 
-<h2>What makes good content for software products?</h2>
+<h2>What makes good content for SaaS products?</h2>
 
 Generally speaking, content that gets people to take a revenue-linked action as soon as possible. You'll need content for other tasks – for investors, job seekers, affiliates, partners, and so on – but this content is probably not high priority. Don't let it get in the way of your core users taking business-critical actions. 
 
@@ -107,7 +98,7 @@ You need to find power users, basically, people who love your product, and get t
 
 <h4>Raid your support section</h4>
 
-Your support section isn't just a valuable resource in terms of working out whether your product has a bug, or whether you need a new feature. Or a pain the proverbial, given how many people seem to ask questions that seem super obvious to you (the all-knowing founder).
+Your support section isn't just a valuable resource in terms of working out whether your product has a bug, or whether you need a new feature. Or a pain in the proverbial, given how many people seem to ask questions that seem super obvious to you (the all-knowing founder).
 
 It is also a great way of showing you who is using your product, whether they get your content, and what they need from you.
 
@@ -274,7 +265,7 @@ This is a good approach when you know something is blocking growth and are wonde
 
 1. Start by writing down the pain points in your business based on your key performance indicators (KPIs): poor conversion rate of free to paid users, inadequate traffic, low engagement rate, low order value, high churn rate, and so on. Now at least consider whether you have a content rather than a product problem or superficial PR problem.
 
-2. Dive into your metrics, trawl through your customer support, or reach out via a survey to uncover as much information as possible about this growth blocker. Talk to your colleagues to see if they have any ideas.
+2. Dive into your metrics, trawl through your customer support, or reach out via a survey to uncover as much information as possible about this growth blocker. Talk to your fellow business owners or colleagues to see if they have any ideas.
 
 3. Construct a working hypothesis: say you’re getting lots of customer support questions asking what you do + a high exit rate from your homepage + your customer survey shows lots of happy existing customers = potentially you’re doing a poor job communicating at a high level your product to new customers. So you need to improve your homepage not your product. 
 
@@ -285,9 +276,9 @@ This is a good approach when you know something is blocking growth and are wonde
 For more advice on running tests (including content tests) read <em>Hacking Growth</em> by Sean Ellis and Morgan Brown. 
 
 
-<h3>The content MOT approach: best when you want an overall idea of whether your content works</h3>
+<h3>The content audit approach: best when you want an overall idea of whether your content works</h3>
 
-This approach basically involves giving your content an MOT, like you would your car. It's known as a content audit.
+This approach basically involves giving your content a thorough check-up, like you would your car, to check it is working properly and hasn't any hidden problems. 
 
 This process can be partly automated using various tools like the [Content Analysis Tool](http://www.content-insight.com/), but does involve a degree of legwork as you go through your content and grade it based on qualities such as whether it supports your current business direction, up-to-date, actionable, and so on. You’d also collect metrics on each page so you build an effective picture of how your content is performing. 
 
