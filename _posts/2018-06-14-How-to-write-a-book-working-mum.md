@@ -72,13 +72,13 @@ Although writing a book is likely to be your side project, so not something you 
 
 If this project matters to you then you deserve to have at least some quality time to spend on it, if possible. Because you're worth it, as some wise person said. Or a shampoo advert. I forget which. 
 
-### Advice from literary agent and author Claire Wingfield
+### Advice from literary consultant and author Claire Wingfield
 
 >Having less time as a new mum helped me focus and complete my draft, as I went from having 'all the time in the world' and not completing personal projects (always prioritising my work as a freelance editor and literary consultant) to having limited time but an increased sense of both my own creativity and the necessity of time management. 
 
 >Having less time made me more protective of it and even influenced the format of my creative-writing guide [52 Dates for Writers - Ride a Tandem, Assume an Alias and 50 Other Ways to Improve Your Novel Draft](https://www.clairewingfield.co.uk/writing-handbook/).
 
->Claire Wingfield, literary agent and author
+>Claire Wingfield, literary consultant and author
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kxXo9-zUtMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
