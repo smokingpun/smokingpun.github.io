@@ -11,4 +11,4 @@ In A Book Apart’s Content Strategy for Mobile (2012), Karen McGrane discusses 
 
 [Read my review][book review] on the Content Strategy Forum
 
-[book review]: http://csforum.eu/articles/content-strategy-for-mobile-book-review
+[book review]: https://csforum.eu/articles/content-strategy-for-mobile-book-review

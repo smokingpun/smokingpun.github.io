@@ -59,11 +59,11 @@ These ideas are based on informed guesswork though. Our [next step][survey] was 
 
 
 
-[Vimcasts_homepage]: http://vimcasts.org/
+[Vimcasts_homepage]: https://vimcasts.org/
 [@vimcasts]: https://twitter.com/vimcasts
-[praise]: http://vimcasts.org/praise
-[all episodes]: http://vimcasts.org/episodes/archive
-[about]: http://vimcasts.org/about
+[praise]: https://vimcasts.org/praise
+[all episodes]: https://vimcasts.org/episodes/archive
+[about]: https://vimcasts.org/about
 [survey]: /blog/2014/01/27/Redesigning-Vimcasts-The_User_Survey.html
 [email]: mailto:hannah.adcock@gmail.com
 [content strategy section]: /#what_is_content_strategy_section

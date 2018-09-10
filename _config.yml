@@ -4,7 +4,7 @@ paginate: 5
 highlighter: 'pygments'
 paginate_path: "blog/page:num"
 description: Hannah Adcock Neil's blog on content strategy
-url: http://contentedstrategy.com
+url: https://contentedstrategy.com
 exclude:
   - vendor
   - _vendor

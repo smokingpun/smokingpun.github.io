@@ -30,7 +30,7 @@ You might not like their style, but the Mad Mimi website stands out.
 
 There are lots of ways to make your company stand out, but in this blog post I'm going to concentrate on developing a message architecture, because this tackles the issue of your startup's identity at a fundamental level. 
 
-Content strategist [Margot Bloomstein](http://appropriateinc.com/) defines a message architecture as:
+Content strategist [Margot Bloomstein](https://appropriateinc.com/) defines a message architecture as:
 
 > A hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline. 
 
@@ -73,7 +73,7 @@ Digital agency Artios communicate that they are mathematical – and this makes 
 
 ### Running a card sorting session
 
-I'm indebted to [Margot Bloomstein](http://appropriateinc.com/) for much of this information below and would highly recommend her book <a href="http://appropriateinc.com/book/">Content Strategy at Work</a>.  
+I'm indebted to [Margot Bloomstein](https://appropriateinc.com/) for much of this information below and would highly recommend her book <a href="https://appropriateinc.com/book/">Content Strategy at Work</a>.  
 
 Right, let's get going. In advance of your meeting, write down actionable words that may relate to your company and industry (plus a few obvious ringers) on pieces of card that are the same size and colour. Here are a few ideas:
 

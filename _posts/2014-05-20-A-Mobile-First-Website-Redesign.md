@@ -34,8 +34,8 @@ Taking a mobile first approach helps you to better understand content priorities
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section].
 
-[Vimcasts]: http://vimcasts.org/
-[fixedfont]: http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/#comment-816613999
-[Zurb Foundation]: http://foundation.zurb.com/
+[Vimcasts]: https://vimcasts.org/
+[fixedfont]: https://vimcasts.org/blog/2013/02/habit-breaking-habit-making/#comment-816613999
+[Zurb Foundation]: https://foundation.zurb.com/
 [email]: mailto:hannah.adcock@gmail.com
 [content strategy section]: /#what_is_content_strategy_section

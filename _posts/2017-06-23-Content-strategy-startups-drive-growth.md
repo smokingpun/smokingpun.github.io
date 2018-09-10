@@ -36,7 +36,7 @@ to take specific actions.
 * Inconsistent content – some good content and some poor – will confuse and frustrate customers
 * Search engines penalise poor content so your search rankings will suffer
 
-<strong>This post is an early extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="http://contentedstrategy.com/content_strategy_for_startups.html">Read more about how the book can help you drive growth, engagement and investment.</a></strong>
+<strong>This post is an early extract from my book: Content strategy for Solopreneurs, Startups and Growing Businesses. <a href="https://contentedstrategy.com/content_strategy_for_startups.html">Read more about how the book can help you drive growth, engagement and investment.</a></strong>
 
 ## Get the basics sorted first
 
@@ -131,7 +131,7 @@ They also sent me a welcome email with a few more choices: Design from scratch, 
 
 I created a project, enjoyed using the software – and signed up (which meant moving from a competitor). 
 
-For an insight into <a href="http://www.useronboard.com/">how other companies use onboarding</a> have a look at this website.
+For an insight into <a href="https://www.useronboard.com/">how other companies use onboarding</a> have a look at this website.
 
 ### Customer support emails, phone calls and chat
 <em>Reply to a question or query</em>
@@ -221,7 +221,7 @@ Let's look at a website that pays attention to what a customer needs rather than
 
 ![](/images/brains-screenshot.png)
 
-We'll take the site for a test drive: I'm a CTO with responsibility for overseeing our company's transition to <a href="http://agilemanifesto.org/principles.html">an agile methodology</a>. I've made a business case for getting some external training. Now I'm seeing what options are out there before pitching to our CEO.
+We'll take the site for a test drive: I'm a CTO with responsibility for overseeing our company's transition to <a href="https://agilemanifesto.org/principles.html">an agile methodology</a>. I've made a business case for getting some external training. Now I'm seeing what options are out there before pitching to our CEO.
 
 I've landed on this page. There's a great big button at the top that says 'training: when you need to develop new skills'. Just what I wanted. I select this and am taken part way down the homepage to a section that tells me:
 
