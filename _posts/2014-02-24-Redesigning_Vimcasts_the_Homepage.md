@@ -45,13 +45,13 @@ I've blogged about the business case, practicalities, content implications, prob
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section].
 
-[Vimcasts]: http://vimcasts.org/
+[Vimcasts]: https://vimcasts.org/
 [survey]: /blog/2014/01/27/Redesigning-Vimcasts-The_User_Survey.html
 [analytics]: /blog/2014/02/05/Redesigning-Vimcasts-The-Analytics-Overview.html
 [email]: mailto:hannah.adcock@gmail.com
 [content strategy section]: /#what_is_content_strategy_section
 [twitter]: https://twitter.com/smokingpun
-[overview]: http://contentedstrategy.com/blog/2014/01/26/redesigning-Vimcasts-the-overview.html
+[overview]: https://contentedstrategy.com/blog/2014/01/26/redesigning-Vimcasts-the-overview.html
 [mobile first]: blog/2014/05/20/A-Mobile-First-Website-Redesign.html
 
 

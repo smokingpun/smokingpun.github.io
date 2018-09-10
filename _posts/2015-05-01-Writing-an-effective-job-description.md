@@ -81,12 +81,12 @@ I'm not sure how 'top notch' and 'world class' an agency is that can come up wit
 
 Even if you don't use such obviously divisive language as 'brogrammer' be sparing in your use of such terms as 'dominant', 'competitive,' 'stress-resilient' and 'superior'. Taken together, your advert may in fact be shouting WORK HERE AND AGRESSION WILL BE AN INTEGRAL PART OF YOUR LIFE. 
 
-Even a term like 'hacker' may not resonate with candidates in the way you expect, particularly if it means to you: 'I'm a cool anti-establishment kind of person'. This is the story of <a href="http://www.fastcompany.com/3044094/strong-female-lead/how-changing-one-word-in-job-descriptions-can-lead-to-more-diverse-candid">how Buffer attracted a broader range of candidates </a>when they changed some job descriptions from 'hacker' to 'developer'.
+Even a term like 'hacker' may not resonate with candidates in the way you expect, particularly if it means to you: 'I'm a cool anti-establishment kind of person'. This is the story of <a href="https://www.fastcompany.com/3044094/strong-female-lead/how-changing-one-word-in-job-descriptions-can-lead-to-more-diverse-candid">how Buffer attracted a broader range of candidates </a>when they changed some job descriptions from 'hacker' to 'developer'.
 
 
 ### 4. Don't forget to use gender neutral pronouns
 
-Unless you want to exclude at least 50% of possible candidates, don't use 'he' in your job advert and wonder why no women applied. Here are <a href="http://techcompaniesthatonlyhiremen.tumblr.com/">a number of companies</a> that made that mistake.
+Unless you want to exclude at least 50% of possible candidates, don't use 'he' in your job advert and wonder why no women applied. Here are <a href="https://techcompaniesthatonlyhiremen.tumblr.com/">a number of companies</a> that made that mistake.
 
 <img class="he" src="/images/he.png" alt="job advert just using he">
 
@@ -132,7 +132,7 @@ Think carefully about how you advertise your job on Twitter to attract great can
 
 There's no point attracting a wide range of great candidates if you don't treat their applications fairly. In an ideal world we'd all have an amazing ability to neutralise our assumptions, cultural alignment and life experiences so we can treat everyone the same. However, this isn't an ideal world and we don't. It's nothing really to be ashamed of (it happens to all of us), but it is something that you should spend some time thinking about. For example:
 
-“...Research from Yale that had scientists presented with application materials from a student applying for a lab manager position and who intended to go on to graduate school. Half the scientists were given the application with a male name attached, and half were given the exact same application with a female name attached. Results found that the “female” applicants were rated significantly lower than the 'males' in competence, hireability, and whether the scientist would be willing to mentor the student.” - <a href="http://blogs.scientificamerican.com/unofficial-prognosis/2012/09/23/study-shows-gender-bias-in-science-is-real-heres-why-it-matters/">Scientific American</a>.
+“...Research from Yale that had scientists presented with application materials from a student applying for a lab manager position and who intended to go on to graduate school. Half the scientists were given the application with a male name attached, and half were given the exact same application with a female name attached. Results found that the “female” applicants were rated significantly lower than the 'males' in competence, hireability, and whether the scientist would be willing to mentor the student.” - <a href="https://blogs.scientificamerican.com/unofficial-prognosis/2012/09/23/study-shows-gender-bias-in-science-is-real-heres-why-it-matters/">Scientific American</a>.
 
 
 
@@ -154,7 +154,7 @@ Words matter so spend time crafting a job advert that appeals to the kind of can
 
 <div class="blog_caption">
 
-This blog post was inspired by a very interesting discussion on <a href="http://adaslist.co/">Ada's List</a> – thanks to everyone involved!
+This blog post was inspired by a very interesting discussion on <a href="https://adaslist.co/">Ada's List</a> – thanks to everyone involved!
 
 </div>
 

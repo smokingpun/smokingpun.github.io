@@ -46,7 +46,7 @@ There's nothing quite like trying to fit content onto a tiny screen to make you 
 ###Need help working out how you can improve your digital content?
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section].
 
-[semantic web movement]: http://www.w3.org/2013/data/
+[semantic web movement]: https://www.w3.org/2013/data/
 [Trello]: https://trello.com/
 [Draft]: https://draftin.com/
 [Slack]: https://slack.com/

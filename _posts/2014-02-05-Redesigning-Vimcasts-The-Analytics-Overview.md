@@ -83,13 +83,13 @@ Our first iteration of the homepage. [Onwards!][optimise your homepage]
 [Get in touch][email]! Or you can find out more about [how content strategy can help your business][content strategy section]. 
 
 
-[Vimcasts]: http://vimcasts.org/
+[Vimcasts]: https://vimcasts.org/
 [survey]: /blog/2014/01/27/Redesigning-Vimcasts-The_User_Survey.html
 [email]: mailto:hannah.adcock@gmail.com
 [content strategy section]: /#what_is_content_strategy_section
-[remko]: http://el-tramo.be/blog/my-favorite-vim-plugins/
-[Practical Vim]: http://el-tramo.be/blog/my-favorite-vim-plugins/
+[remko]: https://el-tramo.be/blog/my-favorite-vim-plugins/
+[Practical Vim]: https://el-tramo.be/blog/my-favorite-vim-plugins/
 [thoughtbot]: https://learn.thoughtbot.com/products/21-navigating-ruby-files-with-vim
-[undercover]: http://undercoverux.com/
-[fixedfont]: http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/#comment-816613999
+[undercover]: https://undercoverux.com/
+[fixedfont]: https://vimcasts.org/blog/2013/02/habit-breaking-habit-making/#comment-816613999
 [optimise your homepage]: /blog/2014/02/24/Redesigning_Vimcasts_the_Homepage.html

@@ -16,7 +16,7 @@ excerpt: In this post I talk about how you can write the book you've always drea
 
 I don't know about you, but when I read articles about how you can write a book/learn to cook like a celebrity chef/read Game of Thrones, all in two weeks, I want to scream; but don't, obviously, because it might wake the baby. These articles nearly always seem to be written by smug young people with very little in the way of responsibility (and going to the gym and sampling artisan beer don't count). 
 
-I have managed to write a book – an ebook on [content strategy for startups and small businesses](http://contentedstrategy.com/content_strategy_for_startups.html) – but it has taken me about two and a half years. Which is also the time it takes to have two children, work part time, exercise a dog, and move house. 
+I have managed to write a book – an ebook on [content strategy for startups and small businesses](https://contentedstrategy.com/content_strategy_for_startups.html) – but it has taken me about two and a half years. Which is also the time it takes to have two children, work part time, exercise a dog, and move house. 
 
 In this post I talk about how you can write the book you've always dreamed about, even with your many responsibilities, if you just follow a few basic guidelines. I also encourage you to bin unhelpful concepts like multitasking, the superwoman (or superman) complex, and feeling guilty.  
 
