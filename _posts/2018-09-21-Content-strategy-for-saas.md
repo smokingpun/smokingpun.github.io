@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to measure and improve your SaaS content - and why you should bother"
-date:   2018-07-27 
+date:   2018-09-21 
 categories: blog
 metadescription: Learn how content strategy can improve your software as a service business
 excerpt: This is a blog post for SaaS founders who don't really like content but have a niggling feeling it is important and they could do better. Content is important, you can do better, and in this post I will show you how. 
@@ -24,6 +24,62 @@ Just look at the recent discussion around open-source JavaScript web framework E
 >“As we discuss the future of Ember we need to recognize that without learning how to talk about Ember to the rest of the Javascript world, having any future becomes less and less of a guarantee.”
 Chris Freeman
 
+In this post I'll look at:
+
+* How do you tell if your content is working effectively?
+* What makes good content for SaaS products?
+* How much content do you need?
+
+The reading time for the whole article is approximately 20 minutes.
+
+<h2>How do you tell if your content is working effectively?</h2>
+
+I know many developers avoid or dislike content because it doesn’t offer such clear cut results as code (and I can empathise. I’m an amateur coder but at least when I get it right it usually works, which is pretty satisfying).
+
+However, you can be logical about testing and improving your content. Here are two approaches:
+
+<h3>The pain point approach: best when you know something isn't working</h3>
+
+This is a good approach when you know something is blocking growth and are wondering what to do.
+
+1. Start by writing down the pain points in your business based on your key performance indicators (KPIs): poor conversion rate of free to paid users, inadequate traffic, low engagement rate, low order value, high churn rate, and so on. Now at least consider whether you have a content rather than a product problem or superficial PR problem.
+
+2. Dive into your metrics, trawl through your customer support, or reach out via a survey to uncover as much information as possible about this growth blocker. Talk to your fellow business owners or colleagues to see if they have any ideas.
+
+3. Construct a working hypothesis: say you’re getting lots of customer support questions asking what you do + a high exit rate from your homepage + your customer survey shows lots of happy existing customers = potentially you’re doing a poor job communicating at a high level your product to new customers. So you need to improve your homepage not your product. 
+
+4. Then run a test. Change the offending content and see what happens to the relevant KPIs making sure that you don't improve one KPI only to negatively affect a more important one. Aim for a fairly large content change instead of just a tweak here or there, unless you have a lot of traffic. This means your results are more likely to be statistically significant without you having to run them for weeks if not years.
+
+5. If you see positive results it’s likely that your previous content was performing badly and your revised content is definitely better.
+
+For more advice on running tests (including content tests) read <em>Hacking Growth</em> by Sean Ellis and Morgan Brown. 
+
+
+<h3>The content audit approach: best when you want an overall idea of whether your content works</h3>
+
+This approach basically involves giving your content a thorough check-up, like you would your car, to check it is working properly and hasn't any hidden problems. 
+
+This process can be partly automated using various tools like the [Content Analysis Tool](http://www.content-insight.com/), but does involve a degree of legwork as you go through your content and grade it based on qualities such as whether it supports your current business direction, is up-to-date, actionable, and so on. You’d also collect metrics on each page so you build an effective picture of how your content is performing. 
+
+Your aim is to identify weak content that can be archived and revised, good content that can be imitated and content gaps that can be filled. 
+
+Although time consuming, a content MOT gives you some great insights into how your content is performing. Otherwise it’s easy to think your content is okay because it’s familiar. Or you just forget half the stuff you have on your site, even when it becomes outdated and is really off-putting to anyone who land on it.
+
+Content audits need to be shaped to suit your business goals. However, here are a few tips:
+
+* If you are pushed for time audit only some of your site (making sure you include content a few layers down)
+* Use a crawling tool like [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to identify all/most of your URLs, or use the Content Analysis Tool (CAT)
+* Use a content audit template [like this one](http://www.contentstrategyinc.com/content-audit-framework-and-template/) as a base if you feel a bit overwhelmed
+* Consider dividing your content into categories that have different analytic criteria: homepage, brochure pages, support content, blog content, onboarding content, and so on
+* Collect data such as page views and conversion information, as well as information that requires you to make a judgement such as 'overall page quality,' 'content findability,' 'visibility of next action,' and so on
+
+![](/images/content-audit.png)
+
+<em>Your content audit should be customised to suit your business – and different types of content might need to be evaluated using different criteria</em>
+
+If you are running an early stage startup, you should also consider doing a competitor audit, particularly if you don't have much content of your own. A competitor audit means you rank your competitor's content so that you discover their content strengths and weaknesses. Most importantly, you learn how you can differentiate yourself. 
+
+Once you have a good idea of the strengths and weaknesses of your existing content, you can move on to content creation and editing.
 
 
 <h2>What makes good content for SaaS products?</h2>
@@ -43,16 +99,9 @@ Unless you have an amazing degree of empathy, you've probably forgotten what it'
 
 You need to get in touch with people who are in pain and in search of a solution. Found out what they think and need. 
 
-Which brings us to point number 2. 
+Even if you really know some of your customers – particularly those that have been with you since the beginning – you need to be strategic about this knowledge, and then build on what you have.
 
-
-<h3> 2. Unleash your customer knowledge</h3>
-
-I bet you actually really know your customers. Some were probably customers #1 and #2 and have been with you since the beginning. They've told you what they like about your product, what they don't, and how you should improve it (you might even have listened). 
-
-However, to extract real value from this customer information you need to get a bit more logical and strategic about your customer research. Don't just keep it rattling around your head like money in a piggy bank. Spend it on improving your content.
-
-Then get more information. And a bit more, for good measure. You can do this in various ways including:
+You can do this in a number of ways:
 
 
 <h4>Send out a survey</h4> 
@@ -105,7 +154,7 @@ It is also a great way of showing you who is using your product, whether they ge
 Go raid your support section, looking for valuable insights into:
 
 * Who is using your product (those that pay; those that don't and probably never will)
-* Whether your content is failing to answer the questions of potential customers (do far too many people write to support basically asking what you do)
+* Whether your content is failing to answer the questions of potential customers (do far too many people write to support basically asking what you do?)
 * Whether people are using your product in ways you didn't anticipate but are actually quite interesting
 
 
@@ -125,39 +174,73 @@ Then use this language to grab their attention through your content.
 <em>See what people are saying about your competitors (I was looking at personal safety apps)</em>
 
 
+If you've succeeded with any of this user research, it's likely you have a fantastic amount of useful information just waiting to be used. 
+
+Now's the time.
+
+
+<h3> 2. Unleash your customer knowledge</h3>
+
+Don't undertake customer research in a fit of enthusiasm and then leave it to moulder in an unloved file somewhere.
+
+Unleash your customer knowledge. 
+
+Plan to create useful, specific content based on your research. For example, you could create case studies, which can be particularly valuable if you are early stage and need to work hard to show how and why people use your product. 
+
+![](/images/feature-upvote-case-study.png)
+
+<em>This is an extract from a case study by [Feature Upvote](https://featureupvote.com/). It shows how one of their power users gets real value from their product.</em>
+
+You can also pull out quotations and images from these case studies to strengthen other marketing and sales content.
+
+Plan to create infographics if you spot trends or have statistics that work well in a visual format (graphic tool websites like [Canva](https://www.canva.com/) mean you can create your own).
+
+Or compile in-depth reports, PDF downloads, email sequences, or blog posts, sales brochures, or other content marketing that is valuable to your audience.
+
+However, don't just confine your content efforts to obvious channels like case studies and content marketing. 
+
+**All your content should be informed by detailed and specific customer research** including your landing pages, your customer support section, your onboarding and your checkout process, including microcopy.
+
+Take a step back and reassess how your content works as a whole to persuade your targeted customers to buy (or sign up or download or whatever you want them to do).
+
+Does all you content tell a good story?
+
+Does it have what it takes to persuade sceptical and savvy people to say: "I need this product now!"
+
+
 <h3>3. Tell a good story about your product</h3>
 
-Once you really feel like you know your customers – particularly your most important ones – then you are ready to reassess your content. Which brings us to this point, number 3. Tell a good story. 
+You're probably software developers so I'm guessing you like logic. Things that work. Which may well be why content is high on your 'this is a pain' list and low on your 'things I love doing' list. 
 
-You don't need to be J.K. Rowling or George R.R. Martin to tell a good story about your product. You just need:
+Being creative and creating quality content can't be reduced to an algorithm (as yet, probably never). However, there are frameworks you can use to help you create effective content even if you're not JK Rowling or George R.R. Martin. 
 
-* To know who you are telling the story to 
-* Why your product is a must have 
-* And how to structure a story (um...)
+Here are two frameworks you can use to tell a good story.  
 
-Let's tackle that last bullet point. 
 
-You're probably software developers so I'm guessing you like logic. Things that work. Well, fortunately there are plenty of equations about how to structure your content (particularly your homepage or another landing page) that promise great results.
+<h4>PAS technique</h4>
 
-There is the PAS (Problem → Agitation → Solution) copywriting technique. Where you basically say:
+The PAS copywriting technique stands for Problem → Agitation → Solution.
 
 > hi there person with a problem. You're not feeling great are you? Wouldn't life be better if that wasn't happening and you didn't have to waste time thinking about this? And this? Well, you don't have to worry about all that crap anymore. Our product does this. And improves your life in all these amazing ways. All these people trust it. You should too. Let's go my friend. Just do this. 
 
-I know this technique can be effective, but personally I don't like content that is too negative or that slams competitors and their terrible solutions.
+This technique can be really effective, although personally I don't like content that is too negative or that slams competitors.
 
 I think the former can just take people into a dark and aggravated place that makes them critical of your product – or just plain cross. The latter can simply make people sceptical and give your brand a 'nasty' flavour that isn't helpful. 
 
-If you use PAS (and I sometimes do) I prefer not to let readers wallow in pain. I either show the problem in a fairly factual way or address the problem more emotively but then quickly show what my product does and why it would benefit them. 
+If you use PAS (and I sometimes do) I prefer not to let readers wallow in pain. I either show the problem in a fairly factual way or address the problem emotively but then quickly show what my product does and why it would benefit them. 
 
-For example, I recently suggested a section header for a personal safety app: 'Stay safe. Be confident.'
+For example, if I was creating a SaaS meal planning product for people with special dietary requirements I would say something like:
 
-I could easily have agitated their problem a bit more emotively: 'Worried about your safety at night? Want help quickly when you feel threatened? Download our safety app.' 
+Problem: Fed up with spending hours browsing the internet for suitable recipes? And calories counting to make sure recipes suit your dietary requirements? 
 
-In my view though, this kind of emotive copy would have been pretty irresponsible if it made people scared and even afraid to go out at night.
+Agitate: You want to eat healthily/lose weight but meal planning is so time consuming and you often fall back on the same old recipes or junk 'free from' food?
 
-I'm also not convinced it would have led to more downloads: giving people confidence, a positive quality, is as important as touching on people's fear when it comes to safety apps (having done some research).
+Solution: We provide a personalised meal plan just for you, every day, so you can always eat healthily – and reclaim your time. We even suggest tasty options if you're eating out, so you're free to eat wherever and whenever you want. 
 
-A more positive method is the FAB copywriting technique (features - advantages – benefits), which helps you communicate benefits rather than just listing features. 
+
+<h4>FAB technique</h4>
+
+The FAB copywriting technique  stands for features - advantages – benefits, which reminds you to communicate benefits rather than just listing features. 
 
 <iframe width="700" height="318" src="https://www.youtube.com/embed/mE_bDNaYAr8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -165,7 +248,14 @@ A more positive method is the FAB copywriting technique (features - advantages �
 
 For more on these techniques have a look at [this blog article by Copy Write Matters](https://copywritematters.com/pas-classic-copywriting-formula/) or this one by [Enchanting Marketing](https://www.enchantingmarketing.com/copywriting-formulas/).
 
-A word of caution about these techniques though: never lose track of the fact that you should be answering key customer questions such as:
+Both approaches can help you make sure all your content is helping to answer that key question: why buy (or switch) now?
+
+
+<h4>A word of caution</h4>
+
+A storytelling approach to content is great but not if you get carried away and start rambling. Give your customers the information they specifically need when they need it.
+
+Never lose track of the fact that you should be answering key customer questions such as:
 
 * What do you do?
 * How do you do what you say you do?
@@ -174,13 +264,27 @@ A word of caution about these techniques though: never lose track of the fact th
 * How will you make my life better?
 * Say I trust you a bit – what now?
 
-A storytelling approach to content can be useful but not if you get carried away and start rambling. Give your customers the information they specifically need when they need it.
 
-<h4>How much content do you need?</h4>
+<h4>Keep a note of what content converted you</h4>
 
-If your product doesn't cost much you can tell a short story – over a page or so – and probably still convert very well. Particularly if you offer a free trial so people don't need to give you money up front.
+Try and keep track of what it was that made you buy a product or service.
 
-However, if your product costs a lot you need to tell a more complex story over quite a lot of content, with room for diversions when your more cautious or less informed customers need more information. 
+Did the content hit a nerve? How did it do this? 
+
+Did you have a go with the product and quickly find value, meaning you were happy to pay up?
+
+Even if you didn't end up buying something (because you really didn't need it), you can add content to your scrapbook that you think is doing a great job. 
+
+Then when you need to create or revise your own content, you'll have some best practice examples to inspire you. 
+
+I use [Evernote](https://evernote.com/) to collect content that has impressed me.
+
+
+<h2>How much content do you need?</h2>
+
+If your product doesn't cost much you can tell a short story – over a page or so – and probably still convert well, particularly if you offer a free trial so people don't need to give you money up front.
+
+However, if your product costs a lot you need to tell a more complex story over a lot of content, with room for diversions when your cautious or less informed customers need more information. 
 
 ![](/images/pure-latitude.png)
 
@@ -194,19 +298,19 @@ Once they'd explored a lot of content.
 
 And I mean a lot.
 
-Which brings us to point 4.
+Which brings us to the next point:
 
 
 
-<h2>4. Your content isn't just your homepage</h2>
+<h3>4. Your content isn't just your homepage</h3>
 
-Even if you have brilliant content on your homepage, or even on a few marketing pages, your work isn't done. 
+Even if you have brilliant content on your homepage, or even on a few landing pages, your work isn't done. 
 
 Far from it. 
 
 There is nothing more reckless than to spend sweat and tears getting people to your website only to lose them at the onboarding stage, or a few months down the line, or to fail to upsell them when you really should.
 
-What you need to do, after getting people to take an initial action – such as signing up for a free trial or creating something for free – is to show them very quickly why your product is a must have. And for this you need great content.
+What you need to do, after getting people to take an initial action – such as signing up for a free trial or creating something for free – is to show them very quickly why your product is a must have. And for this you need great onboarding content.
 
 You may know exactly how to use your product so it sings, but unless you communicate this effectively to strangers then you’ll struggle to convert trial users or curious customers to paying customers.
 
@@ -253,63 +357,10 @@ Good content techniques for customer retention include:
 * Excellent help articles (to help people get the most from your product)
 
 
-<h2>How do we best tell if our content is working effectively?</h2>
-
-I know many developers avoid or dislike content because it doesn’t offer such clear cut results as code (and I can empathise. I’m an amateur coder but at least when I get it right it usually works, which is pretty satisfying).
-
-However, you can be logical about testing and improving your content. Here are two approaches:
-
-<h3>The pain point approach: best when you know something isn't working</h3>
-
-This is a good approach when you know something is blocking growth and are wondering what to do.
-
-1. Start by writing down the pain points in your business based on your key performance indicators (KPIs): poor conversion rate of free to paid users, inadequate traffic, low engagement rate, low order value, high churn rate, and so on. Now at least consider whether you have a content rather than a product problem or superficial PR problem.
-
-2. Dive into your metrics, trawl through your customer support, or reach out via a survey to uncover as much information as possible about this growth blocker. Talk to your fellow business owners or colleagues to see if they have any ideas.
-
-3. Construct a working hypothesis: say you’re getting lots of customer support questions asking what you do + a high exit rate from your homepage + your customer survey shows lots of happy existing customers = potentially you’re doing a poor job communicating at a high level your product to new customers. So you need to improve your homepage not your product. 
-
-4. Then run a test. Change the offending content and see what happens to the relevant KPIs making sure that you don't improve one KPI only to negatively affect a more important one. Aim for a fairly large content change instead of just a tweak here or there, unless you have a lot of traffic. This means your results are more likely to be statistically significant without you having to run them for weeks if not years.
-
-5. If you see positive results it’s likely that your previous content was performing badly and your revised content is definitely better.
-
-For more advice on running tests (including content tests) read <em>Hacking Growth</em> by Sean Ellis and Morgan Brown. 
-
-
-<h3>The content audit approach: best when you want an overall idea of whether your content works</h3>
-
-This approach basically involves giving your content a thorough check-up, like you would your car, to check it is working properly and hasn't any hidden problems. 
-
-This process can be partly automated using various tools like the [Content Analysis Tool](http://www.content-insight.com/), but does involve a degree of legwork as you go through your content and grade it based on qualities such as whether it supports your current business direction, up-to-date, actionable, and so on. You’d also collect metrics on each page so you build an effective picture of how your content is performing. 
-
-Your aim is to identify weak content that can be archived and revised, good content that can be imitated and content gaps that can be filled. 
-
-Although time consuming, a content MOT gives you some great insights into how your content is performing. Otherwise it’s easy to think your content is okay because it’s familiar. Or you just forget half the stuff you have on your site, even when it becomes outdated and is really off-putting to users who land on it.
-
-Content audits need to be shaped to suit your business goals. However, here are a few tips:
-
-* If you are pushed for time audit only some of your site (making sure you include content a few layers down)
-* Use a crawling tool like [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to identify all/most of your URLs, or use the Content Analysis Tool (CAT)
-* Use a content audit template [like this one](http://www.contentstrategyinc.com/content-audit-framework-and-template/) as a base if you feel a bit overwhelmed
-* Consider dividing your content into categories that have different analytic criteria: homepage, brochure pages, support content, blog content, onboarding content, and so on
-* Collect data such as page views and conversion information, as well as information that requires you to make a judgement such as 'overall page quality,' 'content findability,' 'visibility of next action,' and so on
-
-![](/images/content-audit.png)
-
-<em>Your content audit should be customised to suit your business – and different types of content might need to be evaluated using different criteria</em>
-
-A content audit works particularly well if you also have qualitative information about your customers that can support (or challenge) your findings. 
-
-I recently worked with a company that had already sent out a survey to existing customers. On my advice, they also ran some corridor tests with potential customers on their existing website. All this this information, taken together, was invaluable and helped shape my recommendations.
-
-If you are running an early stage startup, you should also consider doing a competitor audit as well, particularly if you don't have much content of your own. A competitor audit means you rank your competitor's content so that you discover their content strengths and weaknesses. 
-
-Most importantly, you learn how you can differentiate yourself. 
-
 
 <h2>What now?</h2>
 
-If your sneaking suspicion that your content is underperforming has matured to alarm bells and a nagging feeling of 'I must do something' then this next sentence is for you. 
+If your sneaking suspicion that your content is underperforming has matured to alarm bells then this next sentence is for you. 
 
 > It's time to actually do something about your content. Now. 
 
