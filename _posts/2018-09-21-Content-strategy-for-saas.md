@@ -30,7 +30,7 @@ In this post I'll look at:
 * What makes good content for SaaS products?
 * How much content do you need?
 
-The reading time for the whole article is approximately 20 minutes.
+The reading time for the whole article is approximately 15 minutes.
 
 <h2>How do you tell if your content is working effectively?</h2>
 
