@@ -302,7 +302,7 @@ Which brings us to the next point:
 
 
 
-<h3>4. Your content isn't just your homepage</h3>
+<h3>Your content isn't just your homepage</h3>
 
 Even if you have brilliant content on your homepage, or even on a few landing pages, your work isn't done. 
 
