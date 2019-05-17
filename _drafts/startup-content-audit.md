@@ -3,9 +3,11 @@ layout: post
 title:  "Is your content any good? Find out with a content audit"
 date:   2019-05-17 
 categories: blog
-metadescription: 
-
+metadescription: The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing.
+excerpt: The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing. 
 ---
+
+# Is your content any good? Find out with a content audit
 
 The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing. 
 
