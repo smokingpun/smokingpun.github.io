@@ -13,19 +13,19 @@ The first job I always do for a new client is a content audit. This is the best 
 
 You have limited time and money. Spend it on content improvements that will get you the best return for the least amount of work. 
 
-In this post I'll talk you through the basics of a content audit for a startup, growth stage or SME company. 
+In this post I'll talk you through the basics of a content audit for a startup, SME or growth-stage company. 
 
 
 ## Audit all your content
 
-Yes, marketing content is super important because it drives customer acquisition. However, targeted, relevant and helpful content helps you increase revenue at ALL stages of the growth funnel. It helps you with conversion, retention, referral and revenue.
+Marketing content is super important because it drives customer acquisition. However, relevant and helpful content helps you increase revenue at ALL stages of the growth funnel. It helps you with conversion, retention, referral and revenue.
 
 So try and audit all your content, not just your marketing content. Look at your: 
 
 * website content (including translated content)
 * onboarding content 
 * SEO content
-* marketing content (blogs, videos, podcasts, automated emails campaigns)
+* marketing content (blogs, videos, podcasts, emails campaigns)
 * support documents
 * internal team documentation
 
@@ -36,9 +36,9 @@ Either link to your key performance indicators or cut and paste results for the 
 
 KPIs give the best high-level overview of how your company is doing and identifies potential areas of weakness (high churn, poor conversion of trial to paid, etc.). 
 
-We'll use the content audit to identify content improvements that will improve your KPIs. 
+Your content audit should identify actions that will improve your KPIs. 
 
-I also like to note down answers to these questions:
+At the top of your content audit, I also like to answer these questions:
 
 * What is your main growth channel at the moment?
 * What do you think the main problem is with your content?
@@ -53,7 +53,7 @@ If a page isn't getting much traffic due to an architecture issue then it's hard
 
 With more traffic could it perform better and form an important part of your sales funnel?
 
-So I like to measure basic quantitative metrics to give me a rough idea of
+So I like to measure basic quantitative metrics to give me an idea of
 the effectiveness of your content.
 
 For your website, marketing, SEO content and support documents this might include:
@@ -61,13 +61,15 @@ For your website, marketing, SEO content and support documents this might includ
 * page title and url
 * word count
 * date published/revised
-* average time on page (over 3 months and averaged)
-* average page visits (over 3 months and averaged)
-* exit rate (over 3 months and averaged)
+* average time on page 
+* average page visits 
+* exit rate 
 * content format
 * keywords and ranking (SEO content only)
-* sign ups from page (over 3 months and averaged)
-* assisted signups from page (over 3 months and averaged)
+* sign ups from page 
+* assisted signups from page 
+
+![screenshot of a content audit showing quantitative data](/images/content-audit-quantitative.png)
 
 For onboarding content this might include:
 
@@ -104,13 +106,17 @@ For many of these categories you can use a simple scoring system of 1-5, with 5 
 
 Choose the categories that are most relevant. Findability might not be relevant for newsletters and email campaigns. Actionability is super important for onboarding content. 
 
-## Add 'recommended actions', 'ease of implementation' and 'impact of change'
+![screenshot of a content audit showing quantitative data](/images/content-audit-qualitative.png)
+
+## Add 'recommended actions'
 
 I use a 'recommended actions' category to note down some quick thoughts about what I'd change and why. This category also stops me prevaricating too much about the scoring, because I can always explain my decisions here.
 
 I also like to give a rough idea of how easy a change should be to implement and what impact it might have. This is particularly important if you have a North Star metric you want to move. 
 
-You won't implement all your suggestions, but these three columns you a useful place to start.
+You won't implement all your suggestions, but these three columns give you a useful place to start.
+
+![screenshot of a content audit showing quantitative data](/images/content-audit-recommendations.png)
 
 
 ## Draw your conclusions
@@ -128,14 +134,23 @@ Choose the easiest and most powerful changes to implement first. A few quick win
 
 Make sure you immediately schedule content changes in Jira, Notion, Trello or whatever project management tool you use. Don't let them moulder in an excel file as you work on yet another new feature. 
 
-Also, work out who needs to be involved in your content changes. Do you need a developer, designer and subject expert to successfully push through a content idea? (often yes, in my experience).
+Also, work out who needs to be involved in your content changes. Do you need a developer, designer and subject expert to successfully push through a content idea? (often yes, in my experience). If so, make sure everyone has time to help. 
+
+![screenshot of a content audit showing quantitative data](/images/content-audit-trello.png)
+
 
 
 ## What next?
 
-Once you've implemented key content changes from your content audit, see what impact they've had on your KPIs. Hopefully you'll see a definite improvement – congratulations!
+You now have a clear content roadmap that should nudge your key metrics in the right direction. 
 
-If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com.
+Once you've implemented changes from your content audit, check what impact they've had on your KPIs. Hopefully you'll see a definite improvement – congratulations! If you don't see the improvements you'd hoped for then try and work out why. Then move on. 
+
+Pay attention to content changes that work particularly well. Make a note of those that don't. This way you can update your content roadmap to make sure you're implementing the most relevant actions for your business. 
+
+If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. 
+
+My day rate is £325 for startups and SMEs and £350 for enterprise companies. 
 
 
 

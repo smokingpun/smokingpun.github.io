@@ -501,7 +501,9 @@ ul.posts li {
   padding-bottom: 40px;
 }
 
-
+.post h1 {
+  padding-bottom: 20px;
+}
 
 .post h3 {
   padding-top: 26px;
