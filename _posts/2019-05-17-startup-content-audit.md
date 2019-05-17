@@ -3,8 +3,8 @@ layout: post
 title:  "Is your content any good? Find out with a content audit"
 date:   2019-05-17 
 categories: blog
-metadescription: The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing.
-excerpt: The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing. 
+metadescription: In this post I talk you through how to do a content audit for a startup, SME or growth-stage company. This audit will only take 1-2 days. 
+excerpt: The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing. You have limited time and money. Spend it on content improvements that will get you the best return for the least amount of work. In this post I'll talk you through the basics of a content audit for a startup, SME or growth-stage company.
 ---
 
 # Is your content any good? Find out with a content audit
