@@ -244,6 +244,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (>= 3.8.5)
+  jekyll-paginate
   kramdown
 
 BUNDLED WITH

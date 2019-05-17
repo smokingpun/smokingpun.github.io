@@ -17,3 +17,4 @@ redcarpet:
   with_toc_data: true
 sass:
   sass_dir: _vendor/foundation/scss/
+plugins: [jekyll-paginate]
