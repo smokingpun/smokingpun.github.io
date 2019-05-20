@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is your content any good? Find out with a content audit"
+title:  "How good is your content? Find out with a content audit"
 date:   2019-05-17 
 categories: blog
 metadescription: In this post I talk you through how to do a content audit for a startup, SME or growth-stage company. This audit will only take 1-2 days. 
@@ -32,9 +32,11 @@ So try and audit all your content, not just your marketing content. Look at your
 
 ## Note down your key performance indicators (KPIs)
 
-Either link to your key performance indicators or cut and paste results for the last 6 months directly into your content audit document. 
+Either link to your [key performance indicators](https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator) or cut and paste results for the last 6 months directly into your content audit document. 
 
-KPIs give the best high-level overview of how your company is doing and identifies potential areas of weakness (high churn, poor conversion of trial to paid, etc.). 
+KPIs are important values that you can measure to see how well your business is doing. They could include paying customers, actual or monthly recurring revenue, organic search traffic, and customer lifetime value.
+
+KPIs give the best high-level overview of how your company is doing and identify potential areas of weakness (high churn, poor conversion of trial to paid, etc.). 
 
 Your content audit should identify actions that will improve your KPIs. 
 
@@ -112,7 +114,7 @@ Choose the categories that are most relevant. Findability might not be relevant 
 
 I use a 'recommended actions' category to note down some quick thoughts about what I'd change and why. This category also stops me prevaricating too much about the scoring, because I can always explain my decisions here.
 
-I also like to give a rough idea of how easy a change should be to implement and what impact it might have. This is particularly important if you have a North Star metric you want to move. 
+I also like to give a rough idea of how easy a change should be to implement and what impact it might have. This is particularly important if you have a specific business goal in mind (like reduce customer churn from 8% to 4%). 
 
 You won't implement all your suggestions, but these three columns give you a useful place to start.
 
@@ -150,7 +152,7 @@ Pay attention to content changes that work particularly well. Make a note of tho
 
 If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. 
 
-My day rate is £325 for startups and SMEs and £350 for enterprise companies. 
+My day rate is £325 for startups and SMEs and £525 for enterprise companies. 
 
 
 
