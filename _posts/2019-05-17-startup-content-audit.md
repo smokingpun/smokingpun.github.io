@@ -134,7 +134,7 @@ If you've secured investment and need to double in size by tomorrow then your co
 
 Choose the easiest and most powerful changes to implement first. A few quick wins will give you the necessary enthusiasm to keep going!
 
-Make sure you immediately schedule content changes in Jira, Notion, Trello or whatever project management tool you use. Don't let them moulder in an excel file as you work on yet another new feature. 
+Make sure you immediately schedule content changes in whatever project management tool you use. Don't let them moulder in an excel file as you work on yet another new feature. 
 
 Also, work out who needs to be involved in your content changes. Do you need a developer, designer and subject expert to successfully push through a content idea? (often yes, in my experience). If so, make sure everyone has time to help. 
 
@@ -150,11 +150,7 @@ Once you've implemented changes from your content audit, check what impact they'
 
 Pay attention to content changes that work particularly well. Make a note of those that don't. This way you can update your content roadmap to make sure you're implementing the most relevant actions for your business. 
 
-If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. 
-
-My day rate is £325 for startups and SMEs and £525 for enterprise companies. 
-
-
+**If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. My day rate is £325 for startups and SMEs and £525 for enterprise companies.** 
 
 
 
