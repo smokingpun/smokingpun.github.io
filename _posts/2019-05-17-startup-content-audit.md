@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "How good is your content? Find out with a content audit"
-date:   2019-05-17 
+title: "How good is your content? Find out with a content audit"
+date: 2019-05-17 
 categories: blog
 metadescription: In this post I talk you through how to do a content audit for a startup, SME or growth-stage company. This audit will only take 1-2 days. 
 excerpt: The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing. You have limited time and money. Spend it on content improvements that will get you the best return for the least amount of work. 
 ---
 
-# Is your content any good? Find out with a content audit
+# How good is your content? Find out with a content audit
 
 The first job I always do for a new client is a content audit. This is the best way to quickly find out how your existing content is performing. 
 
@@ -32,7 +32,7 @@ So try and audit all your content, not just your marketing content. Look at your
 
 ## Note down your key performance indicators (KPIs)
 
-Either link to your [key performance indicators](https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator) or cut and paste results for the last 6 months directly into your content audit document. 
+Either link to your [key performance indicators](https://www.klipfolio.com/resources/articles/what-is-a-key-performance-indicator) or cut and paste results for the last 6 months directly into your content audit. 
 
 KPIs are important values that you can measure to see how well your business is doing. They could include paying customers, actual or monthly recurring revenue, organic search traffic, and customer lifetime value.
 
@@ -109,7 +109,7 @@ For many of these categories you can use a simple scoring system of 1-5, with 5 
 
 Choose the categories that are most relevant. Findability might not be relevant for newsletters and email campaigns. Actionability is super important for onboarding content. 
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-qualitative.jpg)
+![screenshot of a content audit showing quantitative data](/images/content-audit-qualitative.jpg){:srcset="/images/content-audit-qualitative.jpg 1x, /images/content-audit-qualitative@2x.jpg 2x"}
 
 ## Add 'recommended actions'
 
@@ -119,7 +119,7 @@ I also like to give a rough idea of how easy a change should be to implement and
 
 You won't implement all your suggestions, but these three columns give you a useful place to start.
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-recommendations.jpg)
+![screenshot of a content audit showing quantitative data](/images/content-audit-recommendations.jpg){:srcset="/images/content-audit-recommendations.jpg 1x, /images/content-audit-recommendations@2x.jpg 2x"}
 
 
 ## Draw your conclusions
@@ -139,7 +139,7 @@ Make sure you immediately schedule content changes in whatever project managemen
 
 Also, work out who needs to be involved in your content changes. Do you need a developer, designer and subject expert to successfully push through a content idea? (often yes, in my experience). If so, make sure everyone has time to help. 
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-trello.jpg)
+![screenshot of a content audit showing quantitative data](/images/content-audit-trello.jpg){:srcset="/images/content-audit-trello.jpg 1x, /images/content-audit-trello@2x.jpg 2x"}
 
 
 
@@ -149,7 +149,7 @@ You now have a clear content roadmap that should nudge your key metrics in the r
 
 Once you've implemented changes from your content audit, check what impact they've had on your KPIs. Hopefully you'll see a definite improvement – congratulations! If you don't see the improvements you'd hoped for then try and work out why. Then move on. 
 
-Pay attention to content changes that work particularly well. Make a note of those that don't. This way you can update your content roadmap to make sure you're implementing the most relevant actions for your business. 
+Pay attention to content changes that work particularly well. Make a note of those that don't. This way you can update your roadmap to make sure you're implementing the most important content changes for your business. 
 
 **If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. My day rate is £325 for startups and SMEs and £525 for enterprise companies.** 
 
