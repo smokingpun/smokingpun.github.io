@@ -71,7 +71,8 @@ For your website, marketing, SEO content and support documents this might includ
 * sign ups from page 
 * assisted signups from page 
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-quantitative.png)
+![screenshot of a content audit showing quantitative data](/images/content-audit-quantitative.jpg){:srcset="/images/content-audit-quantitative.jpg 1x, /images/content-audit-quantitative@2x.jpg 2x"}
+
 
 For onboarding content this might include:
 
@@ -108,7 +109,7 @@ For many of these categories you can use a simple scoring system of 1-5, with 5 
 
 Choose the categories that are most relevant. Findability might not be relevant for newsletters and email campaigns. Actionability is super important for onboarding content. 
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-qualitative.png)
+![screenshot of a content audit showing quantitative data](/images/content-audit-qualitative.jpg)
 
 ## Add 'recommended actions'
 
@@ -118,7 +119,7 @@ I also like to give a rough idea of how easy a change should be to implement and
 
 You won't implement all your suggestions, but these three columns give you a useful place to start.
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-recommendations.png)
+![screenshot of a content audit showing quantitative data](/images/content-audit-recommendations.jpg)
 
 
 ## Draw your conclusions
@@ -138,7 +139,7 @@ Make sure you immediately schedule content changes in whatever project managemen
 
 Also, work out who needs to be involved in your content changes. Do you need a developer, designer and subject expert to successfully push through a content idea? (often yes, in my experience). If so, make sure everyone has time to help. 
 
-![screenshot of a content audit showing quantitative data](/images/content-audit-trello.png)
+![screenshot of a content audit showing quantitative data](/images/content-audit-trello.jpg)
 
 
 
