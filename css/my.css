@@ -227,7 +227,7 @@ h2 span {
   margin-top: 20px;
   padding-top: 35px;
   padding-bottom: 35px;
-  background-color: rgb(201,209,211);
+  background-color: rgb(246,248,254);
 }
 
 
@@ -275,7 +275,7 @@ h2 span {
 
 
 
-#artios, #bcalm {
+#feature-upvote, #bcalm {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: white;
@@ -288,7 +288,7 @@ h2 span {
 }
 
 
-#artios .button {
+#feature-upvote .button {
   margin-top: 2rem;
 }
 
@@ -298,7 +298,7 @@ h2 span {
 
 @media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
-#artios .button {
+#feature-upvote .button {
   margin-top: 2.5rem;
 }
 }
@@ -382,7 +382,7 @@ color: rgb(201,209,211);
 
 
 
-#artios, #sendowl, #blog_section, #free-content-strategy-guide  {
+#feature-upvote, #sendowl, #blog_section, #free-content-strategy-guide  {
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -491,7 +491,7 @@ img.champagne, img.Xoomworks-logo, img.vimcasts {
 
 @media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
 
-img.vimcasts, img.Artios-logo, img.bcalm {
+img.vimcasts, img.feature-upvote-logo, img.bcalm {
   padding-left: 2rem;
   padding-top: 5rem;
   padding-bottom: 1rem;
@@ -509,7 +509,7 @@ img.Xoomworks-logo {
 
 @media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
-img.vimcasts, img.Xoomworks-logo, img.Artios-logo {
+img.vimcasts, img.Xoomworks-logo, img.feature-upvote-logo {
   padding-top: 20px;
 }
 
@@ -631,10 +631,23 @@ ul.posts li {
   margin-bottom: 30px;
 }
 
+@media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
-#what-is-content-strategy {
-  margin-top: 2.5em;
+#why-you-need-content-strategy {
+  margin-bottom: 4rem;
+
 }
+}
+
+
+@media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
+
+#why-you-need-content-strategy {
+  margin-bottom: 6rem;
+
+}
+}
+
 
 #what-is-content-strategy h3 {
   margin-bottom: 0.8em;
