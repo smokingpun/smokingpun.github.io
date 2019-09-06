@@ -65,7 +65,7 @@ h2 span {
 
 @media only screen and (max-width: 40em) {  /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
-#lets-go h1, h2 {
+#lets-go h1, #lets-go h2 {
   margin-left: 0.5rem;
   margin-top: 0.5rem;
 }
@@ -74,7 +74,7 @@ h2 span {
 
 @media only screen and (min-width: 40.063em) {  /* min-width 641px, medium screens */
 
-#lets-go h1, h2 {
+#lets-go h1, #lets-go h2 {
   margin-left: 4rem;
   margin-top: 0.5rem;
 
@@ -83,7 +83,7 @@ h2 span {
 
 @media only screen and (min-width: 64.063em) { /* min-width 1025px and max-width 1440px, use when QAing large screen-only issues */
 
-#lets-go h1, h2 {
+#lets-go h1, #lets-go h2 {
   margin-left: 14rem;
 
 }
