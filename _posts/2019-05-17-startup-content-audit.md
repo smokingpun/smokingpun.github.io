@@ -151,7 +151,7 @@ Once you've implemented changes from your content audit, check what impact they'
 
 Pay attention to content changes that work particularly well. Make a note of those that don't. This way you can update your roadmap to make sure you're implementing the most important content changes for your business. 
 
-**If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. My day rate is £325 for startups and SMEs and £525 for enterprise companies.** 
+**If you'd like help with your content audit please get in touch: hannah@contentedstrategy.com. My day rate is £345 for startups and SMEs and £525 for enterprise companies.** 
 
 
 
